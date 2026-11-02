@@ -1,0 +1,2032 @@
+{
+ "w01-001": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "near"
+ },
+ "w01-003": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-004": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-005": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-006": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-007": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "near"
+ },
+ "w01-008": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-009": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-010": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-011": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-012": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-013": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-014": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "near"
+ },
+ "w01-015": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-016": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-017": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-018": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-019": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-020": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-021": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-022": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-023": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-024": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-025": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-026": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-027": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-028": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-029": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-030": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-031": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-032": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-033": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-034": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-035": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-036": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-037": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-038": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-039": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-040": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-041": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-042": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-043": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-044": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-045": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-046": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-047": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-048": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-049": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-050": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-051": {
+  "iso": "ar",
+  "en": "Argentina",
+  "zh": "阿根廷",
+  "basis": "polygon"
+ },
+ "w01-052": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-053": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-054": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-055": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-056": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-057": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-058": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-059": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-060": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-061": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-062": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-063": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-064": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-065": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-066": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-067": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-068": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-069": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-070": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-071": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-072": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-073": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-074": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-075": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-076": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-077": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-078": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "polygon"
+ },
+ "w01-079": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "near"
+ },
+ "w01-080": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-081": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-082": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-083": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-084": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-085": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-086": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-087": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-088": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-089": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-090": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-091": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-092": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-093": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-094": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-095": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-096": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-097": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-098": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-099": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-100": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-101": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-102": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-103": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-104": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-105": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-106": {
+  "iso": "pe",
+  "en": "Peru",
+  "zh": "秘魯",
+  "basis": "polygon"
+ },
+ "w01-107": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-108": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-109": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-110": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-111": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-112": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-113": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-114": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-115": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-116": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-117": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-118": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-119": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-120": {
+  "iso": "ec",
+  "en": "Ecuador",
+  "zh": "厄瓜多",
+  "basis": "polygon"
+ },
+ "w01-121": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-122": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-123": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-124": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-125": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-126": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-127": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-128": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-129": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-130": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-131": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-132": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-133": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-134": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-135": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-136": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-137": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-138": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-139": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-140": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-141": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-142": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-143": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-144": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-145": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-146": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-147": {
+  "iso": "co",
+  "en": "Colombia",
+  "zh": "哥倫比亞",
+  "basis": "polygon"
+ },
+ "w01-148": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-149": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-150": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-151": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-152": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-153": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "near"
+ },
+ "w01-154": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-155": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-156": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-157": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-158": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-159": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-160": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "near"
+ },
+ "w01-161": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-162": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-163": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-164": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w01-165": {
+  "iso": "pa",
+  "en": "Panama",
+  "zh": "巴拿馬",
+  "basis": "polygon"
+ },
+ "w02-005": {
+  "iso": "cr",
+  "en": "Costa Rica",
+  "zh": "哥斯大黎加",
+  "basis": "polygon"
+ },
+ "w02-006": {
+  "iso": "ni",
+  "en": "Nicaragua",
+  "zh": "尼加拉瓜",
+  "basis": "polygon"
+ },
+ "w02-007": {
+  "iso": "ni",
+  "en": "Nicaragua",
+  "zh": "尼加拉瓜",
+  "basis": "polygon"
+ },
+ "w02-008": {
+  "iso": "ni",
+  "en": "Nicaragua",
+  "zh": "尼加拉瓜",
+  "basis": "polygon"
+ },
+ "w02-009": {
+  "iso": "hn",
+  "en": "Honduras",
+  "zh": "宏都拉斯",
+  "basis": "polygon"
+ },
+ "w02-010": {
+  "iso": "sv",
+  "en": "El Salvador",
+  "zh": "薩爾瓦多",
+  "basis": "polygon"
+ },
+ "w02-011": {
+  "iso": "sv",
+  "en": "El Salvador",
+  "zh": "薩爾瓦多",
+  "basis": "polygon"
+ },
+ "w02-012": {
+  "iso": "sv",
+  "en": "El Salvador",
+  "zh": "薩爾瓦多",
+  "basis": "polygon"
+ },
+ "w02-014": {
+  "iso": "gt",
+  "en": "Guatemala",
+  "zh": "瓜地馬拉",
+  "basis": "polygon"
+ },
+ "w02-015": {
+  "iso": "mx",
+  "en": "Mexico",
+  "zh": "墨西哥",
+  "basis": "polygon"
+ },
+ "w02-016": {
+  "iso": "mx",
+  "en": "Mexico",
+  "zh": "墨西哥",
+  "basis": "polygon"
+ },
+ "w02-017": {
+  "iso": "mx",
+  "en": "Mexico",
+  "zh": "墨西哥",
+  "basis": "polygon"
+ },
+ "w02-018": {
+  "iso": "mx",
+  "en": "Mexico",
+  "zh": "墨西哥",
+  "basis": "polygon"
+ },
+ "w02-019": {
+  "iso": "mx",
+  "en": "Mexico",
+  "zh": "墨西哥",
+  "basis": "polygon"
+ },
+ "w02-020": {
+  "iso": "mx",
+  "en": "Mexico",
+  "zh": "墨西哥",
+  "basis": "polygon"
+ },
+ "w02-021": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-022": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-023": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-024": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-025": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-026": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-027": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-028": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-029": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-030": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-031": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-032": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-033": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-034": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-035": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-036": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-037": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-038": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-039": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-040": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-041": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-042": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-043": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-044": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-045": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-046": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-047": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-048": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-049": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-050": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-051": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-052": {
+  "iso": "ca",
+  "en": "Canada",
+  "zh": "加拿大",
+  "basis": "polygon"
+ },
+ "w02-053": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-054": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-055": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-056": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-057": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-058": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-059": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-060": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-061": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-062": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "near"
+ },
+ "w02-063": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "near"
+ },
+ "w02-064": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "near"
+ },
+ "w02-065": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "near"
+ },
+ "w02-066": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "near"
+ },
+ "w02-067": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-068": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "name"
+ },
+ "w02-069": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "near"
+ },
+ "w02-070": {
+  "iso": null,
+  "basis": "sea"
+ },
+ "w02-071": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-072": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "near"
+ },
+ "w02-073": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w02-074": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "near"
+ },
+ "w02-075": {
+  "iso": null,
+  "basis": "sea"
+ },
+ "w02-076": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "near"
+ },
+ "w02-077": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "name"
+ },
+ "w02-078": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "near"
+ },
+ "w02-079": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "near"
+ },
+ "w02-080": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "near"
+ },
+ "w02-081": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w02-082": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "name"
+ },
+ "w03-001": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "near"
+ },
+ "w03-002": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "near"
+ },
+ "w03-003": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-004": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-005": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-006": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "near"
+ },
+ "w03-008": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-010": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-011": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-013": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-014": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w03-015": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w03-016": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w03-017": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w03-018": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w03-019": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w03-020": {
+  "iso": "us",
+  "en": "United States",
+  "zh": "美國",
+  "basis": "polygon"
+ },
+ "w03-021": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-022": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-024": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-025": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-026": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w03-027": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "polygon"
+ },
+ "w04-002": {
+  "iso": "mn",
+  "en": "Mongolia",
+  "zh": "蒙古",
+  "basis": "polygon"
+ },
+ "w04-008": {
+  "iso": "kz",
+  "en": "Kazakhstan",
+  "zh": "哈薩克",
+  "basis": "polygon"
+ },
+ "w04-010": {
+  "iso": "uz",
+  "en": "Uzbekistan",
+  "zh": "烏茲別克",
+  "basis": "polygon"
+ },
+ "w04-011": {
+  "iso": "uz",
+  "en": "Uzbekistan",
+  "zh": "烏茲別克",
+  "basis": "polygon"
+ },
+ "w04-014": {
+  "iso": "tm",
+  "en": "Turkmenistan",
+  "zh": "土庫曼",
+  "basis": "polygon"
+ },
+ "w04-015": {
+  "iso": "uz",
+  "en": "Uzbekistan",
+  "zh": "烏茲別克",
+  "basis": "polygon"
+ },
+ "w04-016": {
+  "iso": "uz",
+  "en": "Uzbekistan",
+  "zh": "烏茲別克",
+  "basis": "polygon"
+ },
+ "w04-018": {
+  "iso": "kz",
+  "en": "Kazakhstan",
+  "zh": "哈薩克",
+  "basis": "polygon"
+ },
+ "w04-019": {
+  "iso": "kz",
+  "en": "Kazakhstan",
+  "zh": "哈薩克",
+  "basis": "polygon"
+ },
+ "w04-020": {
+  "iso": "kz",
+  "en": "Kazakhstan",
+  "zh": "哈薩克",
+  "basis": "polygon"
+ },
+ "w04-021": {
+  "iso": "az",
+  "en": "Azerbaijan",
+  "zh": "亞塞拜然",
+  "basis": "near"
+ },
+ "w05-001": {
+  "iso": "az",
+  "en": "Azerbaijan",
+  "zh": "亞塞拜然",
+  "basis": "polygon"
+ },
+ "w05-002": {
+  "iso": "ge",
+  "en": "Georgia",
+  "zh": "喬治亞",
+  "basis": "polygon"
+ },
+ "w05-003": {
+  "iso": "ge",
+  "en": "Georgia",
+  "zh": "喬治亞",
+  "basis": "polygon"
+ },
+ "w05-004": {
+  "iso": "tr",
+  "en": "Turkey",
+  "zh": "土耳其",
+  "basis": "polygon"
+ },
+ "w05-005": {
+  "iso": "tr",
+  "en": "Turkey",
+  "zh": "土耳其",
+  "basis": "polygon"
+ },
+ "w05-006": {
+  "iso": "tr",
+  "en": "Turkey",
+  "zh": "土耳其",
+  "basis": "polygon"
+ },
+ "w05-007": {
+  "iso": "tr",
+  "en": "Turkey",
+  "zh": "土耳其",
+  "basis": "polygon"
+ },
+ "w05-008": {
+  "iso": "tr",
+  "en": "Turkey",
+  "zh": "土耳其",
+  "basis": "near"
+ },
+ "w05-009": {
+  "iso": "tr",
+  "en": "Turkey",
+  "zh": "土耳其",
+  "basis": "polygon"
+ },
+ "w05-010": {
+  "iso": "bg",
+  "en": "Bulgaria",
+  "zh": "保加利亞",
+  "basis": "polygon"
+ },
+ "w05-011": {
+  "iso": "bg",
+  "en": "Bulgaria",
+  "zh": "保加利亞",
+  "basis": "polygon"
+ },
+ "w05-012": {
+  "iso": "bg",
+  "en": "Bulgaria",
+  "zh": "保加利亞",
+  "basis": "polygon"
+ },
+ "w05-013": {
+  "iso": "bg",
+  "en": "Bulgaria",
+  "zh": "保加利亞",
+  "basis": "polygon"
+ },
+ "w05-014": {
+  "iso": "bg",
+  "en": "Bulgaria",
+  "zh": "保加利亞",
+  "basis": "polygon"
+ },
+ "w05-015": {
+  "iso": "ro",
+  "en": "Romania",
+  "zh": "羅馬尼亞",
+  "basis": "polygon"
+ },
+ "w05-016": {
+  "iso": "hu",
+  "en": "Hungary",
+  "zh": "匈牙利",
+  "basis": "polygon"
+ },
+ "w05-017": {
+  "iso": "hu",
+  "en": "Hungary",
+  "zh": "匈牙利",
+  "basis": "polygon"
+ },
+ "w05-018": {
+  "iso": "hu",
+  "en": "Hungary",
+  "zh": "匈牙利",
+  "basis": "polygon"
+ },
+ "w05-019": {
+  "iso": "hu",
+  "en": "Hungary",
+  "zh": "匈牙利",
+  "basis": "polygon"
+ },
+ "w05-020": {
+  "iso": "at",
+  "en": "Austria",
+  "zh": "奧地利",
+  "basis": "polygon"
+ },
+ "w05-021": {
+  "iso": "at",
+  "en": "Austria",
+  "zh": "奧地利",
+  "basis": "polygon"
+ },
+ "w05-022": {
+  "iso": "de",
+  "en": "Germany",
+  "zh": "德國",
+  "basis": "polygon"
+ },
+ "w05-023": {
+  "iso": "de",
+  "en": "Germany",
+  "zh": "德國",
+  "basis": "polygon"
+ },
+ "w05-024": {
+  "iso": "de",
+  "en": "Germany",
+  "zh": "德國",
+  "basis": "polygon"
+ },
+ "w05-025": {
+  "iso": "de",
+  "en": "Germany",
+  "zh": "德國",
+  "basis": "polygon"
+ },
+ "w05-026": {
+  "iso": "de",
+  "en": "Germany",
+  "zh": "德國",
+  "basis": "polygon"
+ },
+ "w05-027": {
+  "iso": "be",
+  "en": "Belgium",
+  "zh": "比利時",
+  "basis": "polygon"
+ },
+ "w05-029": {
+  "iso": "be",
+  "en": "Belgium",
+  "zh": "比利時",
+  "basis": "polygon"
+ },
+ "w05-030": {
+  "iso": "be",
+  "en": "Belgium",
+  "zh": "比利時",
+  "basis": "polygon"
+ },
+ "w05-031": {
+  "iso": "be",
+  "en": "Belgium",
+  "zh": "比利時",
+  "basis": "polygon"
+ },
+ "w05-032": {
+  "iso": "fr",
+  "en": "France",
+  "zh": "法國",
+  "basis": "polygon"
+ },
+ "w05-033": {
+  "iso": "fr",
+  "en": "France",
+  "zh": "法國",
+  "basis": "polygon"
+ },
+ "w05-034": {
+  "iso": "gb",
+  "en": "United Kingdom",
+  "zh": "英國",
+  "basis": "polygon"
+ },
+ "w05-035": {
+  "iso": "gb",
+  "en": "United Kingdom",
+  "zh": "英國",
+  "basis": "polygon"
+ },
+ "w05-036": {
+  "iso": "gb",
+  "en": "United Kingdom",
+  "zh": "英國",
+  "basis": "polygon"
+ },
+ "w05-037": {
+  "iso": "gb",
+  "en": "United Kingdom",
+  "zh": "英國",
+  "basis": "near"
+ },
+ "w05-038": {
+  "iso": "gb",
+  "en": "United Kingdom",
+  "zh": "英國",
+  "basis": "polygon"
+ },
+ "w05-039": {
+  "iso": "gb",
+  "en": "United Kingdom",
+  "zh": "英國",
+  "basis": "polygon"
+ },
+ "w01-002": {
+  "iso": "cl",
+  "en": "Chile",
+  "zh": "智利",
+  "basis": "neighbors"
+ },
+ "w02-013": {
+  "iso": "gt",
+  "en": "Guatemala",
+  "zh": "瓜地馬拉",
+  "basis": "name",
+  "also": [
+   {
+    "iso": "mx",
+    "en": "Mexico",
+    "zh": "墨西哥"
+   }
+  ]
+ },
+ "w03-007": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "neighbors"
+ },
+ "w03-009": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "neighbors"
+ },
+ "w03-012": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "name"
+ },
+ "w03-023": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "neighbors"
+ },
+ "w03-028": {
+  "iso": "ru",
+  "en": "Russia",
+  "zh": "俄羅斯",
+  "basis": "name",
+  "also": [
+   {
+    "iso": "mn",
+    "en": "Mongolia",
+    "zh": "蒙古"
+   }
+  ]
+ },
+ "w04-003": {
+  "iso": null,
+  "basis": "unknown"
+ },
+ "w04-004": {
+  "iso": "mn",
+  "en": "Mongolia",
+  "zh": "蒙古",
+  "basis": "name"
+ },
+ "w04-005": {
+  "iso": "mn",
+  "en": "Mongolia",
+  "zh": "蒙古",
+  "basis": "name",
+  "also": [
+   {
+    "iso": "cn",
+    "en": "China",
+    "zh": "中國"
+   }
+  ]
+ },
+ "w04-006": {
+  "iso": "cn",
+  "en": "China",
+  "zh": "中國",
+  "basis": "name"
+ },
+ "w04-007": {
+  "iso": "cn",
+  "en": "China",
+  "zh": "中國",
+  "basis": "name",
+  "also": [
+   {
+    "iso": "kz",
+    "en": "Kazakhstan",
+    "zh": "哈薩克"
+   }
+  ]
+ },
+ "w04-009": {
+  "iso": "kz",
+  "en": "Kazakhstan",
+  "zh": "哈薩克",
+  "basis": "name",
+  "also": [
+   {
+    "iso": "uz",
+    "en": "Uzbekistan",
+    "zh": "烏茲別克"
+   }
+  ]
+ },
+ "w04-012": {
+  "iso": "uz",
+  "en": "Uzbekistan",
+  "zh": "烏茲別克",
+  "basis": "name",
+  "also": [
+   {
+    "iso": "tm",
+    "en": "Turkmenistan",
+    "zh": "土庫曼"
+   }
+  ]
+ },
+ "w04-013": {
+  "iso": "tm",
+  "en": "Turkmenistan",
+  "zh": "土庫曼",
+  "basis": "name",
+  "also": [
+   {
+    "iso": "ir",
+    "en": "Iran",
+    "zh": "伊朗"
+   }
+  ]
+ },
+ "w04-017": {
+  "iso": "uz",
+  "en": "Uzbekistan",
+  "zh": "烏茲別克",
+  "basis": "name",
+  "also": [
+   {
+    "iso": "kz",
+    "en": "Kazakhstan",
+    "zh": "哈薩克"
+   }
+  ]
+ },
+ "w05-028": {
+  "iso": "be",
+  "en": "Belgium",
+  "zh": "比利時",
+  "basis": "name"
+ }
+}

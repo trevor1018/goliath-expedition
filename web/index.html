@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#12151b">
+<title>Goliath Expedition — Karl Bushby 徒步回家之路 1998–2026</title>
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.css">
+<link rel="stylesheet" href="style.css?v=35">
+</head>
+<body data-view="map">
+<header>
+  <div class="title">
+    <h1>Goliath Expedition</h1>
+    <span class="sub">Karl Bushby 從智利蓬塔阿雷納斯徒步回英國赫爾 · 1998–2026</span>
+  </div>
+  <nav>
+    <button data-view="map" class="active">地圖</button>
+    <button data-view="story">導覽</button>
+    <button data-view="research">考證</button>
+    <button data-view="about">關於</button>
+    <button id="nav-report" title="回報資料錯誤或網站問題">⚑<span class="lw"> 問題回報</span></button>
+  </nav>
+</header>
+
+<main>
+  <div id="map"></div>
+
+  <aside id="legend" class="card">
+    <div class="card-head">
+      <strong>圖例與篩選</strong>
+      <button id="legend-toggle" class="icon" title="收合">–</button>
+    </div>
+    <div id="legend-body">
+      <label class="lg"><input type="checkbox" data-layer="walk" checked><i class="sw walk"></i>步行</label>
+      <label class="lg"><input type="checkbox" data-layer="swim" checked><i class="sw swim"></i>游泳（分段，每日回船）</label>
+      <label class="lg"><input type="checkbox" data-layer="ice" checked><i class="sw ice"></i>海冰上移動（白令海峽、Norton Bay）</label>
+      <label class="lg"><input type="checkbox" data-layer="unknown" checked><i class="sw unknown"></i>路徑未知（只知兩端或大方向）</label>
+      <label class="lg"><input type="checkbox" data-layer="deadend" checked><i class="sw deadend"></i>廢棄路段（走過但不算進度）</label>
+      <label class="lg"><input type="checkbox" data-layer="sidewalk" checked><i class="sw sidewalk"></i>支線步行（洛杉磯→華府請願）</label>
+      <label class="lg"><input type="checkbox" data-layer="offroute"><i class="sw offroute"></i>離開路線（搭機、拘留、救援）</label>
+      <label class="lg"><input type="checkbox" data-layer="pauses" checked><i class="dot pause"></i>停頓（圓越大越久）</label>
+      <label class="lg"><input type="checkbox" data-layer="waypoints" checked><i class="dot wp"></i>經過點（放大後顯示）</label>
+      <label class="lg"><input type="checkbox" data-layer="marks" checked><i class="q">?</i>未知／可能缺口標記</label>
+      <p class="hint">步行線多數沿道路推算（開放路網最短路徑），只是示意，不是 GPS 軌跡；推算不出來的地方以直線表示。點線段可看詳情。</p>
+      <div class="row">
+        <button id="proj">切換為平面地圖</button>
+        <button id="fit">全覽</button>
+        <button id="tour-start">▶ 導覽</button>
+      </div>
+    </div>
+  </aside>
+
+  <aside id="panel" class="card hidden">
+    <div class="sheet-grip"></div>
+    <div class="card-head">
+      <strong id="panel-title"></strong>
+      <button id="panel-exit" class="tour-only">離開導覽</button>
+      <button id="panel-report" class="icon rep-icon" title="回報這一項的問題">⚑</button>
+      <button id="panel-close" class="icon" title="關閉">×</button>
+    </div>
+    <div id="panel-body"></div>
+  </aside>
+
+  <aside id="story" class="card hidden"></aside>
+
+  <div id="hud" class="hidden">
+    <div id="hud-img"></div>
+    <div class="hud-text">
+      <div class="hud-top"><small class="hud-enter">進入</small><span id="hud-flag"></span><b id="hud-country"></b></div>
+      <div id="hud-place"></div>
+      <div id="hud-meta"></div>
+    </div>
+  </div>
+  <div id="postcard" class="hidden"></div>
+
+  <div id="report" class="hidden">
+    <form class="card" id="report-form">
+      <div class="card-head"><strong>問題回報</strong><button type="button" id="report-close" class="icon" title="關閉（Esc）">×</button></div>
+      <div class="rep-body">
+        <div class="rep-ctx">回報對象：<b id="report-ctx"></b></div>
+        <label>類型
+          <select id="report-type">
+            <option>資料錯誤（日期、地點、路線）</option>
+            <option>來源或連結失效</option>
+            <option>照片問題（錯誤、失效、版權）</option>
+            <option>翻譯或文字</option>
+            <option>網站操作問題</option>
+            <option>其他</option>
+          </select></label>
+        <label>說明<textarea id="report-text" rows="6" placeholder="哪裡有問題？正確的資訊是什麼？若有出處請附上連結。"></textarea></label>
+        <div class="rep-actions" id="report-actions"></div>
+        <p class="note" id="report-note"></p>
+      </div>
+    </form>
+  </div>
+
+  <div id="lightbox" class="hidden">
+    <button id="lb-close" class="icon" title="關閉（Esc）">×</button>
+    <button id="lb-prev" class="lb-nav" title="上一張（←）">‹</button>
+    <figure><img id="lb-img" alt=""><figcaption id="lb-cap"></figcaption><div id="lb-count"></div></figure>
+    <button id="lb-next" class="lb-nav" title="下一張（→）">›</button>
+  </div>
+
+  <section id="research" class="page hidden"></section>
+  <section id="about" class="page hidden"></section>
+</main>
+
+<footer id="timeline">
+  <div class="tl-controls">
+    <button id="play" title="播放 / 暫停">▶</button>
+    <select id="speed" title="播放速度">
+      <option value="1">1 天/秒</option>
+      <option value="7" selected>1 週/秒</option>
+      <option value="30">1 個月/秒</option>
+      <option value="60">2 個月/秒</option>
+      <option value="180">半年/秒</option>
+      <option value="365">1 年/秒</option>
+    </select>
+    <label class="skip"><input type="checkbox" id="skip" checked><span>跳過<span class="lw">停頓</span></span></label>
+    <label class="skip"><input type="checkbox" id="follow" checked><span><span class="lw">鏡頭</span>跟隨</span></label>
+    <div class="tl-stats">
+      <span id="tl-date"></span>
+      <span id="tl-km" title="道路推算＋直線的估計，非實測"></span>
+      <span id="tl-state"></span>
+    </div>
+  </div>
+  <div class="tl-track">
+    <canvas id="tl-canvas"></canvas>
+    <div id="tl-tip" class="hidden"></div>
+  </div>
+</footer>
+
+<script src="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.js"></script>
+<script src="story.js?v=35"></script>
+<script src="app.js?v=35"></script>
+</body>
+</html>

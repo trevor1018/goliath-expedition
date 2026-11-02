@@ -1,0 +1,5878 @@
+{
+ "leg": "01",
+ "title": "Punta Arenas -> Panama (to Costa Rica border approach)",
+ "waypoints": [
+  {
+   "id": "w01-001",
+   "name": "Punta Arenas, Chile",
+   "lat": -53.1638,
+   "lon": -70.9171,
+   "coord_basis": "town_centroid",
+   "date": "1998-11-01",
+   "date_earliest": "1998-11-01",
+   "date_latest": "1998-11-01",
+   "date_precision": "day",
+   "event": "Expedition start. Arrived by air via Falklands on night of 31 Oct; assembled trailer ('the beast') and moved ~20 yards before wheel/axle failure (night 31 Oct/1 Nov, 'Day one'). Site and press releases give 1 Nov 1998 as start date; real walking began Mon 2 Nov 1998 at 10:36 after repairs (see conflicts).",
+   "sources": [
+    "S1",
+    "S25",
+    "S26",
+    "S35",
+    "S31"
+   ]
+  },
+  {
+   "id": "w01-002",
+   "name": "Night stop 2 Nov 1998 (journal grid; longitude suspect)",
+   "lat": -52.9833,
+   "lon": -71.8333,
+   "coord_basis": "exact_reported",
+   "date": "1998-11-02",
+   "date_earliest": "1998-11-02",
+   "date_latest": "1998-11-02",
+   "date_precision": "day",
+   "event": "Day 1 walking, 10 miles; camp on cliff overlooking Strait of Magellan. Reported grid 52°59'S 71°50'W lies west of Punta Arenas - longitude probably a slip (70°50'?); not used for routing.",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w01-003",
+   "name": "Night stop 3 Nov 1998 (journal grid)",
+   "lat": -52.75,
+   "lon": -71.05,
+   "coord_basis": "exact_reported",
+   "date": "1998-11-03",
+   "date_earliest": "1998-11-03",
+   "date_latest": "1998-11-03",
+   "date_precision": "day",
+   "event": "20.5 miles; passed an estuary.",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w01-004",
+   "name": "Wrong turn onto dirt track, 4-5 Nov 1998 (position unknown)",
+   "lat": -52.6,
+   "lon": -70.9,
+   "coord_basis": "approximate_region",
+   "date": "1998-11-05",
+   "date_earliest": "1998-11-04",
+   "date_latest": "1998-11-05",
+   "date_precision": "day",
+   "event": "Took a dirt track north by mistake ('Grid : ----- not sure!'), walked back south-east; regained the paved road on 6 Nov. Coordinates are a rough placeholder only.",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w01-005",
+   "name": "Night stop 6 Nov 1998 near oil refinery junction (journal grid)",
+   "lat": -52.6,
+   "lon": -70.2167,
+   "coord_basis": "exact_reported",
+   "date": "1998-11-06",
+   "date_earliest": "1998-11-06",
+   "date_latest": "1998-11-06",
+   "date_precision": "day",
+   "event": "Back on the 'metal road'; told 'there is only one road to Argentina and I'm on it'.",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w01-006",
+   "name": "Night stop 7 Nov 1998 (journal grid)",
+   "lat": -52.4333,
+   "lon": -69.8,
+   "coord_basis": "exact_reported",
+   "date": "1998-11-07",
+   "date_earliest": "1998-11-07",
+   "date_latest": "1998-11-07",
+   "date_precision": "day",
+   "event": "Passed a ghost town with two trawlers rusting by the jetty (consistent with San Gregorio - identification is our inference, unnamed in journal).",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w01-007",
+   "name": "Night stop 8 Nov 1998 (journal grid)",
+   "lat": -52.3,
+   "lon": -69.4833,
+   "coord_basis": "exact_reported",
+   "date": "1998-11-08",
+   "date_earliest": "1998-11-08",
+   "date_latest": "1998-11-08",
+   "date_precision": "day",
+   "event": "22 miles.",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w01-008",
+   "name": "Chile -> Argentina border crossing (post unnamed; consistent with Monte Aymond / Integracion Austral)",
+   "lat": -52.15,
+   "lon": -69.51,
+   "coord_basis": "approximate_region",
+   "date": "1998-11-09",
+   "date_earliest": "1998-11-09",
+   "date_latest": "1998-11-09",
+   "date_precision": "day",
+   "event": "Crossed Chilean then Argentine checkpoint ~13:30. Journal does not name the post; night grid that day 52°00'S 69°31'W. Identification as Monte Aymond is inference from the 'only one road to Argentina' and grid.",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w01-009",
+   "name": "Night stop 10 Nov 1998 (journal grid)",
+   "lat": -51.8167,
+   "lon": -69.3667,
+   "coord_basis": "exact_reported",
+   "date": "1998-11-10",
+   "date_earliest": "1998-11-10",
+   "date_latest": "1998-11-10",
+   "date_precision": "day",
+   "event": "'15 miles to Rio Gallegos'.",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w01-010",
+   "name": "Rio Gallegos, Argentina",
+   "lat": -51.623,
+   "lon": -69.2168,
+   "coord_basis": "town_centroid",
+   "date": "1998-11-11",
+   "date_earliest": "1998-11-11",
+   "date_latest": "1998-11-15",
+   "date_precision": "day",
+   "event": "Arrived with broken wheel spindle; rest days 12-14 Nov. Left 15 Nov crossing the river Gallegos and turning north.",
+   "sources": [
+    "S1",
+    "S2"
+   ]
+  },
+  {
+   "id": "w01-011",
+   "name": "Night stop 17 Nov 1998 (journal grid)",
+   "lat": -50.9,
+   "lon": -69.5,
+   "coord_basis": "exact_reported",
+   "date": "1998-11-17",
+   "date_earliest": "1998-11-17",
+   "date_latest": "1998-11-17",
+   "date_precision": "day",
+   "event": "29 miles.",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "w01-012",
+   "name": "Night stop 18 Nov 1998 (journal grid)",
+   "lat": -50.5667,
+   "lon": -69.3,
+   "coord_basis": "exact_reported",
+   "date": "1998-11-18",
+   "date_earliest": "1998-11-18",
+   "date_latest": "1998-11-18",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "w01-013",
+   "name": "Night stop 19 Nov 1998 (journal grid)",
+   "lat": -50.25,
+   "lon": -69.0333,
+   "coord_basis": "exact_reported",
+   "date": "1998-11-19",
+   "date_earliest": "1998-11-19",
+   "date_latest": "1998-11-19",
+   "date_precision": "day",
+   "event": "28 miles.",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "w01-014",
+   "name": "Comandante Luis Piedra Buena, Argentina",
+   "lat": -49.9833,
+   "lon": -68.91,
+   "coord_basis": "town_centroid",
+   "date": "1998-11-20",
+   "date_earliest": "1998-11-20",
+   "date_latest": "1998-11-27",
+   "date_precision": "day",
+   "event": "Arrived 20 Nov; rest days 21-26 Nov (injured toe, school talk). Left 27 Nov.",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "w01-015",
+   "name": "Night stop 1998-11-27 (journal grid)",
+   "lat": -49.75,
+   "lon": -69.1333,
+   "coord_basis": "exact_reported",
+   "date": "1998-11-27",
+   "date_earliest": "1998-11-27",
+   "date_latest": "1998-11-27",
+   "date_precision": "day",
+   "event": "Dirt road Piedra Buena -> Gobernador Gregores (road number not given in journal).",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w01-016",
+   "name": "Night stop 1998-11-30 (journal grid)",
+   "lat": -49.45,
+   "lon": -69.65,
+   "coord_basis": "exact_reported",
+   "date": "1998-11-30",
+   "date_earliest": "1998-11-30",
+   "date_latest": "1998-11-30",
+   "date_precision": "day",
+   "event": "Dirt road Piedra Buena -> Gobernador Gregores (road number not given in journal).",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w01-017",
+   "name": "Night stop 1998-12-01 (journal grid)",
+   "lat": -49.3167,
+   "lon": -69.8167,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-01",
+   "date_earliest": "1998-12-01",
+   "date_latest": "1998-12-01",
+   "date_precision": "day",
+   "event": "Dirt road Piedra Buena -> Gobernador Gregores (road number not given in journal).",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w01-018",
+   "name": "Night stop 1998-12-02 (journal grid)",
+   "lat": -49.2333,
+   "lon": -70.0,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-02",
+   "date_earliest": "1998-12-02",
+   "date_latest": "1998-12-02",
+   "date_precision": "day",
+   "event": "Dirt road Piedra Buena -> Gobernador Gregores (road number not given in journal).",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w01-019",
+   "name": "Night stop 1998-12-03 (journal grid)",
+   "lat": -49.05,
+   "lon": -70.1333,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-03",
+   "date_earliest": "1998-12-03",
+   "date_latest": "1998-12-03",
+   "date_precision": "day",
+   "event": "Dirt road Piedra Buena -> Gobernador Gregores (road number not given in journal).",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w01-020",
+   "name": "Gobernador Gregores, Argentina",
+   "lat": -48.7505,
+   "lon": -70.2477,
+   "coord_basis": "town_centroid",
+   "date": "1998-12-04",
+   "date_earliest": "1998-12-04",
+   "date_latest": "1998-12-09",
+   "date_precision": "day",
+   "event": "Arrived 4 Dec (journal grid 48°45'S 70°15'W); rest/repair 5-8 Dec; left 9 Dec. Decided not to go to San Julian.",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w01-021",
+   "name": "Night stop 1998-12-09 (journal grid)",
+   "lat": -48.75,
+   "lon": -70.5833,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-09",
+   "date_earliest": "1998-12-09",
+   "date_latest": "1998-12-09",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w01-022",
+   "name": "Night stop 1998-12-10 (journal grid)",
+   "lat": -48.5167,
+   "lon": -70.4667,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-10",
+   "date_earliest": "1998-12-10",
+   "date_latest": "1998-12-10",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w01-023",
+   "name": "Night stop 1998-12-11 (journal grid)",
+   "lat": -48.4,
+   "lon": -70.6167,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-11",
+   "date_earliest": "1998-12-11",
+   "date_latest": "1998-12-11",
+   "date_precision": "day",
+   "event": "Reached junction: 'now on route 40'.",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w01-024",
+   "name": "Night stop 1998-12-12 (journal grid)",
+   "lat": -48.3167,
+   "lon": -70.9,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-12",
+   "date_earliest": "1998-12-12",
+   "date_latest": "1998-12-12",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w01-025",
+   "name": "Night stop 1998-12-13 (journal grid)",
+   "lat": -48.2667,
+   "lon": -71.1167,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-13",
+   "date_earliest": "1998-12-13",
+   "date_latest": "1998-12-13",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w01-026",
+   "name": "Night stop 1998-12-15 (journal grid)",
+   "lat": -47.8667,
+   "lon": -70.9,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-15",
+   "date_earliest": "1998-12-15",
+   "date_latest": "1998-12-15",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w01-027",
+   "name": "Night stop 1998-12-16 (journal grid)",
+   "lat": -47.6667,
+   "lon": -70.8167,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-16",
+   "date_earliest": "1998-12-16",
+   "date_latest": "1998-12-16",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w01-028",
+   "name": "Night stop 1998-12-17 (journal grid)",
+   "lat": -47.4667,
+   "lon": -70.9333,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-17",
+   "date_earliest": "1998-12-17",
+   "date_latest": "1998-12-17",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w01-029",
+   "name": "Bajo Caracoles, Argentina",
+   "lat": -47.4442,
+   "lon": -70.9289,
+   "coord_basis": "town_centroid",
+   "date": "1998-12-18",
+   "date_earliest": "1998-12-17",
+   "date_latest": "1998-12-18",
+   "date_precision": "day",
+   "event": "Passed ('Before I left B.C') on Ruta 40; night grid 18 Dec 47°16'S 70°57'W. Exact arrival date in Bajo Caracoles not stated (17 or 18 Dec).",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w01-030",
+   "name": "Night stop 19 Dec 1998 (journal grid)",
+   "lat": -47.0833,
+   "lon": -70.8,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-19",
+   "date_earliest": "1998-12-19",
+   "date_latest": "1998-12-19",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w01-031",
+   "name": "Night stop 20 Dec 1998 (journal grid)",
+   "lat": -46.8833,
+   "lon": -70.7333,
+   "coord_basis": "exact_reported",
+   "date": "1998-12-20",
+   "date_earliest": "1998-12-20",
+   "date_latest": "1998-12-20",
+   "date_precision": "day",
+   "event": "Journal grid for 21 Dec reads '41 degrees 44' - evident typo, omitted.",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w01-032",
+   "name": "Perito Moreno, Argentina",
+   "lat": -46.59,
+   "lon": -70.93,
+   "coord_basis": "town_centroid",
+   "date": "1998-12-22",
+   "date_earliest": "1998-12-22",
+   "date_latest": "1999-01-04",
+   "date_precision": "day",
+   "event": "Arrived 22 Dec (journal grid 46°36'S 70°55'W) with second broken spindle; Christmas/New Year stay; satellite phone problems; left Mon 4 Jan 1999 ~16:00.",
+   "sources": [
+    "S4",
+    "S5"
+   ]
+  },
+  {
+   "id": "w01-033",
+   "name": "Night stop 4 Jan 1999 (journal grid)",
+   "lat": -46.5667,
+   "lon": -70.8,
+   "coord_basis": "exact_reported",
+   "date": "1999-01-04",
+   "date_earliest": "1999-01-04",
+   "date_latest": "1999-01-04",
+   "date_precision": "day",
+   "event": "Junction where the paved road meets 'the track that is route 40 north'.",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w01-034",
+   "name": "Night stop 7 Jan 1999 (journal grid)",
+   "lat": -46.0,
+   "lon": -70.4333,
+   "coord_basis": "exact_reported",
+   "date": "1999-01-07",
+   "date_earliest": "1999-01-07",
+   "date_latest": "1999-01-07",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w01-035",
+   "name": "Night stop 8 Jan 1999 (journal grid)",
+   "lat": -45.8167,
+   "lon": -70.3167,
+   "coord_basis": "exact_reported",
+   "date": "1999-01-08",
+   "date_earliest": "1999-01-08",
+   "date_latest": "1999-01-08",
+   "date_precision": "day",
+   "event": "10 km short of Rio Mayo.",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w01-036",
+   "name": "Rio Mayo, Argentina",
+   "lat": -45.6856,
+   "lon": -70.26,
+   "coord_basis": "town_centroid",
+   "date": "1999-01-09",
+   "date_earliest": "1999-01-09",
+   "date_latest": "1999-01-20",
+   "date_precision": "day",
+   "event": "Arrived 9 Jan (grid 45°41'S 70°16'W); stayed with Gabriel (English teacher) until 20 Jan; realised 90-day visa nearly expired.",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w01-037",
+   "name": "Night stop 1999-01-22 (journal grid)",
+   "lat": -45.2833,
+   "lon": -69.9333,
+   "coord_basis": "exact_reported",
+   "date": "1999-01-22",
+   "date_earliest": "1999-01-22",
+   "date_latest": "1999-01-22",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w01-038",
+   "name": "Night stop 1999-01-23 (journal grid)",
+   "lat": -44.9833,
+   "lon": -70.0333,
+   "coord_basis": "exact_reported",
+   "date": "1999-01-23",
+   "date_earliest": "1999-01-23",
+   "date_latest": "1999-01-23",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w01-039",
+   "name": "Night stop 1999-01-24 (journal grid)",
+   "lat": -44.8,
+   "lon": -70.1667,
+   "coord_basis": "exact_reported",
+   "date": "1999-01-24",
+   "date_earliest": "1999-01-24",
+   "date_latest": "1999-01-24",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w01-040",
+   "name": "Night stop 1999-01-26 (journal grid)",
+   "lat": -44.3833,
+   "lon": -70.4,
+   "coord_basis": "exact_reported",
+   "date": "1999-01-26",
+   "date_earliest": "1999-01-26",
+   "date_latest": "1999-01-26",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w01-041",
+   "name": "Night stop 1999-01-27 (journal grid)",
+   "lat": -44.1,
+   "lon": -70.4667,
+   "coord_basis": "exact_reported",
+   "date": "1999-01-27",
+   "date_earliest": "1999-01-27",
+   "date_latest": "1999-01-27",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w01-042",
+   "name": "Gobernador Costa, Argentina",
+   "lat": -44.05,
+   "lon": -70.598,
+   "coord_basis": "town_centroid",
+   "date": "1999-01-28",
+   "date_earliest": "1999-01-28",
+   "date_latest": "1999-01-31",
+   "date_precision": "day",
+   "event": "'Gord Costa' reached 28 Jan (grid 44°05'S 70°30'W); stayed to 31 Jan.",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w01-043",
+   "name": "Night stop 1 Feb 1999 (journal grid)",
+   "lat": -43.7333,
+   "lon": -70.85,
+   "coord_basis": "exact_reported",
+   "date": "1999-02-01",
+   "date_earliest": "1999-02-01",
+   "date_latest": "1999-02-01",
+   "date_precision": "day",
+   "event": "Snow overnight.",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w01-044",
+   "name": "Tecka, Argentina",
+   "lat": -43.494,
+   "lon": -70.812,
+   "coord_basis": "town_centroid",
+   "date": "1999-02-02",
+   "date_earliest": "1999-02-02",
+   "date_latest": "1999-02-02",
+   "date_precision": "day",
+   "event": "Reached 15:00 (grid 43°30'S 70°49'W); cut wrist badly with knife repairing trailer.",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w01-045",
+   "name": "Junction where Karl left the main road for Esquel (location not given)",
+   "lat": -42.95,
+   "lon": -71.25,
+   "coord_basis": "approximate_region",
+   "date": "1999-02-05",
+   "date_earliest": "1999-02-05",
+   "date_latest": "1999-02-05",
+   "date_precision": "day",
+   "event": "Karl walked off the main road down to Esquel; on 22 Feb he was driven back to this junction (offroute) and resumed walking from it. Exact junction not identified - placeholder coordinates.",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "w01-046",
+   "name": "Esquel, Argentina",
+   "lat": -42.911,
+   "lon": -71.319,
+   "coord_basis": "town_centroid",
+   "date": "1999-02-05",
+   "date_earliest": "1999-02-05",
+   "date_latest": "1999-02-22",
+   "date_precision": "day",
+   "event": "Arrived 17:30, 5 Feb; stayed on architect William's building site until 22 Feb, out of money waiting for mail from home (money arrived 16 Feb). 7 Feb visa run by vehicle via Trevelin to a frontier post and back (offroute).",
+   "sources": [
+    "S6",
+    "S7"
+   ]
+  },
+  {
+   "id": "w01-047",
+   "name": "El Hoyo, Argentina",
+   "lat": -42.07,
+   "lon": -71.52,
+   "coord_basis": "town_centroid",
+   "date": "1999-02-26",
+   "date_earliest": "1999-02-26",
+   "date_latest": "1999-02-26",
+   "date_precision": "day",
+   "event": "Journal heading 'El Hovo'.",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "w01-048",
+   "name": "El Bolson, Argentina",
+   "lat": -41.964,
+   "lon": -71.533,
+   "coord_basis": "town_centroid",
+   "date": "1999-02-27",
+   "date_earliest": "1999-02-27",
+   "date_latest": "1999-02-27",
+   "date_precision": "day",
+   "event": "Arrived during national festival; left 28 Feb.",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "w01-049",
+   "name": "San Carlos de Bariloche, Argentina",
+   "lat": -41.1335,
+   "lon": -71.3103,
+   "coord_basis": "town_centroid",
+   "date": "1999-03-04",
+   "date_earliest": "1999-03-04",
+   "date_latest": "1999-03-07",
+   "date_precision": "day",
+   "event": "Arrived 4 Mar; admin days; left 7 Mar.",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "w01-050",
+   "name": "Villa La Angostura, Argentina",
+   "lat": -40.762,
+   "lon": -71.646,
+   "coord_basis": "town_centroid",
+   "date": "1999-03-10",
+   "date_earliest": "1999-03-10",
+   "date_latest": "1999-03-10",
+   "date_precision": "day",
+   "event": "Passed through at end of day 10 Mar.",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "w01-051",
+   "name": "Argentina -> Chile border on Andean pass (pass unnamed; consistent with Paso Cardenal Samore)",
+   "lat": -40.71,
+   "lon": -71.95,
+   "coord_basis": "approximate_region",
+   "date": "1999-03-12",
+   "date_earliest": "1999-03-11",
+   "date_latest": "1999-03-12",
+   "date_precision": "day",
+   "event": "Argentine post 11 Mar; reached 'WELCOME TO CHILE' sign at pass 12 Mar; Chilean checkpoint 22 km downhill. Pass name not in journal - Samore is inference from route Villa La Angostura -> Entre Lagos -> Osorno.",
+   "sources": [
+    "S7",
+    "S8"
+   ]
+  },
+  {
+   "id": "w01-052",
+   "name": "Entre Lagos, Chile",
+   "lat": -40.683,
+   "lon": -72.595,
+   "coord_basis": "town_centroid",
+   "date": "1999-03-14",
+   "date_earliest": "1999-03-14",
+   "date_latest": "1999-03-14",
+   "date_precision": "day",
+   "event": "Journal: \"a small town called 'Entrelagos'\".",
+   "sources": [
+    "S8"
+   ]
+  },
+  {
+   "id": "w01-053",
+   "name": "Osorno, Chile",
+   "lat": -40.574,
+   "lon": -73.133,
+   "coord_basis": "town_centroid",
+   "date": "1999-03-16",
+   "date_earliest": "1999-03-16",
+   "date_latest": "1999-03-16",
+   "date_precision": "day",
+   "event": "'Total distance to date = approx 1370 miles.' Joined Route 5 / Pan-American north.",
+   "sources": [
+    "S8"
+   ]
+  },
+  {
+   "id": "w01-054",
+   "name": "Los Lagos, Chile",
+   "lat": -39.86,
+   "lon": -72.813,
+   "coord_basis": "town_centroid",
+   "date": "1999-03-19",
+   "date_earliest": "1999-03-19",
+   "date_latest": "1999-03-19",
+   "date_precision": "day",
+   "event": "Out of money ('I was now broke!').",
+   "sources": [
+    "S8"
+   ]
+  },
+  {
+   "id": "w01-055",
+   "name": "Lanco, Chile",
+   "lat": -39.452,
+   "lon": -72.775,
+   "coord_basis": "town_centroid",
+   "date": "1999-03-26",
+   "date_earliest": "1999-03-26",
+   "date_latest": "1999-03-26",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S8"
+   ]
+  },
+  {
+   "id": "w01-056",
+   "name": "Temuco, Chile",
+   "lat": -38.739,
+   "lon": -72.598,
+   "coord_basis": "town_centroid",
+   "date": "1999-04-05",
+   "date_earliest": "1999-04-05",
+   "date_latest": "1999-04-07",
+   "date_precision": "day",
+   "event": "Waited for mail/money 5-7 Apr.",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "w01-057",
+   "name": "Victoria, Chile",
+   "lat": -38.233,
+   "lon": -72.333,
+   "coord_basis": "town_centroid",
+   "date": "1999-04-07",
+   "date_earliest": "1999-04-07",
+   "date_latest": "1999-04-07",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "w01-058",
+   "name": "Chillan, Chile",
+   "lat": -36.607,
+   "lon": -72.103,
+   "coord_basis": "town_centroid",
+   "date": "1999-04-22",
+   "date_earliest": "1999-04-22",
+   "date_latest": "1999-04-26",
+   "date_precision": "day",
+   "event": "Journal spells 'Chilean'; stayed with locals ~22-26 Apr.",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "w01-059",
+   "name": "Longavi, Chile",
+   "lat": -35.965,
+   "lon": -71.683,
+   "coord_basis": "town_centroid",
+   "date": "1999-04-28",
+   "date_earliest": "1999-04-28",
+   "date_latest": "1999-04-28",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "w01-060",
+   "name": "San Fernando, Chile",
+   "lat": -34.586,
+   "lon": -70.989,
+   "coord_basis": "town_centroid",
+   "date": "1999-05-07",
+   "date_earliest": "1999-05-07",
+   "date_latest": "1999-05-07",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "w01-061",
+   "name": "Rancagua, Chile",
+   "lat": -34.17,
+   "lon": -70.744,
+   "coord_basis": "town_centroid",
+   "date": "1999-05-09",
+   "date_earliest": "1999-05-09",
+   "date_latest": "1999-05-10",
+   "date_precision": "day",
+   "event": "Waited for money/mail 9-10 May.",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "w01-062",
+   "name": "Santiago, Chile",
+   "lat": -33.4489,
+   "lon": -70.6693,
+   "coord_basis": "town_centroid",
+   "date": "1999-05-12",
+   "date_earliest": "1999-05-12",
+   "date_latest": "1999-05-31",
+   "date_precision": "day",
+   "event": "Arrived 12 May on 'Pan American Route 5'; ~2-week stay; left via Av. Americo Vespucio onto Route 5 north, departure between 28 and 31 May (not dated).",
+   "sources": [
+    "S9",
+    "S10"
+   ]
+  },
+  {
+   "id": "w01-063",
+   "name": "Position 1 Jun 1999 north of Santiago (journal grid)",
+   "lat": -33.0333,
+   "lon": -70.8667,
+   "coord_basis": "exact_reported",
+   "date": "1999-06-01",
+   "date_earliest": "1999-06-01",
+   "date_latest": "1999-06-01",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S10"
+   ]
+  },
+  {
+   "id": "w01-064",
+   "name": "El Melon, Chile",
+   "lat": -32.7,
+   "lon": -71.21,
+   "coord_basis": "town_centroid",
+   "date": "1999-06-05",
+   "date_earliest": "1999-06-05",
+   "date_latest": "1999-06-06",
+   "date_precision": "day",
+   "event": "Girlfriend 'Treiz' walked 15 km with him 5-6 Jun, then bus back to Santiago.",
+   "sources": [
+    "S10"
+   ]
+  },
+  {
+   "id": "w01-065",
+   "name": "Los Vilos, Chile",
+   "lat": -31.911,
+   "lon": -71.51,
+   "coord_basis": "town_centroid",
+   "date": "1999-06-10",
+   "date_earliest": "1999-06-10",
+   "date_latest": "1999-06-14",
+   "date_precision": "day",
+   "event": "Stayed 10-14 Jun with taxi driver Sergio Romero Avila.",
+   "sources": [
+    "S10"
+   ]
+  },
+  {
+   "id": "w01-066",
+   "name": "Huentelauquen, Chile",
+   "lat": -31.59,
+   "lon": -71.53,
+   "coord_basis": "town_centroid",
+   "date": "1999-06-15",
+   "date_earliest": "1999-06-15",
+   "date_latest": "1999-06-15",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S10"
+   ]
+  },
+  {
+   "id": "w01-067",
+   "name": "Coquimbo / La Serena, Chile",
+   "lat": -29.953,
+   "lon": -71.343,
+   "coord_basis": "town_centroid",
+   "date": "1999-06-22",
+   "date_earliest": "1999-06-22",
+   "date_latest": "1999-07-10",
+   "date_precision": "day",
+   "event": "Stay ~22 Jun-10 Jul (coords = Coquimbo).",
+   "sources": [
+    "S10"
+   ]
+  },
+  {
+   "id": "w01-068",
+   "name": "Vallenar, Chile",
+   "lat": -28.576,
+   "lon": -70.759,
+   "coord_basis": "town_centroid",
+   "date": "1999-07-16",
+   "date_earliest": "1999-07-16",
+   "date_latest": "1999-07-28",
+   "date_precision": "day",
+   "event": "Stayed ~16-28 Jul with Marcela's family.",
+   "sources": [
+    "S10"
+   ]
+  },
+  {
+   "id": "w01-069",
+   "name": "Copiapo, Chile",
+   "lat": -27.366,
+   "lon": -70.332,
+   "coord_basis": "town_centroid",
+   "date": "1999-08-01",
+   "date_earliest": "1999-08-01",
+   "date_latest": "1999-08-09",
+   "date_precision": "day",
+   "event": "Visa overstay resolved by paying US$100; money wired from home; left 9 Aug.",
+   "sources": [
+    "S11"
+   ]
+  },
+  {
+   "id": "w01-070",
+   "name": "Balneario Flamenco, Chile",
+   "lat": -26.57,
+   "lon": -70.68,
+   "coord_basis": "town_centroid",
+   "date": "1999-08-13",
+   "date_earliest": "1999-08-13",
+   "date_latest": "1999-08-13",
+   "date_precision": "day",
+   "event": "Road sign 'Chanaral 30 kms'.",
+   "sources": [
+    "S11"
+   ]
+  },
+  {
+   "id": "w01-071",
+   "name": "Antofagasta, Chile",
+   "lat": -23.65,
+   "lon": -70.4,
+   "coord_basis": "town_centroid",
+   "date": "1999-08-30",
+   "date_earliest": "1999-08-30",
+   "date_latest": "1999-09-14",
+   "date_precision": "day",
+   "event": "'Distance to date = 2740 mls (approx).' Left Route 5 at La Negra and walked west down to the coast. Departure date unknown (journal pages for 31 Aug-14 Sep missing).",
+   "sources": [
+    "S11"
+   ]
+  },
+  {
+   "id": "w01-072",
+   "name": "Tropic of Capricorn crossing (journal grid; latitude suspect)",
+   "lat": -23.8333,
+   "lon": -70.3833,
+   "coord_basis": "exact_reported",
+   "date": "1999-09-15",
+   "date_earliest": "1999-09-15",
+   "date_latest": "1999-09-15",
+   "date_precision": "day",
+   "event": "'Today I crossed the Tropic of Capricorn' - but reported 23°50'S is south of Antofagasta; the Tropic (23°26'S) lies north of it. Grid probably garbled.",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "w01-073",
+   "name": "Mejillones area (passed 18 km to west), Chile",
+   "lat": -23.1,
+   "lon": -70.45,
+   "coord_basis": "approximate_region",
+   "date": "1999-09-16",
+   "date_earliest": "1999-09-16",
+   "date_latest": "1999-09-16",
+   "date_precision": "day",
+   "event": "Coast road north; road number not given.",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "w01-074",
+   "name": "Tocopilla, Chile",
+   "lat": -22.092,
+   "lon": -70.198,
+   "coord_basis": "town_centroid",
+   "date": "1999-09-23",
+   "date_earliest": "1999-09-22",
+   "date_latest": "1999-09-26",
+   "date_precision": "day",
+   "event": "Stay of several days ~22-26 Sep.",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "w01-075",
+   "name": "Iquique, Chile",
+   "lat": -20.214,
+   "lon": -70.152,
+   "coord_basis": "town_centroid",
+   "date": "1999-10-01",
+   "date_earliest": "1999-09-30",
+   "date_latest": "1999-10-20",
+   "date_precision": "day",
+   "event": "Arrived on journal date 'Friday, 31st September' (impossible; probably 1 Oct). 'Distance to date = 3080 mls (approx)'. Stayed to 20 Oct.",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "w01-076",
+   "name": "Humberstone (rejoined Route 5), Chile",
+   "lat": -20.205,
+   "lon": -69.795,
+   "coord_basis": "town_centroid",
+   "date": "1999-10-21",
+   "date_earliest": "1999-10-21",
+   "date_latest": "1999-10-21",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "w01-077",
+   "name": "Huara, Chile",
+   "lat": -19.996,
+   "lon": -69.771,
+   "coord_basis": "town_centroid",
+   "date": "1999-10-22",
+   "date_earliest": "1999-10-22",
+   "date_latest": "1999-10-22",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "w01-078",
+   "name": "Cuya police checkpoint, Chile",
+   "lat": -19.16,
+   "lon": -70.18,
+   "coord_basis": "town_centroid",
+   "date": "1999-10-26",
+   "date_earliest": "1999-10-26",
+   "date_latest": "1999-10-26",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "w01-079",
+   "name": "Arica, Chile",
+   "lat": -18.4833,
+   "lon": -70.35,
+   "coord_basis": "exact_reported",
+   "date": "1999-10-29",
+   "date_earliest": "1999-10-29",
+   "date_latest": "1999-11-15",
+   "date_precision": "day",
+   "event": "Arrived 29 Oct (journal grid). Stayed to 15 Nov incl. offroute trips (bus to Tocopilla; visa run to border/Tacna).",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "w01-080",
+   "name": "Chile -> Peru border on Pan-American, position after crossing (journal grid; post unnamed - Chacalluta/Santa Rosa by inference)",
+   "lat": -18.2167,
+   "lon": -70.3167,
+   "coord_basis": "exact_reported",
+   "date": "1999-11-15",
+   "date_earliest": "1999-11-15",
+   "date_latest": "1999-11-15",
+   "date_precision": "day",
+   "event": "Walked across ~13:00; Chilean side normally forbids pedestrians but allowed him.",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "w01-081",
+   "name": "Tacna, Peru",
+   "lat": -18.0146,
+   "lon": -70.2536,
+   "coord_basis": "town_centroid",
+   "date": "1999-11-16",
+   "date_earliest": "1999-11-16",
+   "date_latest": "1999-11-16",
+   "date_precision": "day",
+   "event": "Wheel spindle broke on ring-road roundabout.",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "w01-082",
+   "name": "Moquegua, Peru",
+   "lat": -17.194,
+   "lon": -70.935,
+   "coord_basis": "town_centroid",
+   "date": "1999-11-23",
+   "date_earliest": "1999-11-23",
+   "date_latest": "1999-11-26",
+   "date_precision": "day",
+   "event": "5 km detour off Pan-American into town; rest 23-26 Nov, back to Pan-American.",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "w01-083",
+   "name": "La Joya area, Peru",
+   "lat": -16.42,
+   "lon": -71.82,
+   "coord_basis": "approximate_region",
+   "date": "1999-11-30",
+   "date_earliest": "1999-11-30",
+   "date_latest": "1999-11-30",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "w01-084",
+   "name": "Arequipa, Peru",
+   "lat": -16.409,
+   "lon": -71.537,
+   "coord_basis": "town_centroid",
+   "date": "1999-12-02",
+   "date_earliest": "1999-12-02",
+   "date_latest": "2000-01-04",
+   "date_precision": "day",
+   "event": "Walked in deliberately although 'well off my route'; ~1-month stay (money, Christmas) to 4 Jan 2000.",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "w01-085",
+   "name": "Uchumayo, Peru",
+   "lat": -16.425,
+   "lon": -71.67,
+   "coord_basis": "town_centroid",
+   "date": "2000-01-04",
+   "date_earliest": "2000-01-04",
+   "date_latest": "2000-01-04",
+   "date_precision": "day",
+   "event": "Walked ~19 km out of Arequipa, then truck lift to Pan-American junction (offroute).",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "w01-086",
+   "name": "Pan-American junction (probably La Reparticion - inference)",
+   "lat": -16.49,
+   "lon": -71.83,
+   "coord_basis": "approximate_region",
+   "date": "2000-01-04",
+   "date_earliest": "2000-01-04",
+   "date_latest": "2000-01-04",
+   "date_precision": "day",
+   "event": "Dropped by truck 18:30; unclear whether same junction where he left the Pan-American on 1 Dec.",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "w01-087",
+   "name": "Camana, Peru",
+   "lat": -16.624,
+   "lon": -72.711,
+   "coord_basis": "town_centroid",
+   "date": "2000-01-08",
+   "date_earliest": "2000-01-08",
+   "date_latest": "2000-01-08",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S13",
+    "S14"
+   ]
+  },
+  {
+   "id": "w01-088",
+   "name": "Ocona, Peru",
+   "lat": -16.43,
+   "lon": -73.11,
+   "coord_basis": "town_centroid",
+   "date": "2000-01-11",
+   "date_earliest": "2000-01-11",
+   "date_latest": "2000-01-11",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S14"
+   ]
+  },
+  {
+   "id": "w01-089",
+   "name": "Nasca, Peru",
+   "lat": -14.835,
+   "lon": -74.938,
+   "coord_basis": "town_centroid",
+   "date": "2000-01-23",
+   "date_earliest": "2000-01-23",
+   "date_latest": "2000-01-23",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S14"
+   ]
+  },
+  {
+   "id": "w01-090",
+   "name": "Ica, Peru",
+   "lat": -14.068,
+   "lon": -75.726,
+   "coord_basis": "town_centroid",
+   "date": "2000-01-26",
+   "date_earliest": "2000-01-26",
+   "date_latest": "2000-02-07",
+   "date_precision": "day",
+   "event": "~12-day rest, waiting for Western Union money; ill; left 7 Feb.",
+   "sources": [
+    "S14"
+   ]
+  },
+  {
+   "id": "w01-091",
+   "name": "Chincha, Peru",
+   "lat": -13.41,
+   "lon": -76.13,
+   "coord_basis": "town_centroid",
+   "date": "2000-02-10",
+   "date_earliest": "2000-02-10",
+   "date_latest": "2000-02-10",
+   "date_precision": "day",
+   "event": "Visa expired ~11 Feb.",
+   "sources": [
+    "S14"
+   ]
+  },
+  {
+   "id": "w01-092",
+   "name": "Lima, Peru",
+   "lat": -12.0464,
+   "lon": -77.0428,
+   "coord_basis": "town_centroid",
+   "date": "2000-02-17",
+   "date_earliest": "2000-02-17",
+   "date_latest": "2000-03-08",
+   "date_precision": "day",
+   "event": "Entered via beach road, lodged in Rimac; attempted robbery. Visa stay 17 Feb-8 Mar; got only 7-day extension and carried on without visa.",
+   "sources": [
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-093",
+   "name": "Huacho, Peru",
+   "lat": -11.107,
+   "lon": -77.605,
+   "coord_basis": "town_centroid",
+   "date": "2000-03-12",
+   "date_earliest": "2000-03-12",
+   "date_latest": "2000-03-12",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-094",
+   "name": "Huarmey, Peru",
+   "lat": -10.068,
+   "lon": -78.152,
+   "coord_basis": "town_centroid",
+   "date": "2000-03-16",
+   "date_earliest": "2000-03-16",
+   "date_latest": "2000-03-16",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-095",
+   "name": "Chimbote, Peru",
+   "lat": -9.075,
+   "lon": -78.593,
+   "coord_basis": "town_centroid",
+   "date": "2000-03-21",
+   "date_earliest": "2000-03-21",
+   "date_latest": "2000-03-27",
+   "date_precision": "day",
+   "event": "Rest 21-27 Mar (money/mail).",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-096",
+   "name": "Viru, Peru",
+   "lat": -8.414,
+   "lon": -78.752,
+   "coord_basis": "town_centroid",
+   "date": "2000-03-29",
+   "date_earliest": "2000-03-29",
+   "date_latest": "2000-03-29",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-097",
+   "name": "Trujillo, Peru",
+   "lat": -8.112,
+   "lon": -79.029,
+   "coord_basis": "town_centroid",
+   "date": "2000-04-02",
+   "date_earliest": "2000-04-02",
+   "date_latest": "2000-04-07",
+   "date_precision": "day",
+   "event": "Rest 2-7 Apr with host Roberto.",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-098",
+   "name": "Guadalupe, Peru",
+   "lat": -7.25,
+   "lon": -79.47,
+   "coord_basis": "town_centroid",
+   "date": "2000-04-11",
+   "date_earliest": "2000-04-11",
+   "date_latest": "2000-04-11",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-099",
+   "name": "Mocupe, Peru",
+   "lat": -7.0,
+   "lon": -79.62,
+   "coord_basis": "town_centroid",
+   "date": "2000-04-13",
+   "date_earliest": "2000-04-13",
+   "date_latest": "2000-04-13",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-100",
+   "name": "Chiclayo, Peru",
+   "lat": -6.771,
+   "lon": -79.84,
+   "coord_basis": "town_centroid",
+   "date": "2000-04-14",
+   "date_earliest": "2000-04-14",
+   "date_latest": "2000-04-30",
+   "date_precision": "day",
+   "event": "~17-day stop (anaemia diagnosed; Holy-week trip to Trujillo by truck/bus, offroute).",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-101",
+   "name": "Motupe, Peru",
+   "lat": -6.152,
+   "lon": -79.714,
+   "coord_basis": "town_centroid",
+   "date": "2000-05-03",
+   "date_earliest": "2000-05-03",
+   "date_latest": "2000-05-03",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-102",
+   "name": "Olmos, Peru",
+   "lat": -5.985,
+   "lon": -79.746,
+   "coord_basis": "town_centroid",
+   "date": "2000-05-04",
+   "date_earliest": "2000-05-04",
+   "date_latest": "2000-05-04",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-103",
+   "name": "Piura, Peru",
+   "lat": -5.1945,
+   "lon": -80.6328,
+   "coord_basis": "town_centroid",
+   "date": "2000-05-10",
+   "date_earliest": "2000-05-10",
+   "date_latest": "2000-05-16",
+   "date_precision": "day",
+   "event": "Waited for money 10-16 May.",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-104",
+   "name": "Sullana, Peru",
+   "lat": -4.904,
+   "lon": -80.685,
+   "coord_basis": "town_centroid",
+   "date": "2000-05-16",
+   "date_earliest": "2000-05-16",
+   "date_latest": "2000-05-25",
+   "date_precision": "day",
+   "event": "~17-25 May; bought a donkey and stopped using the trailer.",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-105",
+   "name": "Las Lomas, Peru",
+   "lat": -4.656,
+   "lon": -80.244,
+   "coord_basis": "town_centroid",
+   "date": "2000-05-27",
+   "date_earliest": "2000-05-26",
+   "date_latest": "2000-05-29",
+   "date_precision": "day",
+   "event": "Inland detour (146 km) to avoid border police - no valid visa.",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-106",
+   "name": "Jilili, Peru",
+   "lat": -4.584,
+   "lon": -79.796,
+   "coord_basis": "town_centroid",
+   "date": "2000-06-02",
+   "date_earliest": "2000-06-02",
+   "date_latest": "2000-06-02",
+   "date_precision": "day",
+   "event": "Last Peru grid 2 Jun: 04°33'S 79°48'W, 'a day away from the border'.",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "w01-107",
+   "name": "Peru -> Ecuador unofficial river crossing ('River Caiuas', probably Rio Calvas - inference)",
+   "lat": -4.45,
+   "lon": -79.83,
+   "coord_basis": "approximate_region",
+   "date": "2000-06-03",
+   "date_earliest": "2000-06-03",
+   "date_latest": "2000-06-03",
+   "date_precision": "day",
+   "event": "Crossed away from any border post with pack horse; reported grid \"70 degrees 50 minutes west, 04 degrees 27 minutes south. ( approx )\" - longitude evidently means 79°50'W.",
+   "sources": [
+    "S16"
+   ]
+  },
+  {
+   "id": "w01-108",
+   "name": "Cariamanga, Ecuador",
+   "lat": -4.33,
+   "lon": -79.555,
+   "coord_basis": "town_centroid",
+   "date": "2000-06-07",
+   "date_earliest": "2000-06-07",
+   "date_latest": "2000-06-07",
+   "date_precision": "day",
+   "event": "Sold lame horse; sent kit ahead by bus to Loja.",
+   "sources": [
+    "S16"
+   ]
+  },
+  {
+   "id": "w01-109",
+   "name": "Catamayo, Ecuador",
+   "lat": -3.987,
+   "lon": -79.358,
+   "coord_basis": "town_centroid",
+   "date": "2000-06-10",
+   "date_earliest": "2000-06-10",
+   "date_latest": "2000-06-10",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S16"
+   ]
+  },
+  {
+   "id": "w01-110",
+   "name": "Loja, Ecuador",
+   "lat": -3.993,
+   "lon": -79.204,
+   "coord_basis": "town_centroid",
+   "date": "2000-06-10",
+   "date_earliest": "2000-06-10",
+   "date_latest": "2000-06-25",
+   "date_precision": "day",
+   "event": "Stay 10-25 Jun incl. offroute bus visa run to Macara.",
+   "sources": [
+    "S16"
+   ]
+  },
+  {
+   "id": "w01-111",
+   "name": "Saraguro, Ecuador",
+   "lat": -3.62,
+   "lon": -79.24,
+   "coord_basis": "town_centroid",
+   "date": "2000-06-27",
+   "date_earliest": "2000-06-27",
+   "date_latest": "2000-06-27",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S16"
+   ]
+  },
+  {
+   "id": "w01-112",
+   "name": "Cuenca, Ecuador",
+   "lat": -2.9,
+   "lon": -79.0,
+   "coord_basis": "exact_reported",
+   "date": "2000-07-01",
+   "date_earliest": "2000-07-01",
+   "date_latest": "2000-07-10",
+   "date_precision": "day",
+   "event": "'Distance to date:- 5010 miles approx.' Rest to 10 Jul.",
+   "sources": [
+    "S16",
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-113",
+   "name": "Riobamba, Ecuador",
+   "lat": -1.664,
+   "lon": -78.654,
+   "coord_basis": "town_centroid",
+   "date": "2000-07-16",
+   "date_earliest": "2000-07-16",
+   "date_latest": "2000-07-16",
+   "date_precision": "day",
+   "event": "Notes for 10-22 Jul reconstructed from memory (originals stolen 11 Aug).",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-114",
+   "name": "Ambato, Ecuador",
+   "lat": -1.249,
+   "lon": -78.617,
+   "coord_basis": "town_centroid",
+   "date": "2000-07-20",
+   "date_earliest": "2000-07-20",
+   "date_latest": "2000-07-20",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-115",
+   "name": "Quito (northern side; pick-up point), Ecuador",
+   "lat": -0.18,
+   "lon": -78.467,
+   "coord_basis": "approximate_region",
+   "date": "2000-07-23",
+   "date_earliest": "2000-07-23",
+   "date_latest": "2000-07-23",
+   "date_precision": "day",
+   "event": "Driven ~20 km to San Antonio (offroute) on 23 Jul; later walked the stretch from the pick-up point without equipment (date late Aug, not given).",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-116",
+   "name": "San Antonio / Mitad del Mundo, Ecuador",
+   "lat": -0.0022,
+   "lon": -78.4558,
+   "coord_basis": "town_centroid",
+   "date": "2000-07-23",
+   "date_earliest": "2000-07-23",
+   "date_latest": "2000-08-31",
+   "date_precision": "day",
+   "event": "Stayed with Imbaquingo family 23 Jul-31 Aug; left from equator monument 31 Aug.",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-117",
+   "name": "Otavalo, Ecuador",
+   "lat": 0.234,
+   "lon": -78.262,
+   "coord_basis": "town_centroid",
+   "date": "2000-09-02",
+   "date_earliest": "2000-09-02",
+   "date_latest": "2000-09-02",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-118",
+   "name": "Ibarra, Ecuador",
+   "lat": 0.35,
+   "lon": -78.122,
+   "coord_basis": "town_centroid",
+   "date": "2000-09-04",
+   "date_earliest": "2000-09-04",
+   "date_latest": "2000-09-04",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-119",
+   "name": "El Angel, Ecuador",
+   "lat": 0.62,
+   "lon": -77.94,
+   "coord_basis": "town_centroid",
+   "date": "2000-09-06",
+   "date_earliest": "2000-09-06",
+   "date_latest": "2000-09-06",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-120",
+   "name": "Tulcan, Ecuador",
+   "lat": 0.812,
+   "lon": -77.717,
+   "coord_basis": "town_centroid",
+   "date": "2000-09-07",
+   "date_earliest": "2000-09-07",
+   "date_latest": "2000-09-07",
+   "date_precision": "day",
+   "event": "'At last I made it back onto the Pan-American'.",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-121",
+   "name": "Ecuador -> Colombia border bridge (unnamed in journal; Rumichaca by inference)",
+   "lat": 0.815,
+   "lon": -77.665,
+   "coord_basis": "approximate_region",
+   "date": "2000-09-10",
+   "date_earliest": "2000-09-10",
+   "date_latest": "2000-09-10",
+   "date_precision": "day",
+   "event": "Walked over without stamps ('without a question being asked'); then Ipiales.",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-122",
+   "name": "Ipiales, Colombia",
+   "lat": 0.828,
+   "lon": -77.64,
+   "coord_basis": "town_centroid",
+   "date": "2000-09-10",
+   "date_earliest": "2000-09-10",
+   "date_latest": "2000-09-10",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-123",
+   "name": "Pasto, Colombia",
+   "lat": 1.214,
+   "lon": -77.281,
+   "coord_basis": "town_centroid",
+   "date": "2000-09-12",
+   "date_earliest": "2000-09-12",
+   "date_latest": "2000-09-18",
+   "date_precision": "day",
+   "event": "Rest 12-18 Sep.",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-124",
+   "name": "El Bordo, Colombia",
+   "lat": 2.11,
+   "lon": -76.98,
+   "coord_basis": "town_centroid",
+   "date": "2000-09-23",
+   "date_earliest": "2000-09-23",
+   "date_latest": "2000-09-23",
+   "date_precision": "day",
+   "event": "ELN roadblock reported nearby.",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-125",
+   "name": "Popayan, Colombia",
+   "lat": 2.444,
+   "lon": -76.614,
+   "coord_basis": "town_centroid",
+   "date": "2000-09-25",
+   "date_earliest": "2000-09-25",
+   "date_latest": "2000-09-25",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-126",
+   "name": "Santander de Quilichao, Colombia",
+   "lat": 3.009,
+   "lon": -76.484,
+   "coord_basis": "town_centroid",
+   "date": "2000-09-29",
+   "date_earliest": "2000-09-29",
+   "date_latest": "2000-09-29",
+   "date_precision": "day",
+   "event": "Walked with an army patrol 30 Sep-1 Oct.",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "w01-127",
+   "name": "Cali, Colombia",
+   "lat": 3.4516,
+   "lon": -76.532,
+   "coord_basis": "town_centroid",
+   "date": "2000-10-02",
+   "date_earliest": "2000-10-02",
+   "date_latest": "2000-10-16",
+   "date_precision": "day",
+   "event": "'Total distance to date : 5,680 miles approx.' Stay to 16 Oct (offroute stay at Galia's house above city); resumed from city centre 16 Oct.",
+   "sources": [
+    "S18",
+    "S27"
+   ]
+  },
+  {
+   "id": "w01-128",
+   "name": "Palmira, Colombia",
+   "lat": 3.539,
+   "lon": -76.303,
+   "coord_basis": "town_centroid",
+   "date": "2000-10-16",
+   "date_earliest": "2000-10-16",
+   "date_latest": "2000-10-16",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "w01-129",
+   "name": "Buga, Colombia",
+   "lat": 3.9,
+   "lon": -76.3,
+   "coord_basis": "town_centroid",
+   "date": "2000-10-18",
+   "date_earliest": "2000-10-18",
+   "date_latest": "2000-10-18",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "w01-130",
+   "name": "Cartago, Colombia",
+   "lat": 4.746,
+   "lon": -75.912,
+   "coord_basis": "town_centroid",
+   "date": "2000-10-22",
+   "date_earliest": "2000-10-22",
+   "date_latest": "2000-10-22",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "w01-131",
+   "name": "Pereira, Colombia",
+   "lat": 4.813,
+   "lon": -75.696,
+   "coord_basis": "town_centroid",
+   "date": "2000-10-23",
+   "date_earliest": "2000-10-23",
+   "date_latest": "2000-10-23",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "w01-132",
+   "name": "Caldas, Colombia",
+   "lat": 6.09,
+   "lon": -75.635,
+   "coord_basis": "town_centroid",
+   "date": "2000-11-01",
+   "date_earliest": "2000-11-01",
+   "date_latest": "2000-11-01",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "w01-133",
+   "name": "Medellin, Colombia",
+   "lat": 6.2833,
+   "lon": -75.6167,
+   "coord_basis": "exact_reported",
+   "date": "2000-11-01",
+   "date_earliest": "2000-11-01",
+   "date_latest": "2001-01-14",
+   "date_precision": "day",
+   "event": "Arrived 1 Nov 2000 (2nd anniversary). ~2.5-month pause planning the Darien route, waiting for dry season and money. Departed 14 Jan 2001 on the road to Turbo, disguised as a vagrant (grid of 14 Jan entry).",
+   "sources": [
+    "S18",
+    "S19",
+    "S20",
+    "S30",
+    "S33"
+   ]
+  },
+  {
+   "id": "w01-134",
+   "name": "San Jeronimo, Colombia",
+   "lat": 6.448,
+   "lon": -75.727,
+   "coord_basis": "town_centroid",
+   "date": "2001-01-15",
+   "date_earliest": "2001-01-15",
+   "date_latest": "2001-01-15",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "w01-135",
+   "name": "Santa Fe de Antioquia (Rio Cauca crossing), Colombia",
+   "lat": 6.6,
+   "lon": -75.8333,
+   "coord_basis": "exact_reported",
+   "date": "2001-01-17",
+   "date_earliest": "2001-01-17",
+   "date_latest": "2001-01-17",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "w01-136",
+   "name": "Canasgordas, Colombia",
+   "lat": 6.7667,
+   "lon": -76.0333,
+   "coord_basis": "exact_reported",
+   "date": "2001-01-19",
+   "date_earliest": "2001-01-19",
+   "date_latest": "2001-01-19",
+   "date_precision": "day",
+   "event": "Held briefly by AUC paramilitaries, released.",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "w01-137",
+   "name": "Uramita, Colombia",
+   "lat": 6.9,
+   "lon": -76.1667,
+   "coord_basis": "exact_reported",
+   "date": "2001-01-20",
+   "date_earliest": "2001-01-20",
+   "date_latest": "2001-01-20",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "w01-138",
+   "name": "Dabeiba, Colombia",
+   "lat": 6.9833,
+   "lon": -76.2667,
+   "coord_basis": "exact_reported",
+   "date": "2001-01-21",
+   "date_earliest": "2001-01-21",
+   "date_latest": "2001-01-21",
+   "date_precision": "day",
+   "event": "Questioned by FARC unit north of Dabeiba on 22 Jan (grid 07°06'N 76°24'W).",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "w01-139",
+   "name": "Mutata, Colombia",
+   "lat": 7.244,
+   "lon": -76.436,
+   "coord_basis": "town_centroid",
+   "date": "2001-01-23",
+   "date_earliest": "2001-01-23",
+   "date_latest": "2001-01-23",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "w01-140",
+   "name": "El Tigre (left main Medellin-Turbo road), Colombia",
+   "lat": 7.5833,
+   "lon": -76.6333,
+   "coord_basis": "exact_reported",
+   "date": "2001-01-25",
+   "date_earliest": "2001-01-25",
+   "date_latest": "2001-01-25",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "w01-141",
+   "name": "'Casa 40' track dead end (~40 km from El Tigre), Colombia",
+   "lat": 7.48,
+   "lon": -76.95,
+   "coord_basis": "approximate_region",
+   "date": "2001-01-26",
+   "date_earliest": "2001-01-26",
+   "date_latest": "2001-01-26",
+   "date_precision": "day",
+   "event": "Track did not reach the Rio Atrato; next day rode back in an AUC pick-up over ground already walked (offroute backtrack). Coordinates rough.",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "w01-142",
+   "name": "Belen de Bajira army post, Colombia",
+   "lat": 7.37,
+   "lon": -76.72,
+   "coord_basis": "town_centroid",
+   "date": "2001-01-27",
+   "date_earliest": "2001-01-27",
+   "date_latest": "2001-01-27",
+   "date_precision": "day",
+   "event": "Signed statement acknowledging danger.",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "w01-143",
+   "name": "Night 28 Jan 2001 on Bajira-Riosucio track (journal grid)",
+   "lat": 7.35,
+   "lon": -76.9,
+   "coord_basis": "exact_reported",
+   "date": "2001-01-28",
+   "date_earliest": "2001-01-28",
+   "date_latest": "2001-01-28",
+   "date_precision": "day",
+   "event": "20+ armed men passed close in the night ('this could be my last letter home').",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "w01-144",
+   "name": "Riosucio army post, Colombia",
+   "lat": 7.4333,
+   "lon": -77.1,
+   "coord_basis": "exact_reported",
+   "date": "2001-01-29",
+   "date_earliest": "2001-01-29",
+   "date_latest": "2001-01-31",
+   "date_precision": "day",
+   "event": "Rest 30-31 Jan.",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "w01-145",
+   "name": "Rio Atrato, floating/swimming downstream (journal grid 1 Feb)",
+   "lat": 7.5167,
+   "lon": -77.0833,
+   "coord_basis": "exact_reported",
+   "date": "2001-02-01",
+   "date_earliest": "2001-02-01",
+   "date_latest": "2001-02-01",
+   "date_precision": "day",
+   "event": "Entered the river hidden among debris; ~32 miles in the river per home team.",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "w01-146",
+   "name": "Travesia ('Travisa'), left the Atrato (journal grid 4 Feb)",
+   "lat": 7.7333,
+   "lon": -77.1333,
+   "coord_basis": "exact_reported",
+   "date": "2001-02-04",
+   "date_earliest": "2001-02-04",
+   "date_latest": "2001-02-04",
+   "date_precision": "day",
+   "event": "Refused boat lifts ('I can't take a boat').",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "w01-147",
+   "name": "Jungle/hills west of Atrato near Cristales/Bijao (journal grid 11 Feb)",
+   "lat": 7.8167,
+   "lon": -77.3,
+   "coord_basis": "exact_reported",
+   "date": "2001-02-11",
+   "date_earliest": "2001-02-05",
+   "date_latest": "2001-02-11",
+   "date_precision": "day",
+   "event": "Cross-country, no track, 5-11 Feb.",
+   "sources": [
+    "S20",
+    "S21"
+   ]
+  },
+  {
+   "id": "w01-148",
+   "name": "Colombia -> Panama border ridge near Palo de las Letras (journal grid 12 Feb)",
+   "lat": 7.8667,
+   "lon": -77.35,
+   "coord_basis": "exact_reported",
+   "date": "2001-02-12",
+   "date_earliest": "2001-02-12",
+   "date_latest": "2001-02-13",
+   "date_precision": "day",
+   "event": "Reached ridgeline and found a track, '300 metres from where I've marked the village of Palo de Letras'. Exact moment of crossing the line not stated (12 or 13 Feb). No Colombian exit stamp.",
+   "sources": [
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "w01-149",
+   "name": "Paya, Panama",
+   "lat": 7.9,
+   "lon": -77.3833,
+   "coord_basis": "exact_reported",
+   "date": "2001-02-13",
+   "date_earliest": "2001-02-13",
+   "date_latest": "2001-02-13",
+   "date_precision": "day",
+   "event": "First Panamanian village; \"Welcome to Panama, welcome to Central America and welcome to 'Stage Three'.\"",
+   "sources": [
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "w01-150",
+   "name": "Pucuro, Panama",
+   "lat": 7.9667,
+   "lon": -77.4833,
+   "coord_basis": "exact_reported",
+   "date": "2001-02-14",
+   "date_earliest": "2001-02-14",
+   "date_latest": "2001-02-14",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S21"
+   ]
+  },
+  {
+   "id": "w01-151",
+   "name": "Boca de Cupe, Panama",
+   "lat": 8.0333,
+   "lon": -77.5833,
+   "coord_basis": "exact_reported",
+   "date": "2001-02-16",
+   "date_earliest": "2001-02-16",
+   "date_latest": "2001-03-08",
+   "date_precision": "day",
+   "event": "Detained by Panamanian police (no visa / no exit stamp). Held here to 20 Feb, then moved offroute (helicopter forced landing at Yaviza, truck to Meteti cells 20-23 Feb, boat to La Palma prison 23 Feb-5 Mar). 18 days custody. Returned to Boca de Cupe 7 Mar; restarted 8 Mar with officer's signature as proof.",
+   "sources": [
+    "S21",
+    "S23",
+    "S24",
+    "S29"
+   ]
+  },
+  {
+   "id": "w01-152",
+   "name": "Meteti police cells (custody, offroute)",
+   "lat": 8.495,
+   "lon": -77.977,
+   "coord_basis": "town_centroid",
+   "date": "2001-02-20",
+   "date_earliest": "2001-02-20",
+   "date_latest": "2001-02-23",
+   "date_precision": "day",
+   "event": "Custody 20-23 Feb; Karl: 'I was far better off in Meteti.'",
+   "sources": [
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "w01-153",
+   "name": "La Palma prison (custody, offroute)",
+   "lat": 8.405,
+   "lon": -78.141,
+   "coord_basis": "town_centroid",
+   "date": "2001-02-23",
+   "date_earliest": "2001-02-23",
+   "date_latest": "2001-03-05",
+   "date_precision": "day",
+   "event": "Custody 23 Feb-5 Mar; released to walk on and collect visa in Panama City.",
+   "sources": [
+    "S21",
+    "S24"
+   ]
+  },
+  {
+   "id": "w01-154",
+   "name": "Pinogana, Panama",
+   "lat": 8.1167,
+   "lon": -77.6833,
+   "coord_basis": "exact_reported",
+   "date": "2001-03-08",
+   "date_earliest": "2001-03-08",
+   "date_latest": "2001-03-08",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S21"
+   ]
+  },
+  {
+   "id": "w01-155",
+   "name": "Yaviza (start of Pan-American Highway), Panama",
+   "lat": 8.157,
+   "lon": -77.693,
+   "coord_basis": "town_centroid",
+   "date": "2001-03-09",
+   "date_earliest": "2001-03-09",
+   "date_latest": "2001-03-09",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "w01-156",
+   "name": "Meteti (walking), Panama",
+   "lat": 8.5667,
+   "lon": -78.05,
+   "coord_basis": "exact_reported",
+   "date": "2001-03-10",
+   "date_earliest": "2001-03-10",
+   "date_latest": "2001-03-10",
+   "date_precision": "day",
+   "event": "'it was about 13:30 when I reached Meteti again'. Grid is the journal's night position.",
+   "sources": [
+    "S21"
+   ]
+  },
+  {
+   "id": "w01-157",
+   "name": "Torti, Panama",
+   "lat": 8.8833,
+   "lon": -78.4,
+   "coord_basis": "exact_reported",
+   "date": "2001-03-12",
+   "date_earliest": "2001-03-12",
+   "date_latest": "2001-03-12",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S21"
+   ]
+  },
+  {
+   "id": "w01-158",
+   "name": "Between the Bayano lakes, Panama",
+   "lat": 9.15,
+   "lon": -78.6833,
+   "coord_basis": "exact_reported",
+   "date": "2001-03-13",
+   "date_earliest": "2001-03-13",
+   "date_latest": "2001-03-13",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S21"
+   ]
+  },
+  {
+   "id": "w01-159",
+   "name": "Panama City (British Embassy), Panama",
+   "lat": 8.9824,
+   "lon": -79.5199,
+   "coord_basis": "town_centroid",
+   "date": "2001-03-16",
+   "date_earliest": "2001-03-16",
+   "date_latest": "2001-04-04",
+   "date_precision": "day",
+   "event": "Arrived 16 Mar ('6,671 miles from his starting point' - home team). Pause to 4 Apr (no money, depression; resupply at embassy).",
+   "sources": [
+    "S21",
+    "S22",
+    "S23",
+    "S28"
+   ]
+  },
+  {
+   "id": "w01-160",
+   "name": "Bridge of the Americas, Panama",
+   "lat": 8.888,
+   "lon": -79.565,
+   "coord_basis": "town_centroid",
+   "date": "2001-04-04",
+   "date_earliest": "2001-04-04",
+   "date_latest": "2001-04-04",
+   "date_precision": "day",
+   "event": "Resumed walking west.",
+   "sources": [
+    "S22"
+   ]
+  },
+  {
+   "id": "w01-161",
+   "name": "Penonome, Panama",
+   "lat": 8.519,
+   "lon": -80.357,
+   "coord_basis": "town_centroid",
+   "date": "2001-04-08",
+   "date_earliest": "2001-04-08",
+   "date_latest": "2001-04-08",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S22"
+   ]
+  },
+  {
+   "id": "w01-162",
+   "name": "Nata, Panama",
+   "lat": 8.333,
+   "lon": -80.52,
+   "coord_basis": "town_centroid",
+   "date": "2001-04-09",
+   "date_earliest": "2001-04-09",
+   "date_latest": "2001-04-09",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S22"
+   ]
+  },
+  {
+   "id": "w01-163",
+   "name": "'Chuiqui' (Chiriqui village), Panama",
+   "lat": 8.3833,
+   "lon": -82.3333,
+   "coord_basis": "exact_reported",
+   "date": "2001-04-17",
+   "date_earliest": "2001-04-17",
+   "date_latest": "2001-04-17",
+   "date_precision": "day",
+   "event": "",
+   "sources": [
+    "S22"
+   ]
+  },
+  {
+   "id": "w01-164",
+   "name": "David, Panama",
+   "lat": 8.427,
+   "lon": -82.431,
+   "coord_basis": "town_centroid",
+   "date": "2001-04-18",
+   "date_earliest": "2001-04-18",
+   "date_latest": "2001-04-24",
+   "date_precision": "day",
+   "event": "Short stop ~18-24 Apr.",
+   "sources": [
+    "S22"
+   ]
+  },
+  {
+   "id": "w01-165",
+   "name": "Few km short of Costa Rica border (journal grid 25 Apr) - end of Leg 01 data",
+   "lat": 8.4833,
+   "lon": -82.8,
+   "coord_basis": "exact_reported",
+   "date": "2001-04-25",
+   "date_earliest": "2001-04-25",
+   "date_latest": "2001-04-25",
+   "date_precision": "day",
+   "event": "'Tonight I stopped just a few K's from the border with Costa Rica.' Border crossing itself belongs to leg 02 (Costa Rica journals not examined here).",
+   "sources": [
+    "S22"
+   ]
+  }
+ ],
+ "segments": [
+  {
+   "id": "s01-001",
+   "from": "w01-001",
+   "to": "w01-002",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Main road Punta Arenas -> Argentine border (route numbers not given in journal; consistent with Chile Ruta 9 then Ruta 255 - inference); includes 4-5 Nov wrong-turn loop on a dirt track",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s01-002",
+   "from": "w01-002",
+   "to": "w01-003",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Main road Punta Arenas -> Argentine border (route numbers not given in journal; consistent with Chile Ruta 9 then Ruta 255 - inference); includes 4-5 Nov wrong-turn loop on a dirt track",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s01-003",
+   "from": "w01-003",
+   "to": "w01-004",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Main road Punta Arenas -> Argentine border (route numbers not given in journal; consistent with Chile Ruta 9 then Ruta 255 - inference); includes 4-5 Nov wrong-turn loop on a dirt track",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s01-004",
+   "from": "w01-004",
+   "to": "w01-005",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Main road Punta Arenas -> Argentine border (route numbers not given in journal; consistent with Chile Ruta 9 then Ruta 255 - inference); includes 4-5 Nov wrong-turn loop on a dirt track",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s01-005",
+   "from": "w01-005",
+   "to": "w01-006",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Main road Punta Arenas -> Argentine border (route numbers not given in journal; consistent with Chile Ruta 9 then Ruta 255 - inference); includes 4-5 Nov wrong-turn loop on a dirt track",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s01-006",
+   "from": "w01-006",
+   "to": "w01-007",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Main road Punta Arenas -> Argentine border (route numbers not given in journal; consistent with Chile Ruta 9 then Ruta 255 - inference); includes 4-5 Nov wrong-turn loop on a dirt track",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s01-007",
+   "from": "w01-007",
+   "to": "w01-008",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Main road Punta Arenas -> Argentine border (route numbers not given in journal; consistent with Chile Ruta 9 then Ruta 255 - inference); includes 4-5 Nov wrong-turn loop on a dirt track",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s01-008",
+   "from": "w01-008",
+   "to": "w01-009",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Argentine road to Rio Gallegos, then north from Rio Gallegos (road number not given; consistent with Ruta 3 - inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1",
+    "S2"
+   ]
+  },
+  {
+   "id": "s01-009",
+   "from": "w01-009",
+   "to": "w01-010",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Argentine road to Rio Gallegos, then north from Rio Gallegos (road number not given; consistent with Ruta 3 - inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1",
+    "S2"
+   ]
+  },
+  {
+   "id": "s01-010",
+   "from": "w01-010",
+   "to": "w01-011",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Argentine road to Rio Gallegos, then north from Rio Gallegos (road number not given; consistent with Ruta 3 - inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1",
+    "S2"
+   ]
+  },
+  {
+   "id": "s01-011",
+   "from": "w01-011",
+   "to": "w01-012",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Argentine road to Rio Gallegos, then north from Rio Gallegos (road number not given; consistent with Ruta 3 - inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1",
+    "S2"
+   ]
+  },
+  {
+   "id": "s01-012",
+   "from": "w01-012",
+   "to": "w01-013",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Argentine road to Rio Gallegos, then north from Rio Gallegos (road number not given; consistent with Ruta 3 - inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1",
+    "S2"
+   ]
+  },
+  {
+   "id": "s01-013",
+   "from": "w01-013",
+   "to": "w01-014",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Argentine road to Rio Gallegos, then north from Rio Gallegos (road number not given; consistent with Ruta 3 - inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1",
+    "S2"
+   ]
+  },
+  {
+   "id": "s01-014",
+   "from": "w01-014",
+   "to": "w01-015",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Dirt road Piedra Buena -> Gobernador Gregores (road number not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s01-015",
+   "from": "w01-015",
+   "to": "w01-016",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Dirt road Piedra Buena -> Gobernador Gregores (road number not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s01-016",
+   "from": "w01-016",
+   "to": "w01-017",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Dirt road Piedra Buena -> Gobernador Gregores (road number not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s01-017",
+   "from": "w01-017",
+   "to": "w01-018",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Dirt road Piedra Buena -> Gobernador Gregores (road number not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s01-018",
+   "from": "w01-018",
+   "to": "w01-019",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Dirt road Piedra Buena -> Gobernador Gregores (road number not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s01-019",
+   "from": "w01-019",
+   "to": "w01-020",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Dirt road Piedra Buena -> Gobernador Gregores (road number not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s01-020",
+   "from": "w01-020",
+   "to": "w01-021",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-021",
+   "from": "w01-021",
+   "to": "w01-022",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-022",
+   "from": "w01-022",
+   "to": "w01-023",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-023",
+   "from": "w01-023",
+   "to": "w01-024",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-024",
+   "from": "w01-024",
+   "to": "w01-025",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-025",
+   "from": "w01-025",
+   "to": "w01-026",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-026",
+   "from": "w01-026",
+   "to": "w01-027",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-027",
+   "from": "w01-027",
+   "to": "w01-028",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-028",
+   "from": "w01-028",
+   "to": "w01-029",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-029",
+   "from": "w01-029",
+   "to": "w01-030",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-030",
+   "from": "w01-030",
+   "to": "w01-031",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-031",
+   "from": "w01-031",
+   "to": "w01-032",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "From 11 Dec 1998 'route 40' (Ruta 40) north via Bajo Caracoles",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "s01-032",
+   "from": "w01-032",
+   "to": "w01-033",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "'the track that is route 40 north' (Ruta 40) via Rio Mayo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5",
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-033",
+   "from": "w01-033",
+   "to": "w01-034",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "'the track that is route 40 north' (Ruta 40) via Rio Mayo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5",
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-034",
+   "from": "w01-034",
+   "to": "w01-035",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "'the track that is route 40 north' (Ruta 40) via Rio Mayo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5",
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-035",
+   "from": "w01-035",
+   "to": "w01-036",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "'the track that is route 40 north' (Ruta 40) via Rio Mayo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5",
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-036",
+   "from": "w01-036",
+   "to": "w01-037",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "'the track that is route 40 north' (Ruta 40) via Rio Mayo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5",
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-037",
+   "from": "w01-037",
+   "to": "w01-038",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "'the track that is route 40 north' (Ruta 40) via Rio Mayo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5",
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-038",
+   "from": "w01-038",
+   "to": "w01-039",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "'the track that is route 40 north' (Ruta 40) via Rio Mayo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5",
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-039",
+   "from": "w01-039",
+   "to": "w01-040",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "'the track that is route 40 north' (Ruta 40) via Rio Mayo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5",
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-040",
+   "from": "w01-040",
+   "to": "w01-041",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "'the track that is route 40 north' (Ruta 40) via Rio Mayo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5",
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-041",
+   "from": "w01-041",
+   "to": "w01-042",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "'the track that is route 40 north' (Ruta 40) via Rio Mayo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5",
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-042",
+   "from": "w01-042",
+   "to": "w01-043",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Main road north via Tecka (route number not given; Ruta 40 by inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-043",
+   "from": "w01-043",
+   "to": "w01-044",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Main road north via Tecka (route number not given; Ruta 40 by inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-044",
+   "from": "w01-044",
+   "to": "w01-045",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Main road north via Tecka (route number not given; Ruta 40 by inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s01-045",
+   "from": "w01-045",
+   "to": "w01-046",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Spur from main road down to Esquel (not named)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Walked into Esquel off the main route.",
+   "sources": [
+    "S6",
+    "S7"
+   ]
+  },
+  {
+   "id": "s01-046",
+   "from": "w01-046",
+   "to": "w01-045",
+   "mode": "offroute",
+   "route_basis": "unknown",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": false,
+   "notes": "22 Feb 1999: William drove Karl and the trailer back up to the junction where he had left the main road (journal, sic: \"As I had an already walked this route, I didn't need to do it again\").",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "s01-047",
+   "from": "w01-045",
+   "to": "w01-047",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Main road north from the Esquel junction (route number not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Resumed 22 Feb 1999 from the junction.",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "s01-048",
+   "from": "w01-047",
+   "to": "w01-048",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads via El Bolson, Bariloche, Villa La Angostura to Andean pass (numbers not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "s01-049",
+   "from": "w01-048",
+   "to": "w01-049",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads via El Bolson, Bariloche, Villa La Angostura to Andean pass (numbers not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "s01-050",
+   "from": "w01-049",
+   "to": "w01-050",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads via El Bolson, Bariloche, Villa La Angostura to Andean pass (numbers not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "s01-051",
+   "from": "w01-050",
+   "to": "w01-051",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads via El Bolson, Bariloche, Villa La Angostura to Andean pass (numbers not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "s01-052",
+   "from": "w01-051",
+   "to": "w01-052",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Paved road down from pass to Entre Lagos and Osorno (number not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8"
+   ]
+  },
+  {
+   "id": "s01-053",
+   "from": "w01-052",
+   "to": "w01-053",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Paved road down from pass to Entre Lagos and Osorno (number not given)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8"
+   ]
+  },
+  {
+   "id": "s01-054",
+   "from": "w01-053",
+   "to": "w01-054",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-055",
+   "from": "w01-054",
+   "to": "w01-055",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-056",
+   "from": "w01-055",
+   "to": "w01-056",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-057",
+   "from": "w01-056",
+   "to": "w01-057",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-058",
+   "from": "w01-057",
+   "to": "w01-058",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-059",
+   "from": "w01-058",
+   "to": "w01-059",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-060",
+   "from": "w01-059",
+   "to": "w01-060",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-061",
+   "from": "w01-060",
+   "to": "w01-061",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-062",
+   "from": "w01-061",
+   "to": "w01-062",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-063",
+   "from": "w01-062",
+   "to": "w01-063",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [
+    "Treiz (girlfriend) walked 15 km with him around El Melon, 5-6 Jun 1999"
+   ],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-064",
+   "from": "w01-063",
+   "to": "w01-064",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-065",
+   "from": "w01-064",
+   "to": "w01-065",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-066",
+   "from": "w01-065",
+   "to": "w01-066",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-067",
+   "from": "w01-066",
+   "to": "w01-067",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-068",
+   "from": "w01-067",
+   "to": "w01-068",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-069",
+   "from": "w01-068",
+   "to": "w01-069",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-070",
+   "from": "w01-069",
+   "to": "w01-070",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-071",
+   "from": "w01-070",
+   "to": "w01-071",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American Highway (Panamericana) north; final descent from La Negra west to Antofagasta",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S8",
+    "S9",
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "id": "s01-072",
+   "from": "w01-071",
+   "to": "w01-072",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Coastal road Antofagasta -> Mejillones -> Tocopilla -> Iquique, inland to Humberstone (road not named; Ruta 1 by inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "s01-073",
+   "from": "w01-072",
+   "to": "w01-073",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Coastal road Antofagasta -> Mejillones -> Tocopilla -> Iquique, inland to Humberstone (road not named; Ruta 1 by inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "s01-074",
+   "from": "w01-073",
+   "to": "w01-074",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Coastal road Antofagasta -> Mejillones -> Tocopilla -> Iquique, inland to Humberstone (road not named; Ruta 1 by inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "s01-075",
+   "from": "w01-074",
+   "to": "w01-075",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Coastal road Antofagasta -> Mejillones -> Tocopilla -> Iquique, inland to Humberstone (road not named; Ruta 1 by inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "s01-076",
+   "from": "w01-075",
+   "to": "w01-076",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Coastal road Antofagasta -> Mejillones -> Tocopilla -> Iquique, inland to Humberstone (road not named; Ruta 1 by inference)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "s01-077",
+   "from": "w01-076",
+   "to": "w01-077",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American north to Arica and the Peruvian border",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "s01-078",
+   "from": "w01-077",
+   "to": "w01-078",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American north to Arica and the Peruvian border",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "s01-079",
+   "from": "w01-078",
+   "to": "w01-079",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American north to Arica and the Peruvian border",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "s01-080",
+   "from": "w01-079",
+   "to": "w01-080",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Route 5 / Pan-American north to Arica and the Peruvian border",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "s01-081",
+   "from": "w01-080",
+   "to": "w01-081",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway (Panamericana Sur); detour into Moquegua and back",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "s01-082",
+   "from": "w01-081",
+   "to": "w01-082",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway (Panamericana Sur); detour into Moquegua and back",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "s01-083",
+   "from": "w01-082",
+   "to": "w01-083",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway (Panamericana Sur); detour into Moquegua and back",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "s01-084",
+   "from": "w01-083",
+   "to": "w01-084",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Road off the Pan-American up to Arequipa (2,175 m summit)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "'I could have got a lift into Arequipa as it was well off my route... However I wanted to enter the town on foot' (Peru p.2).",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "s01-085",
+   "from": "w01-084",
+   "to": "w01-085",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Road Arequipa -> Uchumayo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Walked ~19 km on 4 Jan 2000.",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "s01-086",
+   "from": "w01-085",
+   "to": "w01-086",
+   "mode": "offroute",
+   "route_basis": "unknown",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": false,
+   "notes": "Truck lift Uchumayo -> Pan-American junction, 4 Jan 2000. Whether he was dropped at the same junction where he left the Pan-American on 1 Dec 1999 is NOT established.",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "s01-087",
+   "from": "w01-086",
+   "to": "w01-087",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-088",
+   "from": "w01-087",
+   "to": "w01-088",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-089",
+   "from": "w01-088",
+   "to": "w01-089",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-090",
+   "from": "w01-089",
+   "to": "w01-090",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-091",
+   "from": "w01-090",
+   "to": "w01-091",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-092",
+   "from": "w01-091",
+   "to": "w01-092",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-093",
+   "from": "w01-092",
+   "to": "w01-093",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-094",
+   "from": "w01-093",
+   "to": "w01-094",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-095",
+   "from": "w01-094",
+   "to": "w01-095",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-096",
+   "from": "w01-095",
+   "to": "w01-096",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-097",
+   "from": "w01-096",
+   "to": "w01-097",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-098",
+   "from": "w01-097",
+   "to": "w01-098",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-099",
+   "from": "w01-098",
+   "to": "w01-099",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-100",
+   "from": "w01-099",
+   "to": "w01-100",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-101",
+   "from": "w01-100",
+   "to": "w01-101",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-102",
+   "from": "w01-101",
+   "to": "w01-102",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-103",
+   "from": "w01-102",
+   "to": "w01-103",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-104",
+   "from": "w01-103",
+   "to": "w01-104",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway north (coastal), entering Lima by beach road",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S13",
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-105",
+   "from": "w01-104",
+   "to": "w01-105",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Inland tracks/roads via Las Lomas, Montero, Jilili with donkey then horse - deliberate 146 km detour to avoid border police",
+   "companions": [
+    "pack donkey, later a horse; a local guide on 29 May 2000"
+   ],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-106",
+   "from": "w01-105",
+   "to": "w01-106",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Inland tracks/roads via Las Lomas, Montero, Jilili with donkey then horse - deliberate 146 km detour to avoid border police",
+   "companions": [
+    "pack donkey, later a horse; a local guide on 29 May 2000"
+   ],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-107",
+   "from": "w01-106",
+   "to": "w01-107",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Inland tracks/roads via Las Lomas, Montero, Jilili with donkey then horse - deliberate 146 km detour to avoid border police",
+   "companions": [
+    "pack horse; locals floated his load across the river on an inner tube"
+   ],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "s01-108",
+   "from": "w01-107",
+   "to": "w01-108",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Off-road tracks then roads via Cariamanga, Gonzanama, Catamayo (kit sent ahead by bus from Cariamanga)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S16"
+   ]
+  },
+  {
+   "id": "s01-109",
+   "from": "w01-108",
+   "to": "w01-109",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Off-road tracks then roads via Cariamanga, Gonzanama, Catamayo (kit sent ahead by bus from Cariamanga)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S16"
+   ]
+  },
+  {
+   "id": "s01-110",
+   "from": "w01-109",
+   "to": "w01-110",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Off-road tracks then roads via Cariamanga, Gonzanama, Catamayo (kit sent ahead by bus from Cariamanga)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S16"
+   ]
+  },
+  {
+   "id": "s01-111",
+   "from": "w01-110",
+   "to": "w01-111",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads Loja -> Cuenca -> Riobamba -> Ambato -> Quito (Pan-American not explicitly named for this stretch)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S16",
+    "S17"
+   ]
+  },
+  {
+   "id": "s01-112",
+   "from": "w01-111",
+   "to": "w01-112",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads Loja -> Cuenca -> Riobamba -> Ambato -> Quito (Pan-American not explicitly named for this stretch)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S16",
+    "S17"
+   ]
+  },
+  {
+   "id": "s01-113",
+   "from": "w01-112",
+   "to": "w01-113",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads Loja -> Cuenca -> Riobamba -> Ambato -> Quito (Pan-American not explicitly named for this stretch)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S16",
+    "S17"
+   ]
+  },
+  {
+   "id": "s01-114",
+   "from": "w01-113",
+   "to": "w01-114",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads Loja -> Cuenca -> Riobamba -> Ambato -> Quito (Pan-American not explicitly named for this stretch)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S16",
+    "S17"
+   ]
+  },
+  {
+   "id": "s01-115",
+   "from": "w01-114",
+   "to": "w01-115",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads Loja -> Cuenca -> Riobamba -> Ambato -> Quito (Pan-American not explicitly named for this stretch)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S16",
+    "S17"
+   ]
+  },
+  {
+   "id": "s01-116",
+   "from": "w01-115",
+   "to": "w01-116",
+   "mode": "offroute",
+   "route_basis": "unknown",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": false,
+   "notes": "23 Jul 2000: driven ~20 km by a family from north Quito to San Antonio.",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "s01-117",
+   "from": "w01-115",
+   "to": "w01-116",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Late Aug 2000 (date not given): walked the same stretch from the pick-up point without equipment ('it took only 3 hours to cover the 22 kilometres').",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "s01-118",
+   "from": "w01-116",
+   "to": "w01-117",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Via San Jose de Minas, Otavalo, Ibarra, El Angel; 'very urbanised along the Pan-American' (3 Sep); 'back onto the Pan-American' at Tulcan",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "s01-119",
+   "from": "w01-117",
+   "to": "w01-118",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Via San Jose de Minas, Otavalo, Ibarra, El Angel; 'very urbanised along the Pan-American' (3 Sep); 'back onto the Pan-American' at Tulcan",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "s01-120",
+   "from": "w01-118",
+   "to": "w01-119",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Via San Jose de Minas, Otavalo, Ibarra, El Angel; 'very urbanised along the Pan-American' (3 Sep); 'back onto the Pan-American' at Tulcan",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "s01-121",
+   "from": "w01-119",
+   "to": "w01-120",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Via San Jose de Minas, Otavalo, Ibarra, El Angel; 'very urbanised along the Pan-American' (3 Sep); 'back onto the Pan-American' at Tulcan",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "s01-122",
+   "from": "w01-120",
+   "to": "w01-121",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway ('Pan Am') Ipiales -> Pasto -> Popayan -> Cali",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S17",
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-123",
+   "from": "w01-121",
+   "to": "w01-122",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway ('Pan Am') Ipiales -> Pasto -> Popayan -> Cali",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S17",
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-124",
+   "from": "w01-122",
+   "to": "w01-123",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway ('Pan Am') Ipiales -> Pasto -> Popayan -> Cali",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S17",
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-125",
+   "from": "w01-123",
+   "to": "w01-124",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway ('Pan Am') Ipiales -> Pasto -> Popayan -> Cali",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S17",
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-126",
+   "from": "w01-124",
+   "to": "w01-125",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway ('Pan Am') Ipiales -> Pasto -> Popayan -> Cali",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S17",
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-127",
+   "from": "w01-125",
+   "to": "w01-126",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway ('Pan Am') Ipiales -> Pasto -> Popayan -> Cali",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S17",
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-128",
+   "from": "w01-126",
+   "to": "w01-127",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway ('Pan Am') Ipiales -> Pasto -> Popayan -> Cali",
+   "companions": [
+    "Colombian army patrol, 30 Sep-1 Oct 2000"
+   ],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S17",
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-129",
+   "from": "w01-127",
+   "to": "w01-128",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads north via Palmira, Buga, Zarzal, Cartago, Pereira, Caldas (road names not given in the journals examined)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-130",
+   "from": "w01-128",
+   "to": "w01-129",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads north via Palmira, Buga, Zarzal, Cartago, Pereira, Caldas (road names not given in the journals examined)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-131",
+   "from": "w01-129",
+   "to": "w01-130",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads north via Palmira, Buga, Zarzal, Cartago, Pereira, Caldas (road names not given in the journals examined)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-132",
+   "from": "w01-130",
+   "to": "w01-131",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads north via Palmira, Buga, Zarzal, Cartago, Pereira, Caldas (road names not given in the journals examined)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-133",
+   "from": "w01-131",
+   "to": "w01-132",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads north via Palmira, Buga, Zarzal, Cartago, Pereira, Caldas (road names not given in the journals examined)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-134",
+   "from": "w01-132",
+   "to": "w01-133",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Roads north via Palmira, Buga, Zarzal, Cartago, Pereira, Caldas (road names not given in the journals examined)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "s01-135",
+   "from": "w01-133",
+   "to": "w01-134",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Medellin -> Turbo road as far as El Tigre",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-136",
+   "from": "w01-134",
+   "to": "w01-135",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Medellin -> Turbo road as far as El Tigre",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-137",
+   "from": "w01-135",
+   "to": "w01-136",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Medellin -> Turbo road as far as El Tigre",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-138",
+   "from": "w01-136",
+   "to": "w01-137",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Medellin -> Turbo road as far as El Tigre",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-139",
+   "from": "w01-137",
+   "to": "w01-138",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Medellin -> Turbo road as far as El Tigre",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-140",
+   "from": "w01-138",
+   "to": "w01-139",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Medellin -> Turbo road as far as El Tigre",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-141",
+   "from": "w01-139",
+   "to": "w01-140",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Medellin -> Turbo road as far as El Tigre",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-142",
+   "from": "w01-140",
+   "to": "w01-141",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Track from El Tigre west via Barranquillita to dead end 'Casa 40'",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "s01-143",
+   "from": "w01-141",
+   "to": "w01-142",
+   "mode": "offroute",
+   "route_basis": "unknown",
+   "route_detail": "Back along the same track to Barranquillita in an AUC pick-up, then on foot to Bajira",
+   "companions": [],
+   "counts_as_progress": false,
+   "notes": "27 Jan 2001: backtrack ride over ground already walked ('it hasn't advanced me one yard'); the Barranquillita->Bajira part was walked. Treated as offroute because the Casa 40 spur was a dead end.",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "s01-144",
+   "from": "w01-142",
+   "to": "w01-143",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Track Bajira -> Riosucio across swampy plain",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "s01-145",
+   "from": "w01-143",
+   "to": "w01-144",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Track Bajira -> Riosucio across swampy plain",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "s01-146",
+   "from": "w01-144",
+   "to": "w01-145",
+   "mode": "swim",
+   "route_basis": "waypoints_only",
+   "route_detail": "Rio Atrato downstream (floating/swimming)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Rio Atrato: floated and swam among debris, refused boat lifts.",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-147",
+   "from": "w01-145",
+   "to": "w01-146",
+   "mode": "swim",
+   "route_basis": "waypoints_only",
+   "route_detail": "Rio Atrato downstream (floating/swimming)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Rio Atrato: floated and swam among debris, refused boat lifts.",
+   "sources": [
+    "S20",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-148",
+   "from": "w01-146",
+   "to": "w01-147",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Cross-country jungle to border ridge, then track Paya -> Pucuro, then rivers to Boca de Cupe",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-149",
+   "from": "w01-147",
+   "to": "w01-148",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Cross-country jungle to border ridge, then track Paya -> Pucuro, then rivers to Boca de Cupe",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-150",
+   "from": "w01-148",
+   "to": "w01-149",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Cross-country jungle to border ridge, then track Paya -> Pucuro, then rivers to Boca de Cupe",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-151",
+   "from": "w01-149",
+   "to": "w01-150",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Cross-country jungle to border ridge, then track Paya -> Pucuro, then rivers to Boca de Cupe",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-152",
+   "from": "w01-150",
+   "to": "w01-151",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Cross-country jungle to border ridge, then track Paya -> Pucuro, then rivers to Boca de Cupe",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S20",
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-153",
+   "from": "w01-151",
+   "to": "w01-152",
+   "mode": "offroute",
+   "route_basis": "unknown",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": false,
+   "notes": "20 Feb 2001: police helicopter (forced landing at Yaviza) then truck to police cells (Meteti per home team & Karl).",
+   "sources": [
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-154",
+   "from": "w01-152",
+   "to": "w01-153",
+   "mode": "offroute",
+   "route_basis": "unknown",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": false,
+   "notes": "23 Feb 2001: boat to La Palma prison.",
+   "sources": [
+    "S21"
+   ]
+  },
+  {
+   "id": "s01-155",
+   "from": "w01-153",
+   "to": "w01-151",
+   "mode": "offroute",
+   "route_basis": "unknown",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": false,
+   "notes": "5-7 Mar 2001: boat to Puerto Quimba, minibus to Meteti, lifts/boats via Yaviza, Yape, Capeti back to Boca de Cupe ('We were back on track!').",
+   "sources": [
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-156",
+   "from": "w01-151",
+   "to": "w01-154",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Jungle tracks via Capeti, Yape, Union de Choco, Vista Alegre, Pinogana to Yaviza",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S21"
+   ]
+  },
+  {
+   "id": "s01-157",
+   "from": "w01-154",
+   "to": "w01-155",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Jungle tracks via Capeti, Yape, Union de Choco, Vista Alegre, Pinogana to Yaviza",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S21"
+   ]
+  },
+  {
+   "id": "s01-158",
+   "from": "w01-155",
+   "to": "w01-156",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway (dirt to Bayano bridge, tarmac after)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-159",
+   "from": "w01-156",
+   "to": "w01-157",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway (dirt to Bayano bridge, tarmac after)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-160",
+   "from": "w01-157",
+   "to": "w01-158",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway (dirt to Bayano bridge, tarmac after)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-161",
+   "from": "w01-158",
+   "to": "w01-159",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway (dirt to Bayano bridge, tarmac after)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S21",
+    "S23"
+   ]
+  },
+  {
+   "id": "s01-162",
+   "from": "w01-159",
+   "to": "w01-160",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "City streets to Bridge of the Americas",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S22"
+   ]
+  },
+  {
+   "id": "s01-163",
+   "from": "w01-160",
+   "to": "w01-161",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway west via La Chorrera, Penonome, Nata, David",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S22"
+   ]
+  },
+  {
+   "id": "s01-164",
+   "from": "w01-161",
+   "to": "w01-162",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway west via La Chorrera, Penonome, Nata, David",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S22"
+   ]
+  },
+  {
+   "id": "s01-165",
+   "from": "w01-162",
+   "to": "w01-163",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway west via La Chorrera, Penonome, Nata, David",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S22"
+   ]
+  },
+  {
+   "id": "s01-166",
+   "from": "w01-163",
+   "to": "w01-164",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway west via La Chorrera, Penonome, Nata, David",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S22"
+   ]
+  },
+  {
+   "id": "s01-167",
+   "from": "w01-164",
+   "to": "w01-165",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway west via La Chorrera, Penonome, Nata, David",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S22"
+   ]
+  }
+ ],
+ "pauses": [
+  {
+   "id": "p01-001",
+   "at": "w01-010",
+   "start": "1998-11-12",
+   "end": "1998-11-14",
+   "reason": "rest / trailer wheel-spindle repair",
+   "left_how": "none (stayed in town)",
+   "sources": [
+    "S1",
+    "S2"
+   ]
+  },
+  {
+   "id": "p01-002",
+   "at": "w01-014",
+   "start": "1998-11-21",
+   "end": "1998-11-26",
+   "reason": "rest - injured little toe; school talk",
+   "left_how": "none",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "p01-003",
+   "at": "w01-020",
+   "start": "1998-12-05",
+   "end": "1998-12-08",
+   "reason": "trailer repair (workshop), rest",
+   "left_how": "none",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "p01-004",
+   "at": "w01-032",
+   "start": "1998-12-23",
+   "end": "1999-01-04",
+   "reason": "Christmas/New Year rest; illness; satellite-phone unlock problem",
+   "left_how": "none",
+   "sources": [
+    "S4",
+    "S5"
+   ]
+  },
+  {
+   "id": "p01-005",
+   "at": "w01-036",
+   "start": "1999-01-10",
+   "end": "1999-01-20",
+   "reason": "hospitality (stayed with Gabriel); visa expiry concern",
+   "left_how": "none",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "p01-006",
+   "at": "w01-042",
+   "start": "1999-01-29",
+   "end": "1999-01-31",
+   "reason": "rest; visa enquiries",
+   "left_how": "none",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "p01-007",
+   "at": "w01-046",
+   "start": "1999-02-06",
+   "end": "1999-02-22",
+   "reason": "funding - penniless, waiting for money by post from parents (arrived 16 Feb); trailer repair; 90-day visa renewal",
+   "left_how": "7 Feb 1999 visa run: driven to Trevelin, hitch-hiked to a frontier post south of Trevelin (unnamed), crossed to Chile and back for new stamp, jeep back to Esquel (all offroute). 22 Feb driven back to the junction where he had left the main road.",
+   "sources": [
+    "S6",
+    "S7"
+   ]
+  },
+  {
+   "id": "p01-008",
+   "at": "w01-049",
+   "start": "1999-03-05",
+   "end": "1999-03-06",
+   "reason": "admin / kit repair",
+   "left_how": "none",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "p01-009",
+   "at": "w01-056",
+   "start": "1999-04-05",
+   "end": "1999-04-07",
+   "reason": "waiting for mail/money",
+   "left_how": "none",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "p01-010",
+   "at": "w01-058",
+   "start": "1999-04-22",
+   "end": "1999-04-26",
+   "reason": "rest with local hosts",
+   "left_how": "none",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "p01-011",
+   "at": "w01-059",
+   "start": "1999-05-01",
+   "end": "1999-05-03",
+   "reason": "invited to stay at farm of Ted (Canadian)",
+   "left_how": "Driven by truck to the farm and back ('We threw the beast into the back of his truck and took the return trip'); exact drop-off point vs pick-up point not stated",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "p01-012",
+   "at": "w01-061",
+   "start": "1999-05-09",
+   "end": "1999-05-10",
+   "reason": "waiting for money/mail",
+   "left_how": "none",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "p01-013",
+   "at": "w01-062",
+   "start": "1999-05-12",
+   "end": "1999-05-28/31",
+   "reason": "rest ~2 weeks in Santiago (stayed with Pablo); departure date not recorded",
+   "left_how": "none",
+   "sources": [
+    "S9",
+    "S10"
+   ]
+  },
+  {
+   "id": "p01-014",
+   "at": "w01-065",
+   "start": "1999-06-10",
+   "end": "1999-06-14",
+   "reason": "hospitality (Sergio Romero Avila)",
+   "left_how": "none",
+   "sources": [
+    "S10"
+   ]
+  },
+  {
+   "id": "p01-015",
+   "at": "w01-067",
+   "start": "1999-06-22",
+   "end": "1999-07-10",
+   "reason": "~2.5-week stay Coquimbo/La Serena",
+   "left_how": "none",
+   "sources": [
+    "S10"
+   ]
+  },
+  {
+   "id": "p01-016",
+   "at": "w01-068",
+   "start": "1999-07-16",
+   "end": "1999-07-28",
+   "reason": "hospitality (Marcela's family)",
+   "left_how": "none",
+   "sources": [
+    "S10"
+   ]
+  },
+  {
+   "id": "p01-017",
+   "at": "w01-069",
+   "start": "1999-08-01",
+   "end": "1999-08-09",
+   "reason": "visa overstay (paid US$100 for new visa); money wired from home",
+   "left_how": "none",
+   "sources": [
+    "S11"
+   ]
+  },
+  {
+   "id": "p01-018",
+   "at": "w01-071",
+   "start": "1999-08-30",
+   "end": "1999-09-14 (latest; departure undocumented)",
+   "reason": "unknown - journal pages missing",
+   "left_how": "unknown",
+   "sources": [
+    "S11",
+    "S12"
+   ]
+  },
+  {
+   "id": "p01-019",
+   "at": "w01-074",
+   "start": "1999-09-22",
+   "end": "1999-09-26",
+   "reason": "rest (approximate dates)",
+   "left_how": "none",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "p01-020",
+   "at": "w01-075",
+   "start": "1999-10-01",
+   "end": "1999-10-20",
+   "reason": "rest ~2.5 weeks; collected Western Union money",
+   "left_how": "none",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "p01-021",
+   "at": "w01-079",
+   "start": "1999-10-29",
+   "end": "1999-11-15",
+   "reason": "rest; personal visit; visa problems",
+   "left_how": "Offroute: bus Arica -> Tocopilla and tanker-truck ride back (visit to Tamara); hitched 18 km to the border for visa, bus to Chilean consulate in Tacna, transport back to Arica. Cart left in Arica; resumed walking from Arica 15 Nov.",
+   "sources": [
+    "S12"
+   ]
+  },
+  {
+   "id": "p01-022",
+   "at": "w01-082",
+   "start": "1999-11-23",
+   "end": "1999-11-26",
+   "reason": "rest during town festival",
+   "left_how": "none",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "p01-023",
+   "at": "w01-084",
+   "start": "1999-12-03",
+   "end": "2000-01-04",
+   "reason": "funding (money problems), Christmas/New Year; paid modelling jobs",
+   "left_how": "none during stay; left by walking then truck lift (see segment)",
+   "sources": [
+    "S13"
+   ]
+  },
+  {
+   "id": "p01-024",
+   "at": "w01-090",
+   "start": "2000-01-26",
+   "end": "2000-02-07",
+   "reason": "funding - waiting for Western Union money from mother; illness",
+   "left_how": "local outings to Huacachina",
+   "sources": [
+    "S14"
+   ]
+  },
+  {
+   "id": "p01-025",
+   "at": "w01-092",
+   "start": "2000-02-17",
+   "end": "2000-03-08",
+   "reason": "visa (expired ~11 Feb; only 7-day extension granted)",
+   "left_how": "none",
+   "sources": [
+    "S14",
+    "S15"
+   ]
+  },
+  {
+   "id": "p01-026",
+   "at": "w01-095",
+   "start": "2000-03-21",
+   "end": "2000-03-27",
+   "reason": "money and mail",
+   "left_how": "none",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "p01-027",
+   "at": "w01-097",
+   "start": "2000-04-02",
+   "end": "2000-04-07",
+   "reason": "rest with host Roberto",
+   "left_how": "none",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "p01-028",
+   "at": "w01-100",
+   "start": "2000-04-14",
+   "end": "2000-04-30",
+   "reason": "health (anaemia diagnosed); personal",
+   "left_how": "Offroute Holy-week trip Chiclayo -> Trujillo by truck and bus, back by car and bus (approx. 20 Apr - inference)",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "p01-029",
+   "at": "w01-103",
+   "start": "2000-05-10",
+   "end": "2000-05-16",
+   "reason": "funding - waiting for money",
+   "left_how": "none",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "p01-030",
+   "at": "w01-104",
+   "start": "2000-05-17",
+   "end": "2000-05-25",
+   "reason": "girlfriend Treiz visited (flew in/out of Piura); bought donkey",
+   "left_how": "unknown whether any movement Piura<->Sullana by vehicle",
+   "sources": [
+    "S15"
+   ]
+  },
+  {
+   "id": "p01-031",
+   "at": "w01-110",
+   "start": "2000-06-10",
+   "end": "2000-06-25",
+   "reason": "visa (Loja immigration refused; 4-day stamp)",
+   "left_how": "Offroute bus Loja -> Macara border (paid Peruvian police US$20, got 2-month Ecuador visa) and night bus back (~20-23 Jun, exact date unknown); taxi trip to Vilcabamba",
+   "sources": [
+    "S16"
+   ]
+  },
+  {
+   "id": "p01-032",
+   "at": "w01-112",
+   "start": "2000-07-01",
+   "end": "2000-07-10",
+   "reason": "rest",
+   "left_how": "none",
+   "sources": [
+    "S16",
+    "S17"
+   ]
+  },
+  {
+   "id": "p01-033",
+   "at": "w01-116",
+   "start": "2000-07-23",
+   "end": "2000-08-31",
+   "reason": "funding (money had not arrived) and hospitality of cousin's in-laws; robbed in Quito bar fight 11 Aug (journals stolen)",
+   "left_how": "Driven from Quito to San Antonio 23 Jul; later walked the gap on foot (see segments)",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "p01-034",
+   "at": "w01-123",
+   "start": "2000-09-12",
+   "end": "2000-09-18",
+   "reason": "rest; sent bags by bus to Cali",
+   "left_how": "none",
+   "sources": [
+    "S17"
+   ]
+  },
+  {
+   "id": "p01-035",
+   "at": "w01-127",
+   "start": "2000-10-03",
+   "end": "2000-10-16",
+   "reason": "rest",
+   "left_how": "Stayed at Galia's house in the hills above Cali (offroute); 16 Oct bus back into Cali centre and resumed walking from there",
+   "sources": [
+    "S18"
+   ]
+  },
+  {
+   "id": "p01-036",
+   "at": "w01-133",
+   "start": "2000-11-01",
+   "end": "2001-01-14",
+   "reason": "Darien planning; waiting for end of wet season; funding ('my money had run out, but luckily mother had collected more'); waiting for GPS",
+   "left_how": "Trips to Catty's family farm east of Medellin (offroute, local)",
+   "sources": [
+    "S18",
+    "S19",
+    "S23",
+    "S30"
+   ]
+  },
+  {
+   "id": "p01-037",
+   "at": "w01-144",
+   "start": "2001-01-30",
+   "end": "2001-01-31",
+   "reason": "rest/preparation at army post",
+   "left_how": "none",
+   "sources": [
+    "S20"
+   ]
+  },
+  {
+   "id": "p01-038",
+   "at": "w01-151",
+   "start": "2001-02-16",
+   "end": "2001-03-07",
+   "reason": "detention - entered Panama without visa or Colombian exit stamp (18 days in custody: Boca de Cupe, Meteti cells, La Palma prison)",
+   "left_how": "Police helicopter/truck/boat while in custody; after release 5 Mar returned by boat, minibus, lifts and boats to Boca de Cupe (arrived ~12:30, 7 Mar); restarted 8 Mar",
+   "sources": [
+    "S21",
+    "S23",
+    "S24"
+   ]
+  },
+  {
+   "id": "p01-039",
+   "at": "w01-159",
+   "start": "2001-03-16",
+   "end": "2001-04-04",
+   "reason": "funding (no money), depression, resupply of equipment via British Embassy; girlfriend Catty visited",
+   "left_how": "none",
+   "sources": [
+    "S21",
+    "S22",
+    "S28"
+   ]
+  },
+  {
+   "id": "p01-040",
+   "at": "w01-164",
+   "start": "2001-04-18",
+   "end": "2001-04-24",
+   "reason": "short rest",
+   "left_how": "none",
+   "sources": [
+    "S22"
+   ]
+  }
+ ],
+ "conflicts": [
+  {
+   "topic": "Start date of walking",
+   "claims": [
+    {
+     "value": "1 November 1998 (start from Punta Arenas)",
+     "source": "S25"
+    },
+    {
+     "value": "Nov. 1st, 1998",
+     "source": "S26"
+    },
+    {
+     "value": "01st November 1998",
+     "source": "S35"
+    },
+    {
+     "value": "1 November 1998",
+     "source": "S31"
+    },
+    {
+     "value": "Journal: first move of ~20 yards on the night of 31 Oct/1 Nov ending in wheel failure; repairs 1 Nov; 'finally underway at 10:36' on Monday 2 Nov 1998",
+     "source": "S1"
+    }
+   ],
+   "assessment": "Not truly contradictory: 1 Nov 1998 is the official start ('Day one'), but the first sustained walking day was 2 Nov 1998. Map should use 1 Nov for the start event and note 2 Nov as first walking day."
+  },
+  {
+   "topic": "Where the 18 days of Panama detention were served",
+   "claims": [
+    {
+     "value": "'he spent 18 days in a jail in Meteti'",
+     "source": "S31"
+    },
+    {
+     "value": "Held at Boca de Cupe 16-20 Feb, Meteti cells 20-23 Feb, La Palma prison 23 Feb-5 Mar 2001",
+     "source": "S21"
+    },
+    {
+     "value": "Boca de Cupe until 20 Feb, then Meteti, 18 days total in police custody, released via La Palma immigration",
+     "source": "S23"
+    }
+   ],
+   "assessment": "Primary sources agree on 18 days but spread over three places; most of it at La Palma. Wikipedia's 'jail in Meteti' is a simplification. Wikipedia cites Giant Steps (S32), which we could not read."
+  },
+  {
+   "topic": "Countries in South America",
+   "claims": [
+    {
+     "value": "Route 'through Argentina, Peru, Ecuador, and Colombia' (Chile omitted)",
+     "source": "S31"
+    },
+    {
+     "value": "Chile journals 12 Mar-15 Nov 1999 (Osorno to Arica) plus Punta Arenas region Nov 1998",
+     "source": "S8"
+    }
+   ],
+   "assessment": "Wikipedia omits Chile; journals show ~8 months walking the length of Chile. Use journals."
+  },
+  {
+   "topic": "Cumulative distance at Panama City",
+   "claims": [
+    {
+     "value": "6,671 miles from Punta Arenas on arrival 16 Mar 2001",
+     "source": "S23"
+    }
+   ],
+   "assessment": "Single source only; not independently confirmed. Journal running totals: ~1370 mi Osorno, 2740 mi Antofagasta, 3080 mi Iquique, 5010 mi Cuenca, 5,680 mi Cali."
+  },
+  {
+   "topic": "Tropic of Capricorn grid (15 Sep 1999)",
+   "claims": [
+    {
+     "value": "'70 minutes 23 degrees west, 23 degrees 50 minutes south' after leaving Antofagasta northbound",
+     "source": "S12"
+    }
+   ],
+   "assessment": "23°50'S is south of Antofagasta (23°39'S) while the Tropic is 23°26'S north of the city; the grid is garbled. Kept as reported but flagged."
+  },
+  {
+   "topic": "Garbled journal grids",
+   "claims": [
+    {
+     "value": "2 Nov 1998 longitude 71°50'W (west of Punta Arenas)",
+     "source": "S1"
+    },
+    {
+     "value": "21 Dec 1998 '41 degrees 44 minutes south'",
+     "source": "S4"
+    },
+    {
+     "value": "3 Jun 2000 '70 degrees 50 minutes west' at Peru/Ecuador river",
+     "source": "S16"
+    }
+   ],
+   "assessment": "Evident typing slips; 21 Dec omitted, others kept/flagged or replaced with approximate_region."
+  }
+ ],
+ "unknowns": [
+  "Names of border posts: Chile->Argentina (Nov 1998), Argentina->Chile pass (Mar 1999), Chile->Peru (Nov 1999), Ecuador->Colombia bridge (Sep 2000) are not named in the journals; identifications (Monte Aymond, Cardenal Samore, Chacalluta/Santa Rosa, Rumichaca) are inference only.",
+  "Road numbers for Punta Arenas->border, Rio Gallegos->Piedra Buena, Piedra Buena->Gobernador Gregores, Tecka->Esquel, El Bolson->Chile pass, Antofagasta->Iquique coastal stretch, Loja->Quito are not given in sources.",
+  "Exact location of the junction where Karl left the main road for Esquel (Feb 1999).",
+  "Antofagasta departure date and route 31 Aug-14 Sep 1999 (journal pages missing; Chile p.12 archived copy duplicates p.9).",
+  "Whether the Jan 2000 truck drop-off near Arequipa was the same Pan-American junction he left on 1 Dec 1999 (possible un-walked gap).",
+  "Whether after the 1-3 May 1999 farm visit (Chile) and the Arica trips (Nov 1999) he resumed at the exact same point (no explicit statement; cart stayed in Arica).",
+  "Date of the Loja->Macara visa trip and of the Quito->San Antonio make-up walk (2000).",
+  "Exact moment of crossing the Colombia-Panama line (12 or 13 Feb 2001).",
+  "Fate of the trailer 'the beast' after May 2000 (switched to donkey/horse, then backpack with kit sent ahead by bus).",
+  "Book 'Giant Steps' (2006) not consulted - full text access-restricted on Internet Archive; may contain corrections to journal details.",
+  "No trip to the UK found in this leg; whether Karl left South America at all 1998-2001 is not stated in any source seen (none found)."
+ ],
+ "sources": {
+  "S1": {
+   "title": "Karl Bushby, journal ('Argentina page 1, 31 Oct-11 Nov 1998'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731101813/http://www.goliathexpedition.com:80/walk/Argentina/ar_journel.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1998-11 (written); page archived 2002-07-31",
+   "quote": "Monday, 2nd November 1998. Hot sunny day. 10 miles : Grid : 52 degrees 59 minutes, south 71 degrees 50 minutes west. Managed to get some sleep last night and got to the shop on time. | ...was finally underway at 10:36. | At about 13:30 I came to the border and the Argentinean checkpoint."
+  },
+  "S2": {
+   "title": "Karl Bushby, journal ('Argentina pages 2-3, 12-28 Nov 1998'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731101838/http://www.goliathexpedition.com:80/walk/Argentina/ar_journel2.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1998-11",
+   "quote": "Friday, 20th November 1998 . Comandante Luis Pieurabuena. | Saturday, 21st November 1998. Rest day. Piedra Buena. | The only problem is my money will run out in February."
+  },
+  "S3": {
+   "title": "Karl Bushby, journal ('Argentina page 4, 29 Nov-13 Dec 1998'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731094527/http://www.goliathexpedition.com:80/walk/Argentina/ar_journel4.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1998-12",
+   "quote": "Grid : 48 degrees 45 minutes the south 70 degrees 15 minutes west. Gobernador Gregores, (G.G ). | I came to a major road junction today so I'm now on route 40 which is a primary track."
+  },
+  "S4": {
+   "title": "Karl Bushby, journal ('Argentina page 5, 14-26 Dec 1998'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731094609/http://www.goliathexpedition.com:80/walk/Argentina/ar_journel5.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1998-12",
+   "quote": "Two hours of sweating and crawling later I arrived at P.M. | Grid : Perito Moreno . 46 degrees 36 minutes south / 70 degrees 55 minutes west."
+  },
+  "S5": {
+   "title": "Karl Bushby, journal ('Argentina page 6, 26 Dec 1998-26 Jan 1999'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020727020125/http://www.goliathexpedition.com:80/walk/Argentina/ar_journal_6.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1999-01",
+   "quote": "I simply pushed out 10 kilometres to where the metaled road meets the track that is route 40 north. I left P.M. | Grid : 45 degrees 41 minutes south 70 degrees 16 minutes west. Rio Mayo."
+  },
+  "S6": {
+   "title": "Karl Bushby, journal ('Argentina page 7, 27 Jan-14 Feb 1999'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020727083749/http://www.goliathexpedition.com:80/walk/Argentina/ar_journal_7.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1999-02",
+   "quote": "I made it to Esquel by 17:30. | I passed from Argentina into Chile with no problems | I then made my way back to the border post and having had my visa stamped made my way back into Argentina with once again no problems."
+  },
+  "S7": {
+   "title": "Karl Bushby, journal ('Argentina page 8, 15 Feb-12 Mar 1999'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020727162200/http://www.goliathexpedition.com:80/walk/Argentina/ar_journal_8.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1999-03",
+   "quote": "He would take me back up to where I had left the main road to walk down to Esquel. As I had an already walked this route, I didn't need to do it again. | At the peak of my climb I found a large sign and the Chilean border, 'WELCOME TO CHILE'."
+  },
+  "S8": {
+   "title": "Karl Bushby, journal ('Chile page 1, 12-31 Mar 1999'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731094639/http://www.goliathexpedition.com:80/walk/Chille/ch_journel.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1999-03",
+   "quote": "Tuesday, the 16th March 1999. Osorno. Total distance to date = approx 1370 miles. | The traffic is very heavy on Route 5, ( Pan American)."
+  },
+  "S9": {
+   "title": "Karl Bushby, journal ('Chile pages 2-5, 1 Apr-14 May 1999'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731094930/http://www.goliathexpedition.com:80/walk/Chille/ch_journel2.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1999-04/05",
+   "quote": "We threw the beast into the back of his truck and took the return trip."
+  },
+  "S10": {
+   "title": "Karl Bushby, journal ('Chile pages 6-9, 15 May-31 Jul 1999'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731095211/http://www.goliathexpedition.com:80/walk/Chille/ch_journel6.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1999-05/07",
+   "quote": "About 11:00 I set off for La Serena, a ten kilometre tab down the Pan American highway."
+  },
+  "S11": {
+   "title": "Karl Bushby, journal ('Chile pages 10-11, 1-30 Aug 1999'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731094758/http://www.goliathexpedition.com:80/walk/Chille/ch_journel10.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1999-08",
+   "quote": "I had been in Chile illegally for the past three months. They kept my passport and I had to pay 100 US dollars to get a new visa by Friday. | Saturday, 30th August 1999. Antofagasta . Distance to date = 2740 mls (approx)."
+  },
+  "S12": {
+   "title": "Karl Bushby, journal ('Chile pages 13-14, 15 Sep-15 Nov 1999'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20030510192318/http://goliathexpedition.com:80/walk/Chille/ch_journel14.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1999-09/11",
+   "quote": "Today I crossed the Tropic of Capricorn | I reached the border at about 13:00, having had to fix a puncture just before I reached it. Now armed with my newspaper reports I had little resistance and was allowed to walk across to Peru"
+  },
+  "S13": {
+   "title": "Karl Bushby, journal ('Peru pages 1-3, 16 Nov 1999-11 Jan 2000'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20030530005058/http://goliathexpedition.com:80/walk/Peru/pu_journel1.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "1999-11/2000-01",
+   "quote": "However I wanted to enter the town on foot"
+  },
+  "S14": {
+   "title": "Karl Bushby, journal ('Peru pages 4-9, 12 Jan-8 Mar 2000'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731101807/http://www.goliathexpedition.com:80/walk/Peru/pu_journel4.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "2000-01/03",
+   "quote": "my visa had run out and I was now in Peru illegally"
+  },
+  "S15": {
+   "title": "Karl Bushby, journal ('Peru pages 10-18, 8 Mar-2 Jun 2000'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731101205/http://www.goliathexpedition.com:80/walk/Peru/pu_journel10.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "2000-03/06",
+   "quote": "It's the old visa problem again"
+  },
+  "S16": {
+   "title": "Karl Bushby, journal ('Ecuador pages 1-3, 3 Jun-11 Aug 2000'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20030513103541/http://goliathexpedition.com:80/walk/Ecuador/eq_journel.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "2000-06/07",
+   "quote": "which marks the frontier between Peru and Ecuador"
+  },
+  "S17": {
+   "title": "Karl Bushby, journal ('Ecuador pages 4-8, Jul-2 Oct 2000'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731095930/http://www.goliathexpedition.com:80/walk/Ecuador/eq_journel5.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "2000-07/10",
+   "quote": "I completed the walk from the point where I had been picked up in Quito weeks before to San Antonio. | By midday I had reached the border checkpoint again and waltzed over the bridge and river that stands between them without a question being asked."
+  },
+  "S18": {
+   "title": "Karl Bushby, journal ('Colombia pages 1-3, 3 Oct-1 Nov 2000'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731095456/http://www.goliathexpedition.com:80/walk/Columbia/col_journel3.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "2000-10/11",
+   "quote": "In a way I was pleased to reach Medellin on this day, the anniversary of my second year."
+  },
+  "S19": {
+   "title": "Karl Bushby, journal ('Colombia page 4, Nov 2000-1 Jan 2001 (Medellin)'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20030512024521/http://goliathexpedition.com:80/walk/Columbia/col_journel4.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "2000-12/2001-01",
+   "quote": "I chose the Red Route."
+  },
+  "S20": {
+   "title": "Karl Bushby, journal ('Colombia pages 5-7, 14 Jan-9 Feb 2001 (Darien, Colombian side)'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731095613/http://www.goliathexpedition.com:80/walk/Columbia/col_journel6.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "2001-01/02",
+   "quote": "I'm now at the point where I leave the main road"
+  },
+  "S21": {
+   "title": "Karl Bushby, journal ('Panama pages 1-4, 9 Feb-16 Mar 2001'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20020731100601/http://www.goliathexpedition.com:80/walk/Panama/pan_journel.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "2001-02/03",
+   "quote": "Welcome to Panama, welcome to Central America and welcome to 'Stage Three'. | I was on my way to the prison at La Palma by boat. | I was far better off in Meteti."
+  },
+  "S22": {
+   "title": "Karl Bushby, journal ('Panama pages 5, 8, 9, 17 Mar-25 Apr 2001'), Goliath Expedition website members' area",
+   "url": "http://web.archive.org/web/20030525231140/http://goliathexpedition.com:80/walk/Panama/pan_journel9.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition / Earthtrek UK (Karl Bushby journal, archived by Wayback Machine)",
+   "date": "2001-03/04",
+   "quote": "Tonight I stopped just a few K's from the border with Costa Rica."
+  },
+  "S23": {
+   "title": "The Darien Gap, page 3 (home-team summary of the crossing)",
+   "url": "http://web.archive.org/web/20020720034814/http://www.goliathexpedition.com:80/Thegap/Thegap3.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition home base team (Keith Bushby / Andrew Cooper)",
+   "date": "c. 2001-2002",
+   "quote": "He arrived at Boca de Cupe on 16th February, having traveled approx 167 miles since leaving the main road. Roughly 32 of these miles had been spent in the River Atrato. | Karl spent 18 days in po | He arrived in Panama City on 16th March,-- 6,671 miles from his starting point at Punta Arenas"
+  },
+  "S24": {
+   "title": "The Darien Gap, page 2 (dated journal extracts)",
+   "url": "http://web.archive.org/web/20020719181213/http://www.goliathexpedition.com:80/Thegap/Thegap2.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition",
+   "date": "c. 2001",
+   "quote": "I must have been searched dozens of times in the 18 days I'd been in custody"
+  },
+  "S25": {
+   "title": "Goliath Expedition - Introduction (home page news)",
+   "url": "http://web.archive.org/web/20020603082001/http://www.goliathexpedition.com:80/Intro.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition",
+   "date": "2002-05-22 (page revision)",
+   "quote": "He set off on 1st November 1998, he has completed over 10000 miles."
+  },
+  "S26": {
+   "title": "Press Release 8 - Goliath Expedition prepares to enter the United States",
+   "url": "http://web.archive.org/web/20030521202149/http://goliathexpedition.com:80/PR8.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition home base team",
+   "date": "2002-04-26",
+   "quote": "journey began on Nov.1 st , 1998 in the small Chilean town of Punta Arenas"
+  },
+  "S27": {
+   "title": "Latest Update (dated site-update log 2000-2002)",
+   "url": "http://web.archive.org/web/20020716225606/http://www.goliathexpedition.com:80/walk/latest_update.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition",
+   "date": "2002-06-16 (page revision)",
+   "quote": "14 Jan 01 - Karl move into the Darien Gap moving toward Panama | 15 October 00 - Karl's Position North of Cali heading toward Manizalee"
+  },
+  "S28": {
+   "title": "Stage 2 page (earthtrekuk.net)",
+   "url": "http://web.archive.org/web/20010413022719/http://earthtrekuk.net:80/Stage2.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition (earthtrekuk.net)",
+   "date": "2001-04 (snapshot)",
+   "quote": "Karl's current position is Panama City - Panama 14 March 2001 Karl is currently at the British Embassy in Panama"
+  },
+  "S29": {
+   "title": "Press Release 6 - Darien Gap crossed successfully",
+   "url": "http://web.archive.org/web/20030521014231/http://goliathexpedition.com:80/PR6.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition home base team",
+   "date": "2001-02-20",
+   "quote": "Karl Bushby has crossed the Darien Gap After an initial problem with immigra"
+  },
+  "S30": {
+   "title": "Press Release 5 - Preparing for the Darien Gap",
+   "url": "http://web.archive.org/web/20030521014124/http://goliathexpedition.com:80/PR5.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition home base team",
+   "date": "2000-11",
+   "quote": "Karl Bushby's arrival in Medellin Northern Colombia signifies the approaching new ph | Karl is not expected to move until the wet season ends in Januar"
+  },
+  "S31": {
+   "title": "Karl Bushby (Wikipedia, English)",
+   "url": "https://en.wikipedia.org/wiki/Karl_Bushby",
+   "type": "secondary",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-11-01",
+   "quote": "On 1 November 1998, Bushby set off from [[Punta Arenas]], [[Chile]]. His route through South America took him through [[Argentina]], [[Peru]], [[Ecuador]], and [[Colombia]]. ... Bushby successfully evaded FARC guerillas and entered Panama in February 2001, although he spent 18 days in a jail in [[Metetí]] for entering the country without a [[Travel visa|visa]]."
+  },
+  "S32": {
+   "title": "Giant Steps: An American Odyssey from Punta Arenas to the Edge of Alaska (Karl Bushby, Time Warner Books 2006) - Internet Archive record only (lending copy, text not accessible)",
+   "url": "https://archive.org/details/giantstepsameric0000bush",
+   "type": "primary",
+   "publisher": "Time Warner Books",
+   "date": "2006",
+   "quote": "(not consulted - full text access-restricted; cited here only because Wikipedia's Darien/Meteti statement cites it)"
+  },
+  "S33": {
+   "title": "Journals: Darien Gap (curated diary extracts, goliath.mail2web.com)",
+   "url": "http://web.archive.org/web/20060406212819/http://goliath.mail2web.com:80/Journals/DarienGap.asp",
+   "type": "primary",
+   "publisher": "Goliath Expedition (goliath.mail2web.com)",
+   "date": "2006 (snapshot)",
+   "quote": "Sunday, 14th January 2001. 06 degrees 17 minutes north, 75 degrees 37 minutes west."
+  },
+  "S34": {
+   "title": "The Countries / stage breakdown page",
+   "url": "http://web.archive.org/web/20021003035017/http://www.goliathexpedition.com:80/Countries.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition",
+   "date": "2002",
+   "quote": "Stage 1 - South America - CHILE / Argentina. | Stage 2 - South America - Peru / Ecuador / Colombia."
+  },
+  "S35": {
+   "title": "Press Release 1 - Goliath Earthtrek",
+   "url": "http://web.archive.org/web/20030521013914/http://goliathexpedition.com:80/PR1.htm",
+   "type": "primary",
+   "publisher": "Goliath Expedition (Keith Bushby)",
+   "date": "2000-01",
+   "quote": "He set off on 01st November 1998, he has completed over 6000 miles."
+  },
+  "S36": {
+   "title": "Journals: Argentina (curated diary extracts, goliath.mail2web.com)",
+   "url": "http://web.archive.org/web/20060406212813/http://goliath.mail2web.com:80/Journals/Argentina.asp",
+   "type": "primary",
+   "publisher": "Goliath Expedition (goliath.mail2web.com)",
+   "date": "2006 (snapshot)",
+   "quote": "A selection from Karl's journals that cover the start of the Expedition, through ARGENTINA and up to the border with CHILE"
+  }
+ }
+}

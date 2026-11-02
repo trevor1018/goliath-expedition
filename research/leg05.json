@@ -1,0 +1,413 @@
+{
+  "leg": "05",
+  "title": "Baku → Georgia → Turkey → Balkans/Central Europe → France → English Channel (swim) → England → Hull",
+  "status_as_of": "2026-11-01 (finish NOT yet reached; Hull arrival scheduled Mon 2 Nov 2026)",
+  "waypoints": [
+    {
+      "id": "w05-001", "name": "Baku, Azerbaijan (walk resumes westward)",
+      "lat": 40.4093, "lon": 49.8671, "coord_basis": "town_centroid",
+      "date": "2024-11-10", "date_earliest": "2024-11-09", "date_latest": "2024-11-10", "date_precision": "day",
+      "event": "Leaves Baku heading west after the Caspian swim (Facebook photo post dated 9 Nov 2024 per On The Go Solo; official site reportedly says 10 Nov 2024). See conflicts.",
+      "sources": ["S2", "S3"]
+    },
+    {
+      "id": "w05-002", "name": "Batumi, Georgia",
+      "lat": 41.6168, "lon": 41.6367, "coord_basis": "town_centroid",
+      "date": "2025-01-30", "date_earliest": "2025-01-30", "date_latest": "2025-01-30", "date_precision": "day",
+      "event": "Facebook video shows him in Batumi shortly before crossing into Turkey (reported second-hand by On The Go Solo). Route Baku→Batumi (incl. Az–Ge border crossing point, whether via Tbilisi) UNKNOWN.",
+      "sources": ["S2"]
+    },
+    {
+      "id": "w05-003", "name": "Sarp border gate (Georgia–Turkey), Kemalpaşa, Artvin",
+      "lat": 41.5236, "lon": 41.5486, "coord_basis": "town_centroid",
+      "date": "2025-02-05", "date_earliest": "2025-02-05", "date_latest": "2025-02-06", "date_precision": "day",
+      "event": "Enters Turkey on foot through the Sarp Border Gate",
+      "sources": ["S4"]
+    },
+    {
+      "id": "w05-004", "name": "Hopa, Artvin, Turkey",
+      "lat": 41.3906, "lon": 41.4194, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2025-02-05", "date_latest": "2025-02-07", "date_precision": "unknown",
+      "event": "PLANNED first-day destination after Sarp (announced plan; actual date not confirmed)",
+      "sources": ["S4"]
+    },
+    {
+      "id": "w05-005", "name": "Samsun, Turkey",
+      "lat": 41.2867, "lon": 36.3300, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2025-03-10", "date_latest": "2025-03-13", "date_precision": "month",
+      "event": "Reaches Samsun after following the Black Sea coast; last coastal stop before turning inland toward Istanbul (NTV report 13 Mar 2025; Türkiye Gazetesi 17 Mar per On The Go Solo)",
+      "sources": ["S5", "S2", "S6"]
+    },
+    {
+      "id": "w05-006", "name": "Bolu, Turkey",
+      "lat": 40.7356, "lon": 31.6061, "coord_basis": "town_centroid",
+      "date": "2025-04-16", "date_earliest": "2025-04-16", "date_latest": "2025-04-16", "date_precision": "day",
+      "event": "Instagram photo post from Bolu, ~160 miles (260 km) east of Istanbul (date = post date reported by On The Go Solo, not necessarily date at Bolu)",
+      "sources": ["S2"]
+    },
+    {
+      "id": "w05-007", "name": "Üsküdar, Istanbul (Asian side)",
+      "lat": 41.0226, "lon": 29.0153, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2025-04-25", "date_latest": "2025-04-30", "date_precision": "day",
+      "event": "Reaches Istanbul's Üsküdar district, end of Asian walking; awaits permission to cross Bosphorus. See conflicts for exact date.",
+      "sources": ["S7", "S8", "S3", "S9"]
+    },
+    {
+      "id": "w05-008", "name": "15 July Martyrs (Bosphorus) Bridge, Istanbul – European end",
+      "lat": 41.0458, "lon": 29.0343, "coord_basis": "exact_reported",
+      "date": "2025-05-02", "date_earliest": "2025-05-02", "date_latest": "2025-05-02", "date_precision": "day",
+      "event": "Walks across the 15 July Martyrs Bridge into Europe (special permission); leaves Turkey the same day because his 90-day stay was expiring. Coordinates = bridge midpoint (landmark); exact resume point on European side not reported.",
+      "sources": ["S10", "S11", "S1"]
+    },
+    {
+      "id": "w05-009", "name": "Kapıkule border gate, Edirne (Turkey–Bulgaria)",
+      "lat": 41.7200, "lon": 26.3600, "coord_basis": "town_centroid",
+      "date": "2025-09-01", "date_earliest": "2025-09-01", "date_latest": "2025-09-01", "date_precision": "day",
+      "event": "Completes Turkey; exits via Kapıkule Border Gate into Bulgaria (Schengen). Istanbul→Edirne road UNKNOWN.",
+      "sources": ["S12", "S1"]
+    },
+    {
+      "id": "w05-010", "name": "Haskovo, Bulgaria",
+      "lat": 41.9344, "lon": 25.5554, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2025-09-01", "date_latest": "2025-09-18", "date_precision": "month",
+      "event": "On road 8 (via Haskovo, Plovdiv, Pazardzhik) toward Sofia",
+      "sources": ["S13"]
+    },
+    {
+      "id": "w05-011", "name": "Plovdiv, Bulgaria",
+      "lat": 42.1354, "lon": 24.7453, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2025-09-01", "date_latest": "2025-09-18", "date_precision": "month",
+      "event": "On road 8 toward Sofia",
+      "sources": ["S13"]
+    },
+    {
+      "id": "w05-012", "name": "Pazardzhik, Bulgaria",
+      "lat": 42.1928, "lon": 24.3336, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2025-09-01", "date_latest": "2025-09-18", "date_precision": "month",
+      "event": "On road 8 toward Sofia",
+      "sources": ["S13"]
+    },
+    {
+      "id": "w05-013", "name": "Sofia, Bulgaria",
+      "lat": 42.6977, "lon": 23.3219, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2025-09-16", "date_latest": "2025-09-20", "date_precision": "day",
+      "event": "In Sofia; Facebook reel invites followers to meet-up on Sat 20 Sep 2025; interviewed by Webcafe.bg (pub. 18 Sep 2025)",
+      "sources": ["S13", "S2"]
+    },
+    {
+      "id": "w05-014", "name": "Vidin, Bulgaria (Danube bridge to Romania) – PLANNED",
+      "lat": 43.9962, "lon": 22.8679, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2025-09-20", "date_latest": "2025-10-31", "date_precision": "unknown",
+      "event": "PLANNED: from Sofia over Stara Planina to Vidin, then cross the Danube bridge into Romania. Actual crossing point and date NOT confirmed.",
+      "sources": ["S13"]
+    },
+    {
+      "id": "w05-015", "name": "Romania (location unknown)",
+      "lat": 45.0, "lon": 23.5, "coord_basis": "approximate_region",
+      "date": null, "date_earliest": "2025-10-01", "date_latest": "2025-10-31", "date_precision": "month",
+      "event": "Reported in Romania in October 2025, ~2,213 km from UK (Wikipedia citing archived westboundhorizons.com). Route through Romania UNKNOWN. Coordinates are a placeholder for the country only — do not plot as a route point.",
+      "sources": ["S14"]
+    },
+    {
+      "id": "w05-016", "name": "Budapest, Hungary",
+      "lat": 47.4979, "lon": 19.0402, "coord_basis": "town_centroid",
+      "date": "2025-11-15", "date_earliest": "2025-11-15", "date_latest": "2025-11-15", "date_precision": "day",
+      "event": "Arrives in Budapest (TikTok post 15 Nov 2025); next target Vienna. Romania→Hungary border crossing UNKNOWN.",
+      "sources": ["S14", "S15"]
+    },
+    {
+      "id": "w05-017", "name": "Komárom, Hungary (or Komárno, Slovakia – ambiguous)",
+      "lat": 47.7433, "lon": 18.1192, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2025-11-26", "date_latest": "2025-12-03", "date_precision": "day",
+      "event": "Last public location record 'last Wednesday' before 5 Dec 2025 article = probably 3 Dec 2025 (inference). Article does not say which side of the Danube.",
+      "sources": ["S16"]
+    },
+    {
+      "id": "w05-018", "name": "Győr, Hungary (2025 stop point)",
+      "lat": 47.6875, "lon": 17.6504, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2025-12-01", "date_latest": "2025-12-24", "date_precision": "month",
+      "event": "Reached Győr before Christmas 2025, 'a few days' walk from the Austrian border'; then left Schengen for Mexico. Said he would resume 'close to the Hungary-Austria border' in March 2026 — exact stop point not reported.",
+      "sources": ["S17", "S9"]
+    },
+    {
+      "id": "w05-019", "name": "Hungary–Austria border (crossing point unknown)",
+      "lat": 47.9, "lon": 17.1, "coord_basis": "approximate_region",
+      "date": null, "date_earliest": "2026-03-14", "date_latest": "2026-03-24", "date_precision": "month",
+      "event": "BBC 14 Mar 2026: 'days away from crossing into Austria from Hungary'. Exact crossing point/date UNKNOWN.",
+      "sources": ["S18"]
+    },
+    {
+      "id": "w05-020", "name": "Vienna, Austria",
+      "lat": 48.2082, "lon": 16.3738, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2026-03-14", "date_latest": "2026-03-24", "date_precision": "month",
+      "event": "Passes Vienna; hand-delivers the 1999 'world's slowest postcard' to Michael Bier's former neighbour (Guardian: 'which he eventually did — 27 years later'). Exact date unknown.",
+      "sources": ["S18", "S19"]
+    },
+    {
+      "id": "w05-021", "name": "Tulln an der Donau, Austria (Danube path)",
+      "lat": 48.3316, "lon": 16.0544, "coord_basis": "town_centroid",
+      "date": "2026-03-24", "date_earliest": "2026-03-24", "date_latest": "2026-03-24", "date_precision": "day",
+      "event": "Facebook reel (posted 29 Mar, filmed 24 Mar) shows him on the Danube path north of Vienna, past Tulln",
+      "sources": ["S2"]
+    },
+    {
+      "id": "w05-022", "name": "Waldbüttelbrunn (near Würzburg), Germany",
+      "lat": 49.7883, "lon": 9.8417, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2026-05-01", "date_latest": "2026-05-31", "date_precision": "month",
+      "event": "Start of a 6-day, ~120 km stretch walked with Rosalind Perrett in May 2026 (began at 'Fuchsstadt' – which Fuchsstadt is ambiguous, not plotted). Austria→Würzburg route and Germany entry point UNKNOWN.",
+      "sources": ["S20"]
+    },
+    {
+      "id": "w05-023", "name": "Wertheim, Germany (Main valley)",
+      "lat": 49.7590, "lon": 9.5170, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2026-05-01", "date_latest": "2026-05-31", "date_precision": "month",
+      "event": "Waypoint on the May 2026 Fuchsstadt→Frankfurt stretch",
+      "sources": ["S20"]
+    },
+    {
+      "id": "w05-024", "name": "Miltenberg, Germany",
+      "lat": 49.7039, "lon": 9.2644, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2026-05-01", "date_latest": "2026-05-31", "date_precision": "month",
+      "event": "Waypoint on the May 2026 stretch (Collenberg also named, between Wertheim and Miltenberg)",
+      "sources": ["S20"]
+    },
+    {
+      "id": "w05-025", "name": "Obernburg am Main, Germany",
+      "lat": 49.8394, "lon": 9.1428, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2026-05-01", "date_latest": "2026-05-31", "date_precision": "month",
+      "event": "Waypoint on the May 2026 stretch",
+      "sources": ["S20"]
+    },
+    {
+      "id": "w05-026", "name": "Frankfurt Airport area, Germany",
+      "lat": 50.0379, "lon": 8.5622, "coord_basis": "approximate_region",
+      "date": null, "date_earliest": "2026-05-01", "date_latest": "2026-05-31", "date_precision": "month",
+      "event": "End of the 6-day stretch; companions said goodbye 'outside Frankfurt Airport'. Frankfurt→Belgium route UNKNOWN.",
+      "sources": ["S20"]
+    },
+    {
+      "id": "w05-027", "name": "Belgium entry (point unknown)",
+      "lat": 50.6, "lon": 6.0, "coord_basis": "approximate_region",
+      "date": null, "date_earliest": "2026-05-25", "date_latest": "2026-06-04", "date_precision": "day",
+      "event": "Finished Germany and entered Belgium 'in the past week' (On The Go Solo, 4 Jun 2026, from his Facebook videos). Crossing point UNKNOWN; placeholder coords only.",
+      "sources": ["S2", "S21"]
+    },
+    {
+      "id": "w05-028", "name": "Belgium – June 2026 stop point (unknown)",
+      "lat": null, "lon": null, "coord_basis": "approximate_region",
+      "date": null, "date_earliest": "2026-06-10", "date_latest": "2026-06-20", "date_precision": "month",
+      "event": "Mid-June 2026: in Belgium when Eurotunnel refused service-tunnel access (BBC 16 Jun 2026); then left Schengen (Wikipedia: to Mexico). Exact stop point UNKNOWN.",
+      "sources": ["S22", "S21", "S14"]
+    },
+    {
+      "id": "w05-029", "name": "Havré (Mons), Belgium",
+      "lat": 50.4667, "lon": 4.0333, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2026-09-08", "date_latest": "2026-09-17", "date_precision": "month",
+      "event": "BBC reporter joins him for a 5-mile stretch Havré → Mons on the 'final march to Calais' (article pub. 19 Sep 2026; walk date not stated)",
+      "sources": ["S23"]
+    },
+    {
+      "id": "w05-030", "name": "Mons (Grand-Place), Belgium",
+      "lat": 50.4542, "lon": 3.9567, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2026-09-08", "date_latest": "2026-09-17", "date_precision": "month",
+      "event": "Arrives Mons Grand-Place",
+      "sources": ["S23"]
+    },
+    {
+      "id": "w05-031", "name": "Tournai, Belgium",
+      "lat": 50.6056, "lon": 3.3878, "coord_basis": "town_centroid",
+      "date": "2026-09-18", "date_earliest": "2026-09-17", "date_latest": "2026-09-18", "date_precision": "day",
+      "event": "Stopover in Tournai (unplanned, administrative reasons/medical certificate); met Louis-Philippe Loncke on Fri 18 Sep 2026",
+      "sources": ["S24", "S25", "S14"]
+    },
+    {
+      "id": "w05-032", "name": "France entry (point unknown)",
+      "lat": 50.6, "lon": 3.2, "coord_basis": "approximate_region",
+      "date": "2026-09-20", "date_earliest": "2026-09-19", "date_latest": "2026-09-25", "date_precision": "day",
+      "event": "Enters France (Wikipedia: 20 Sep 2026; its cited NoTélé source does not actually state this). Route Tournai→coast UNKNOWN.",
+      "sources": ["S14"]
+    },
+    {
+      "id": "w05-033", "name": "Channel swim departure point, French coast (UNDISCLOSED)",
+      "lat": 50.95, "lon": 1.80, "coord_basis": "approximate_region",
+      "date": null, "date_earliest": "2026-10-01", "date_latest": "2026-10-03", "date_precision": "unknown",
+      "event": "Start of multi-day Channel swim. Team deliberately kept departure location and time private. Loncke (19 Sep) said he would 'reach Calais next week' and swim 'from Calais to Dover'; BBC (Jun) said he expected to reach Calais. Coordinates are a generic Calais-area placeholder, NOT a reported start point.",
+      "sources": ["S25", "S22", "S14", "S26"]
+    },
+    {
+      "id": "w05-034", "name": "Shakespeare Beach, Dover, England",
+      "lat": 51.1180, "lon": 1.2960, "coord_basis": "exact_reported",
+      "date": "2026-10-05", "date_earliest": "2026-10-05", "date_latest": "2026-10-05", "date_precision": "day",
+      "event": "Landfall 15:30 BST Monday 5 Oct 2026 after ~20 h swimming over three days; met by father Keith, brothers, friends, Werner Herzog. Coordinates = beach location (landmark), precise landing spot not reported.",
+      "sources": ["S26", "S27", "S28"]
+    },
+    {
+      "id": "w05-035", "name": "Dover, England (walk north begins)",
+      "lat": 51.1279, "lon": 1.3134, "coord_basis": "town_centroid",
+      "date": null, "date_earliest": "2026-10-08", "date_latest": "2026-10-09", "date_precision": "day",
+      "event": "Rested in Dover, then started walking to Hull (Guardian implies 8 Oct; Fox says 9 Oct). Angela Maxwell walking with him from Dover.",
+      "sources": ["S28", "S29", "S30"]
+    },
+    {
+      "id": "w05-036", "name": "Market Rasen, Lincolnshire, England",
+      "lat": 53.3876, "lon": -0.3369, "coord_basis": "town_centroid",
+      "date": "2026-10-28", "date_earliest": "2026-10-28", "date_latest": "2026-10-28", "date_precision": "day",
+      "event": "AP photographs him on a road near Market Rasen, 'about 30 miles from the finish line'. Route Dover→Lincolnshire (Thames crossing, London?, Cambridgeshire?) UNKNOWN.",
+      "sources": ["S31"]
+    },
+    {
+      "id": "w05-037", "name": "Humber Bridge – PLANNED",
+      "lat": 53.7064, "lon": -0.4505, "coord_basis": "town_centroid",
+      "date": "2026-11-02", "date_earliest": "2026-11-02", "date_latest": "2026-11-02", "date_precision": "day",
+      "event": "PLANNED: cross the Humber Bridge then head east into Hull (Hull City Council). Not yet happened as of 2026-11-01.",
+      "sources": ["S32"]
+    },
+    {
+      "id": "w05-038", "name": "Queen Victoria Square / City Hall, Hull – PLANNED civic welcome",
+      "lat": 53.7441, "lon": -0.3366, "coord_basis": "town_centroid",
+      "date": "2026-11-02", "date_earliest": "2026-11-02", "date_latest": "2026-11-02", "date_precision": "day",
+      "event": "PLANNED: arrive ~11:00 Mon 2 Nov 2026; welcomed by Hull Volunteers and Lord Mayor Cllr Maria Coward on stage at City Hall, brief private reception. Not the official finish point.",
+      "sources": ["S32", "S33"]
+    },
+    {
+      "id": "w05-039", "name": "Mother's home, Sutton Park estate, Hull – PLANNED official finish",
+      "lat": 53.785, "lon": -0.305, "coord_basis": "approximate_region",
+      "date": "2026-11-02", "date_earliest": "2026-11-02", "date_latest": "2026-11-02", "date_precision": "day",
+      "event": "PLANNED official end of the Goliath Expedition at his childhood home (mother Angela) on the Sutton Park estate, reached by heading north after City Hall. Exact address not public (and should not be plotted precisely).",
+      "sources": ["S32", "S34", "S35"]
+    }
+  ],
+  "segments": [
+    { "id": "s05-001", "from": "w05-001", "to": "w05-002", "mode": "walk", "route_basis": "unknown", "route_detail": null, "companions": [], "counts_as_progress": true, "notes": "Azerbaijan → Georgia, Nov 2024 – Jan 2025. Border crossing (e.g. Red Bridge vs Lagodekhi) and whether via Tbilisi: NO source found. Explorersweb (28 Apr 2025): 'For the last six months, Bushby has been picking his way from Azerbaijan to Turkey.'", "sources": ["S2", "S36"] },
+    { "id": "s05-002", "from": "w05-002", "to": "w05-003", "mode": "walk", "route_basis": "waypoints_only", "route_detail": "Batumi → Sarp (Black Sea coast)", "companions": [], "counts_as_progress": true, "notes": "", "sources": ["S2", "S4"] },
+    { "id": "s05-003", "from": "w05-003", "to": "w05-005", "mode": "walk", "route_basis": "named_road", "route_detail": "Black Sea coast: Sarp → Hopa → … → Samsun ('along the coast all the way to Samsun'). Intermediate towns (Rize, Trabzon, Ordu etc.) not individually sourced.", "companions": [], "counts_as_progress": true, "notes": "Coastal road presumed to be the D010 Black Sea highway but no source names the road number.", "sources": ["S4", "S7", "S8"] },
+    { "id": "s05-004", "from": "w05-005", "to": "w05-006", "mode": "walk", "route_basis": "waypoints_only", "route_detail": "Samsun inland 'over mountains and highways' toward Istanbul; Bolu is the only intermediate point sourced", "companions": [], "counts_as_progress": true, "notes": "", "sources": ["S4", "S2"] },
+    { "id": "s05-005", "from": "w05-006", "to": "w05-007", "mode": "walk", "route_basis": "waypoints_only", "route_detail": null, "companions": [], "counts_as_progress": true, "notes": "", "sources": ["S2", "S7"] },
+    { "id": "s05-006", "from": "w05-007", "to": "w05-008", "mode": "walk", "route_basis": "named_road", "route_detail": "15 July Martyrs (Bosphorus) Bridge, walked with special permission; filmed by drone", "companions": [], "counts_as_progress": true, "notes": "Swimming the Bosphorus was the alternative considered.", "sources": ["S10", "S11", "S1"] },
+    { "id": "s05-007", "from": "w05-008", "to": "w05-009", "mode": "walk", "route_basis": "unknown", "route_detail": null, "companions": [], "counts_as_progress": true, "notes": "Istanbul (European side) → Edirne, ~late Aug 2025 → 1 Sep 2025. Road not sourced. Whether he resumed at the exact European end of the bridge is not explicitly reported.", "sources": ["S1", "S12"] },
+    { "id": "s05-008", "from": "w05-009", "to": "w05-013", "mode": "walk", "route_basis": "named_road", "route_detail": "Bulgaria road 8 via Haskovo, Plovdiv, Pazardzhik (told by police to leave the motorway for the second-class road)", "companions": [], "counts_as_progress": true, "notes": "Received his first traffic fine in Bulgaria (date not stated).", "sources": ["S13"] },
+    { "id": "s05-009", "from": "w05-013", "to": "w05-016", "mode": "walk", "route_basis": "unknown", "route_detail": "PLANNED: Sofia → Stara Planina → Vidin → Danube bridge → Romania. Romania route and RO→HU crossing UNKNOWN.", "companions": [], "counts_as_progress": true, "notes": "No Romanian press account of his route found. Serbia not mentioned by any source.", "sources": ["S13", "S14", "S15"] },
+    { "id": "s05-010", "from": "w05-016", "to": "w05-018", "mode": "walk", "route_basis": "waypoints_only", "route_detail": "Budapest → Komárom → Győr (Danube corridor implied, not stated)", "companions": [], "counts_as_progress": true, "notes": "Noviny.sk (5 Dec 2025) speculated he was in Slovakia 'possibly near Bratislava' – conflicts with BBC Győr report; see conflicts.", "sources": ["S15", "S16", "S17"] },
+    { "id": "s05-011", "from": "w05-018", "to": "w05-021", "mode": "walk", "route_basis": "waypoints_only", "route_detail": "Győr area → HU/AT border → Vienna → Danube path past Tulln", "companions": [], "counts_as_progress": true, "notes": "Resumed ~March 2026 'close to the Hungary-Austria border'. Whether the restart point equals the Dec 2025 stop point is not explicitly confirmed.", "sources": ["S17", "S18", "S2"] },
+    { "id": "s05-012", "from": "w05-021", "to": "w05-022", "mode": "walk", "route_basis": "unknown", "route_detail": null, "companions": ["Angela Maxwell (from early April 2026)"], "counts_as_progress": true, "notes": "Austria → Germany → Würzburg area. Unverified secondary claim (search-engine summary of an unidentified page) of footage near Linz and Regensburg; not confirmed, not used.", "sources": ["S2"] },
+    { "id": "s05-013", "from": "w05-022", "to": "w05-026", "mode": "walk", "route_basis": "waypoints_only", "route_detail": "Main valley: Waldbüttelbrunn → Wertheim → Collenberg → Miltenberg → Obernburg → Frankfurt Airport; ~120 km in 6 days", "companions": ["Angela Maxwell (per On The Go Solo)", "Rosalind Perrett (Tripsite)"], "counts_as_progress": true, "notes": "", "sources": ["S20", "S2"] },
+    { "id": "s05-014", "from": "w05-026", "to": "w05-028", "mode": "walk", "route_basis": "unknown", "route_detail": null, "companions": ["Angela Maxwell"], "counts_as_progress": true, "notes": "Frankfurt → Belgian border → somewhere in Belgium by mid-June 2026.", "sources": ["S2", "S22"] },
+    { "id": "s05-015", "from": "w05-028", "to": "w05-031", "mode": "walk", "route_basis": "waypoints_only", "route_detail": "… → Havré → Mons → Tournai (Sept 2026)", "companions": [], "counts_as_progress": true, "notes": "Gap between the June stop point and Havré is unknown.", "sources": ["S23", "S24", "S25"] },
+    { "id": "s05-016", "from": "w05-031", "to": "w05-033", "mode": "walk", "route_basis": "unknown", "route_detail": null, "companions": [], "counts_as_progress": true, "notes": "Tournai → France (20 Sep per Wikipedia) → Channel coast (Calais area expected). No town-level route sourced.", "sources": ["S14", "S25"] },
+    { "id": "s05-017", "from": "w05-033", "to": "w05-034", "mode": "swim", "route_basis": "unknown", "route_detail": "Multi-stage swim France → Shakespeare Beach; ~21 miles (34 km) per Guardian; ~20 h in water over three days; nights on a support boat, restarting each morning from last position; wetsuit, fins, hand paddles, flotation vest, neck flotation; swam on his back", "companions": ["Support boat crew (unnamed)"], "counts_as_progress": true, "notes": "Not a single-push swim; no evidence of CSA or CS&PF ratification or of a registered pilot. French & UK permission; HM Coastguard liaised with French authorities. Whether he walked into the water from a French beach is not reported; at Dover he 'waded out ... onto Shakespeare Beach' (Fox).", "sources": ["S26", "S27", "S28", "S37", "S22"] },
+    { "id": "s05-018", "from": "w05-034", "to": "w05-035", "mode": "walk", "route_basis": "waypoints_only", "route_detail": "Shakespeare Beach → Dover town", "companions": [], "counts_as_progress": true, "notes": "", "sources": ["S28"] },
+    { "id": "s05-019", "from": "w05-035", "to": "w05-036", "mode": "walk", "route_basis": "unknown", "route_detail": null, "companions": ["Angela Maxwell"], "counts_as_progress": true, "notes": "Dover → Lincolnshire, 8/9 Oct – 28 Oct 2026. No source names Kent/London/Thames crossing/Cambridgeshire towns (except disputed 'Barton in South Cambridgeshire' on 31 Oct, see conflicts).", "sources": ["S30", "S31"] },
+    { "id": "s05-020", "from": "w05-036", "to": "w05-037", "mode": "walk", "route_basis": "unknown", "route_detail": null, "companions": ["Angela Maxwell"], "counts_as_progress": true, "notes": "In progress as of 1 Nov 2026.", "sources": ["S31", "S32"] },
+    { "id": "s05-021", "from": "w05-037", "to": "w05-038", "mode": "walk", "route_basis": "waypoints_only", "route_detail": "PLANNED: Humber Bridge, then east into Hull city centre", "companions": [], "counts_as_progress": true, "notes": "Planned, not yet walked.", "sources": ["S32"] },
+    { "id": "s05-022", "from": "w05-038", "to": "w05-039", "mode": "walk", "route_basis": "waypoints_only", "route_detail": "PLANNED: City Hall north to family home", "companions": [], "counts_as_progress": true, "notes": "Planned, not yet walked.", "sources": ["S32"] }
+  ],
+  "pauses": [
+    {
+      "id": "p05-001", "at": "w05-008",
+      "start": "2025-05-02", "end": "2025-08 (returned to Istanbul ~19 Aug 2025; resumed walking ~21 Aug 2025)",
+      "reason": "Turkish 90-day stay expiring; needed ~90 days outside Turkey before re-entry",
+      "left_how": "Left Istanbul same day; waited in Mexico (BBC 11 Jun 2025, Explorersweb). Wikipedia says Armenia — see conflicts. Mode of travel (presumably flight) not stated.",
+      "sources": ["S1", "S38", "S2", "S9"]
+    },
+    {
+      "id": "p05-002", "at": "w05-018",
+      "start": "2025-12 (before Christmas)", "end": "2026-03",
+      "reason": "Schengen 90/180-day limit",
+      "left_how": "Returned to Mexico ('Speaking from Mexico, where he retreats every few months in order to satisfy visa requirements'); travel mode not stated",
+      "sources": ["S17", "S9"]
+    },
+    {
+      "id": "p05-003", "at": "w05-028",
+      "start": "2026-06 (mid-June)", "end": "2026-09 (resumed ~second week of Sept)",
+      "reason": "Schengen visa limit; also awaiting Channel-crossing permissions",
+      "left_how": "Returned to Mexico per Wikipedia (not confirmed in the BBC articles it cites)",
+      "sources": ["S14", "S25"]
+    },
+    {
+      "id": "p05-004", "at": "w05-033",
+      "start": "2026-10 (swim nights, ~3 nights)", "end": "2026-10-05",
+      "reason": "Overnight rest on support boat between swim sessions; restarted each morning from last position",
+      "left_how": "Support boat (does not count as progress)",
+      "sources": ["S27", "S26"]
+    },
+    {
+      "id": "p05-005", "at": "w05-035",
+      "start": "2026-10-05", "end": "2026-10-08 or 2026-10-09",
+      "reason": "Rest in Dover after swim (media, fish & chips)",
+      "left_how": "Stayed in Dover (no off-route travel reported)",
+      "sources": ["S28", "S29"]
+    }
+  ],
+  "conflicts": [
+    { "topic": "Baku departure date", "claims": [ {"value": "Facebook post dated 9 Nov 2024 captioned 'Leaving Baku and headed west'", "source": "S2"}, {"value": "Left Baku 10 Nov 2024 (official site, seen only via search-engine summary)", "source": "S3"} ], "assessment": "Post dated 9 Nov may have been made the evening before or on departure; 9–10 Nov range used. Could not fetch karlbushby.world directly (Vercel bot checkpoint / HTTP 429)." },
+    { "topic": "Turkey entry date", "claims": [ {"value": "5 Feb 2025 (article text)", "source": "S4"}, {"value": "6 Feb 2025 (photo caption, Artvin)", "source": "S4"} ], "assessment": "Probably entered 5 Feb; photo taken 6 Feb. Range kept." },
+    { "topic": "Arrival at Istanbul (Üsküdar)", "claims": [ {"value": "Reached Istanbul 25 Apr 2025 (official site via search summary)", "source": "S3"}, {"value": "'just days away from Istanbul' (pub. 28 Apr 2025)", "source": "S36"}, {"value": "Arrived Üsküdar (AA report pub. 30 Apr 2025; photo caption 'April 28')", "source": "S7"} ], "assessment": "Arrival between 25 and 30 Apr 2025; Explorersweb's phrasing may be stale. Exact day unresolved." },
+    { "topic": "Where he waited May–Aug 2025", "claims": [ {"value": "Mexico", "source": "S38"}, {"value": "Mexico", "source": "S1"}, {"value": "Armenia", "source": "S14"} ], "assessment": "Wikipedia cites the 11 Jun 2025 BBC article for 'Armenia', but that BBC article says 'currently in Mexico waiting for a visa'. Treat Armenia as a Wikipedia error." },
+    { "topic": "Planned exit from Turkey", "claims": [ {"value": "Plan (Feb 2025): Istanbul then 'go to Greece via Edirne'", "source": "S4"}, {"value": "Actual: exited via Kapıkule into Bulgaria, 1 Sep 2025", "source": "S12"} ], "assessment": "Plan changed; Bulgaria is the confirmed route." },
+    { "topic": "Location in early/mid Dec 2025", "claims": [ {"value": "In Slovakia, 'possibly already near Bratislava' (speculative; last record Komárom)", "source": "S16"}, {"value": "Reached Győr, Hungary before Christmas, a few days from the Austrian border; to resume near HU–AT border", "source": "S17"} ], "assessment": "BBC is based on Bushby's own statement; noviny.sk was speculative and Komárom is on the Hungarian bank. Wikipedia's 'December 2025 in Slovakia' derives from noviny.sk. Prefer Győr/Hungary; Slovakia unconfirmed." },
+    { "topic": "Channel swim duration", "claims": [ {"value": "20 hours over three days", "source": "S26"}, {"value": "20 hours over three days", "source": "S28"}, {"value": "approximately four days of swimming and resting", "source": "S14"}, {"value": "planned 'three or four days'", "source": "S37"} ], "assessment": "Primary-quoted figure is 20 h over three days; 'four days' likely includes start/rest. Start date therefore ~2–3 Oct 2026, unconfirmed." },
+    { "topic": "France entry date", "claims": [ {"value": "Entered France 20 Sep 2026", "source": "S14"} ], "assessment": "Single source (Wikipedia); the NoTélé article it cites does not state this date. Loncke (19 Sep) said 'will enter France soon'. Plausible but unverified." },
+    { "topic": "Start of walk from Dover", "claims": [ {"value": "Interview 'two days' after swim; 'Tomorrow, he'll start the walk home' → ~8 Oct", "source": "S28"}, {"value": "Final leg starting from Dover on Oct. 9", "source": "S29"} ], "assessment": "8 or 9 Oct 2026; Guardian timing is approximate (published 13 Oct, interview date implied)." },
+    { "topic": "Position on Sat 31 Oct 2026", "claims": [ {"value": "Near Market Rasen, Lincs, Wed 28 Oct, 'about 30 miles from the finish line'", "source": "S31"}, {"value": "Sat 31 Oct 'travelling near Barton in South Cambridgeshire, with about 130 miles left to go' (spokesperson; ITV / Brit Brief)", "source": "S39"} ], "assessment": "Incompatible: walking 130 miles in ~2 days is not credible at his stated 20–25 km/day, and Market Rasen is north of Cambridgeshire. Likely garbled (possibly Barton-upon-Humber, at the south end of the Humber Bridge, and/or '13 miles'), but this is speculation — not plotted. Needs the original ITV text." },
+    { "topic": "Hull arrival date", "claims": [ {"value": "Hoped 1 Nov 2026 (anniversary of start)", "source": "S28"}, {"value": "Mon 2 Nov 2026, ~11:00, Queen Victoria Square", "source": "S32"}, {"value": "'by the end of the month' (October)", "source": "S29"}, {"value": "September 2026 (earlier plans)", "source": "S1"} ], "assessment": "Latest official plan (Hull City Council, 26 Oct) is 2 Nov 2026. Earlier dates were plans." },
+    { "topic": "Finish point", "claims": [ {"value": "Official finish = family/childhood home (north of City Hall); QVS is the civic welcome", "source": "S32"}, {"value": "'his mother's house at Queen Victoria Square' (garbled)", "source": "S39"} ], "assessment": "Hull City Council and BBC are clear: the finish is his mother's home on the Sutton Park estate." },
+    { "topic": "Departure from Hull in 1998 (context for anniversary claims)", "claims": [ {"value": "Left Hull 5 Oct 1998 → Channel landfall 5 Oct 2026 'precisely 28 years'", "source": "S14"}, {"value": "'On 1 November 1998, Bushby set off from his mother's house' then flew to Chile", "source": "S28"} ], "assessment": "Out of scope for this leg but affects the '28 years to the day' narrative; flag for Leg 01." }
+  ],
+  "unknowns": [
+    "Exact route Baku → Georgia: Azerbaijan–Georgia border crossing used, whether he passed Tbilisi, dates in Georgia (only Batumi 30 Jan 2025 sourced)",
+    "Road(s) used across Turkey; intermediate towns other than Hopa (planned), Samsun, Bolu",
+    "Route and road from Istanbul (European side) to Edirne, Aug 2025",
+    "Whether he crossed Stara Planina / Vidin–Calafat bridge as planned; date of Bulgaria→Romania crossing",
+    "Entire route through Romania, and Romania→Hungary crossing point/date",
+    "Exact Dec 2025 stop point (Győr vs further west) and whether he set foot in Slovakia",
+    "Hungary→Austria crossing point/date (mid–late Mar 2026)",
+    "Austria→Germany crossing point and German route before Würzburg area; date of Frankfurt arrival",
+    "Germany→Belgium crossing point (~late May 2026); Belgian route between entry and Havré; June 2026 stop point",
+    "Belgium→France crossing point; route to the coast",
+    "Channel swim: departure beach/point, start date and time, stage start/end positions, support boat name, pilot (CSA/CS&PF or otherwise), any swim companions, GPS track",
+    "England route Dover → Lincolnshire (how he crossed the Thames, whether via London, Cambridgeshire, etc.)",
+    "Whether he actually arrives in Hull on 2 Nov 2026 (future relative to today, 2026-11-01)",
+    "Any Guinness World Records recognition (none found)"
+  ],
+  "sources": {
+    "S1": { "title": "Karl Bushby Back in Europe, Begins Last Leg of Journey", "url": "https://explorersweb.com/karl-bushby-back-in-europe-begins-last-leg-of-journey/", "type": "secondary", "publisher": "ExplorersWeb (Rebecca McPhee)", "date": "2025-08-20", "quote": "crossed Istanbul's Bosphorus Bridge on May 2, 2025 ... Turkish visa limits forced him to leave the country the same day ... waited about three months in Mexico (paraphrase via fetch tool); planned route: Turkey, Bulgaria, Romania, Hungary, Austria, Germany, France; target Hull by September 2026" },
+    "S2": { "title": "So where is Karl Bushby now? / Where is Karl Bushby 2026?", "url": "https://onthegosolo.com/where-is-karl-bushby-2019/", "type": "secondary", "publisher": "On The Go Solo (B. P. Naughton; fan tracker summarising Bushby's Facebook/Instagram posts)", "date": "2026-06-04 (last update seen)", "quote": "Facebook photo post (9 Nov 2024): \"Leaving Baku and headed west. The last section of a 25 year life on the road begins.\" ... Jan 30 Facebook video in Batumi, Georgia ... Apr 16 2025 Instagram from Bolu, 160 miles east of Istanbul ... reel filmed Mar 24 2026 on the Danube path north of Vienna past Tulln ... Angela Maxwell rejoined early April 2026 ... finished Germany and entered Belgium in the past week (4 Jun 2026)" },
+    "S3": { "title": "Goliath Expedition Story & Route", "url": "https://karlbushby.world/story", "type": "primary", "publisher": "karlbushby.world (official, promotional)", "date": "accessed 2026-11-01 (blocked)", "quote": "NOT DIRECTLY VERIFIED — page blocked (Vercel checkpoint / HTTP 429). Search-engine summary attributes: left Baku on 10 November 2024; reached Istanbul on 25 April 2025; landing Shakespeare Beach 5 Oct 2026 with ~400 km remaining." },
+    "S4": { "title": "British adventurer enters Türkiye on foot during world journey", "url": "https://www.dailysabah.com/turkiye/british-adventurer-enters-turkiye-on-foot-during-world-journey/news", "type": "secondary", "publisher": "Daily Sabah", "date": "2025-02-07", "quote": "entered Türkiye through the Sarp Border Gate on the Georgian border on Feb. 5 ... walk to Hopa on the first day, then continue along the Black Sea coast to Samsun ... head south over mountains and highways to Istanbul, then go to Greece via Edirne (plan, partly paraphrased)" },
+    "S5": { "title": "26 yıldır hiçbir ulaşım aracı kullanmadı: Güney Amerika'dan yola çıkıp yürüyerek Samsun'a geldi", "url": "https://www.ntv.com.tr/turkiye/26-yildir-hicbir-ulasim-araci-kullanmadi-guney-amerikadan-yola-cikip-yuruyerek-samsuna-geldi,SoG-AkXFIUuNtEWMTUHPIw", "type": "secondary", "publisher": "NTV", "date": "2025-03-13", "quote": "(headline) 'Güney Amerika'dan yola çıkıp yürüyerek Samsun'a geldi' — page itself returned HTTP 403; date from search result" },
+    "S6": { "title": "Dünya turu yapan gezgin Samsun'da şok oldu", "url": "https://www.habergazetesi.com.tr/dunya-turu-yapan-gezgin-samsunda-sok-oldu-boyle-bir-durumla-hic-karsilasmadim", "type": "secondary", "publisher": "Haber Gazetesi", "date": "2025-03", "quote": "(not fetched; search snippet only) stayed at the Samsun Metropolitan Municipality's boutique hotel" },
+    "S7": { "title": "British adventurer reaches Istanbul after 26-year global walk", "url": "https://www.dailysabah.com/turkiye/british-adventurer-reaches-istanbul-after-26-year-global-walk/news", "type": "secondary", "publisher": "Daily Sabah / Anadolu Agency", "date": "2025-04-30", "quote": "arrived in Istanbul's Üsküdar district after a three-month journey across the country ... 'from the coast of Georgia down through Türkiye' ... 'along the coast all the way to Samsun'" },
+    "S8": { "title": "British adventurer arrives in Istanbul after 26-year walk", "url": "https://www.hurriyetdailynews.com/british-adventurer-arrives-in-istanbul-after-26-year-walk-208670", "type": "secondary", "publisher": "Hürriyet Daily News", "date": "2025-05-01", "quote": "waiting for permission to enter Europe ... either walk over the bridge or swim across the Bosphorus (paraphrase via fetch tool)" },
+    "S9": { "title": "Karl Bushby's 28-year walk around the world, tested by visas and borders", "url": "https://visasnews.com/en/karl-bushbys-28-year-walk-around-the-world-tested-by-visas-and-borders/", "type": "secondary", "publisher": "VisasNews", "date": "2026-09-18", "quote": "Reached Istanbul in early May 2025 and was granted permission to walk across the July 15 Martyrs Bridge ... completed the crossing on September 1, 2025 ... Before Christmas 2025, he reached Győr, Hungary ... Eurotunnel rejected the request in June 2026 (paraphrase via fetch tool)" },
+    "S10": { "title": "Kıtalararası yürüyüşte tarihi an: 15 Temmuz Şehitler Köprüsü'nü de geçti", "url": "https://www.turkiyegazetesi.com.tr/yasam/kitalararasi-yuruyuste-tarihi-an-15-temmuz-sehitler-koprusunu-de-gecti-1112743", "type": "secondary", "publisher": "Türkiye Gazetesi", "date": "2025-05-02", "quote": "Yayın Tarihi | 02 Mayıs, 2025 - 12:16 ... dron ile görüntülendi" },
+    "S11": { "title": "Tarihi an: İngiliz gezgin, 15 Temmuz Şehitler Köprüsü'nden yürüyerek Avrupa'ya geçti", "url": "https://www.ntv.com.tr/dunya/galeri-tarihi-an-ingiliz-gezgin-15-temmuz-sehitler-koprusunden-yuruyerek-avrupaya-gecti,JbzIMA06tEGGMNcuJYhZoQ", "type": "secondary", "publisher": "NTV", "date": "2025-05-02", "quote": "(headline only; page 403) İngiliz gezgin, 15 Temmuz Şehitler Köprüsü'nden yürüyerek Avrupa'ya geçti" },
+    "S12": { "title": "British traveler praises Türkiye's hospitality after completing walk", "url": "https://www.dailysabah.com/turkiye/british-traveler-praises-turkiyes-hospitality-after-completing-walk/news", "type": "secondary", "publisher": "Daily Sabah", "date": "2025-09-05", "quote": "photo caption: walked to complete the Türkiye leg before leaving through the Kapıkule Border Gate, Edirne, Sept. 1, 2025" },
+    "S13": { "title": "Карл Бушби, който обиколи света пеша и получи първата си пътна глоба в България", "url": "https://webcafe.bg/gradat/karl-bushbi-obikoli-sveta-pesha-v-balgariya.html", "type": "secondary", "publisher": "Webcafe.bg (Yanina Zdravkova)", "date": "2025-09-18", "quote": "„Карл ходи по път 8 - през Хасково, Пловдив и Пазарджик“ ... „От София Карл ще се насочи към Видин“ ... „По моста над Дунав ще премине в Румъния.“ ... meet-up „събота, 20 септември, от 20 часа“" },
+    "S14": { "title": "Karl Bushby (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Karl_Bushby", "type": "secondary", "publisher": "Wikipedia", "date": "accessed 2026-11-01", "quote": "In October 2025, he had entered Romania and was 2,213 km from the United Kingdom. On 15 November 2025, he arrived in Budapest ... In December 2025, he was reported to be in Slovakia ... He resumed walking in Belgium in September, reached Tournai on 18 September and entered France on 20 September. ... after approximately four days of swimming and resting on support boats ... kept the departure location and time of the swim private" },
+    "S15": { "title": "Karl Bushby (@karlcbushby) TikTok video 7572927419233996054", "url": "https://www.tiktok.com/@karlcbushby/video/7572927419233996054", "type": "primary", "publisher": "TikTok (Karl Bushby)", "date": "2025-11-15", "quote": "Not fetched; cited by Wikipedia for arrival in Budapest on 15 Nov 2025 and plan to head to Vienna" },
+    "S16": { "title": "Karl Bushby kráča okolo sveta už 30 rokov. Teraz jeho cesta vedie cez Slovensko", "url": "https://www.noviny.sk/zahranicie/1142597-chodi-uz-takmer-30-rokov-karl-bushby-sa-blizi-k-cielu-svojej-cesty-peso-okolo-sveta", "type": "secondary", "publisher": "Noviny.sk", "date": "2025-12-05", "quote": "\"sa aktuálne pohybuje na Slovensku. Možno už v okolí Bratislavy.\" ... \"Posledný verejne dostupný záznam o jeho polohe pochádza z uplynulej stredy z mesta Komárom.\"" },
+    "S17": { "title": "Adventurer's 'mixed feelings' as journey nears end", "url": "https://www.bbc.co.uk/news/articles/c5y2xxzjn2xo", "type": "secondary", "publisher": "BBC News (Kevin Shoesmith)", "date": "2026-01-11", "quote": "Before Christmas he reached the town of Gyor in Hungary - a few days' walk from the Austrian border ... Speaking from Mexico, where he retreats every few months in order to satisfy visa requirements, Bushby said he would resume his walk close to the Hungary-Austria border in March ... \"It won't be long before I cross into Austria, then it's Germany, Belgium, France and home.\"" },
+    "S18": { "title": "Global trekker to deliver 'world's slowest postcard'", "url": "https://www.bbc.co.uk/news/articles/cz7gzy5yyq5o", "type": "secondary", "publisher": "BBC News", "date": "2026-03-14", "quote": "Former paratrooper Bushby, who is days away from crossing into Austria from Hungary, said: \"This postcard has been on a few adventurers. It's a bit ratty but it'll get to Michael's old neighbour, as promised.\"" },
+    "S19": { "title": "'Some things are worth dying for': Karl Bushby's incredible 28-year walk home", "url": "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull", "type": "secondary", "publisher": "The Guardian (Simon Hattenstone)", "date": "2026-10-13", "quote": "gave him $100 on condition that Bushby hand-deliver a postcard to a friend in Vienna, which he eventually did – 27 years later." },
+    "S20": { "title": "The Power of Slow Travel: Walking Through Germany with Explorer Karl Bushby", "url": "https://www.tripsite.com/blog/posts/the-power-of-slow-travel-walking-through-germany-with-explorer-karl-bushby/", "type": "secondary", "publisher": "Tripsite (Rosalind Perrett)", "date": "2026-06-30", "quote": "Six days in May 2026, roughly 120 km, from Fuchsstadt ... Waldbüttelbrunn, Wertheim, Collenberg, Miltenberg, Obernburg ... said goodbye outside Frankfurt Airport (paraphrase via fetch tool)" },
+    "S21": { "title": "Who is Karl Bushby and why is he walking around the world?", "url": "https://www.bbc.co.uk/news/articles/cp8rd3n80j4o", "type": "secondary", "publisher": "BBC News", "date": "2026-06-20", "quote": "By mid June 2026, Karl had reached Belgium and was just weeks from reaching Calais, France, when Eurotunnel bosses declined his request to use a service tunnel to enter the UK." },
+    "S22": { "title": "Global walker refused access to Channel Tunnel", "url": "https://www.bbc.co.uk/news/articles/c2dyexegry6o", "type": "secondary", "publisher": "BBC News", "date": "2026-06-16", "quote": "has reached Belgium ... He expects to reach Calais, France, in September but was told on Tuesday that his formal request to access a service tunnel had been declined ... \"Closing the Service Tunnel for a period of 15 hours, or over two days, would pose a safety risk to passenger services and impact essential maintenance work.\"" },
+    "S23": { "title": "I joined Karl Bushby on his round-the-world walk", "url": "https://www.bbc.co.uk/news/articles/c750vlynwrlo", "type": "secondary", "publisher": "BBC News (Kevin Shoesmith)", "date": "2026-09-19", "quote": "We are in the village of Havré and I am joining Karl on a five-mile (8km) stretch to Mons. It is part of the final march to Calais, from where he plans to swim across the English Channel in October." },
+    "S24": { "title": "Après 28 ans de marche autour du monde, Karl Bushby fait escale à Tournai avant le dernier défi", "url": "https://www.notele.be/si103-media167756-apres-28-ans-de-marche-autour-du-monde-karl-bushby-fait-escale-a-tournai-avant-le-dernier-defi.html", "type": "secondary", "publisher": "NoTélé", "date": "2026-09-19", "quote": "\"Il est arrivé la veille de notre rencontre.\" ... \"Tournai n'était d'ailleurs pas prévue dans son itinéraire.\" ... \"Il espère se jeter à l'eau autour du 1er octobre, en fonction des marées et de la météo.\"" },
+    "S25": { "title": "Meeting Karl Bushby walking around the globe", "url": "https://www.louis-philippe-loncke.com/2026/09/meeting-kark-bushby-walking-around-globe.html", "type": "secondary", "publisher": "Louis-Philippe Loncke (blog)", "date": "2026-09-19", "quote": "\"We finally met for a burger in Tournai this Friday evening.\" ... arrived in Belgium last week and resumed walking ... \"He will enter France soon and reach Calais next week.\"" },
+    "S26": { "title": "Karl Bushby completes English Channel swim", "url": "https://www.bbc.co.uk/news/articles/cxddv8q9pvrzo", "type": "secondary", "publisher": "BBC News (Kevin Shoesmith)", "date": "2026-10-06", "quote": "Bushby said he swam for 20 hours over three days, making landfall at Shakespeare beach, just south of Dover, at 15:30 BST on Monday. HM Coastguard said it \"liaised with French authorities and maritime sector partners to ensure safety protocols were met\". ... they chose not to publicise exactly when it would take place \"for safety and security reasons\". ... It is expected he will reach Hull by early November." },
+    "S27": { "title": "Karl Bushby is Back in the UK After Swimming the Channel", "url": "https://explorersweb.com/karl-bushby-is-back-in-the-uk-after-swimming-the-channel/", "type": "secondary", "publisher": "ExplorersWeb (Rebecca McPhee)", "date": "2026-10-06", "quote": "did not do this as a single swim, and swam in a wetsuit ... overnighted on a boat and restarted from his last position each morning (partly paraphrased via fetch tool) ... route: Turkey, Bulgaria, Romania, Hungary, Austria, Germany, Belgium, and France" },
+    "S28": { "title": "'Some things are worth dying for': Karl Bushby's incredible 28-year walk home (Dover interview)", "url": "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull", "type": "secondary", "publisher": "The Guardian (Simon Hattenstone)", "date": "2026-10-13", "quote": "It has been two days since Bushby swam the Channel to return to England. Tomorrow, he'll start the walk home to Hull ... He hopes to get back on 1 November ... It took him 20 hours over three days to swim the 21 miles (34km) on his back. ... \"I've got a wetsuit, fins, paddles for my hands, a flotation vest, neck flotation. I don't call what I do swimming, out of respect to real swimmers. I call it 'floatimming'.\"" },
+    "S29": { "title": "British adventurer returns home after 28-year walk around world", "url": "https://www.foxnews.com/world/british-adventurer-returns-home-after-28-year-walk-around-world", "type": "secondary", "publisher": "Fox News (Stephanie Bennett)", "date": "2026-10-12", "quote": "final leg of about 250 miles, starting from Dover on Oct. 9 ... hopes to reach his mother's home in Hull by the end of the month (paraphrase via fetch tool) ... \"I'm staring at the Union Jack flying outside this hotel.\"" },
+    "S30": { "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home", "url": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go", "type": "secondary", "publisher": "BBC News (Kevin Shoesmith)", "date": "2026-10-31", "quote": "\"We're definitely in terra incognita ...\" says Bushby, as I join him in rural Lincolnshire. ... Angela Maxwell, an American long-distance walker, joined him for the walk from Dover ... \"We had those perfect three days [for the swim].\" ... His mother will be waiting at his childhood home" },
+    "S31": { "title": "After 28 years of walking, Karl Bushby is nearly home. He's not sure he wants that.", "url": "https://www.pressdemocrat.com/2026/10/31/longest-walk-karl-bushby/", "type": "secondary", "publisher": "Associated Press (Brian Melley), via Press Democrat", "date": "2026-10-31", "quote": "Pushing a cart loaded with camping gear up a busy country road in northern England about 30 miles from the finish line ... on the road near the town of Market Rasen on Wednesday" },
+    "S32": { "title": "Let's give Karl a Hull welcome home", "url": "https://news.hull.gov.uk/2026/10/26/lets-give-karl-a-hull-welcome-home/", "type": "secondary", "publisher": "Hull City Council", "date": "2026-10-26", "quote": "expected to arrive Monday 2 November ... around 11am ... gather in Queen Victoria Square ... \"After crossing the Humber Bridge and making his way east into his home city\" ... Lord Mayor Councillor Maria Coward \"will welcome Karl briefly onto a stage area at the front of the city hall\" ... continues north to his family home" },
+    "S33": { "title": "Karl Bushby nears Hull homecoming after 28-year journey from Chile", "url": "https://fish4news.co.uk/karl-bushby-hull-homecoming-28-year-walk-chile/", "type": "secondary", "publisher": "Fish4News", "date": "2026-10-28", "quote": "expected to \"cross the Humber Bridge and head east into Hull\" ... Queen Victoria Square at approximately 11am on Monday 2 November" },
+    "S34": { "title": "Mum's 27-year wait for return of global explorer son Karl Bushby", "url": "https://www.bbc.co.uk/news/articles/cx23mwry74ko", "type": "secondary", "publisher": "BBC News (Kevin Shoesmith)", "date": "2025-12-29", "quote": "I am with Angela in the living room of her home on Hull's Sutton Park estate. Karl's childhood home." },
+    "S35": { "title": "Round-the-world walker prepares for home stretch", "url": "https://www.bbc.co.uk/news/articles/c2e30mxnmxdo", "type": "secondary", "publisher": "BBC News (Eleanor Maslin)", "date": "2025-06-11", "quote": "The traveller, originally from Sutton Park ..." },
+    "S36": { "title": "Karl Bushby Begins Home Stretch of 27-Year, Round-the-World Walk", "url": "https://explorersweb.com/karl-bushby-begins-home-stretch-of-27-year-round-the-world-walk/", "type": "secondary", "publisher": "ExplorersWeb (Rebecca McPhee)", "date": "2025-04-28", "quote": "For the last six months, Bushby has been picking his way from Azerbaijan to Turkey ... just days away from Istanbul" },
+    "S37": { "title": "Adventurer Karl Bushby names date for Channel swim", "url": "https://www.bbc.co.uk/news/articles/cz0z1rvn7p1o", "type": "secondary", "publisher": "BBC News", "date": "2026-09-05", "quote": "says he has permission from French authorities to swim the English Channel ... expected to take to the water on 1 October, tides and weather permitting ... expected the swim to take \"three or four days\" ... Between swimming sessions, Bushby intends to rest on a support boat." },
+    "S38": { "title": "Round-the-world walker prepares for home stretch", "url": "https://www.bbc.co.uk/news/articles/c2e30mxnmxdo", "type": "secondary", "publisher": "BBC News (Eleanor Maslin)", "date": "2025-06-11", "quote": "Mr Bushby, who is currently in Mexico waiting for a visa to complete his challenge ... He hopes to continue his trek, via Turkey, in August before entering Europe ... aiming to arrive in Hull by September 2026." },
+    "S39": { "title": "Karl Bushby 48 hours from completing 28-year walk to Hull", "url": "https://britbrief.co.uk/sports/extreme/karl-bushby-48-hours-from-completing-28-year-walk-to-hull.html", "type": "secondary", "publisher": "Brit Brief (apparently rewriting ITV News 31 Oct 2026: https://www.itv.com/news/2026-10-31/adventurer-karl-bushby-48-hours-away-from-completing-epic-28-year-journey, which timed out)", "date": "2026-10-31", "quote": "travelling near Barton in South Cambridgeshire ... about 130 miles left to go until he can complete his epic 31,000 mile (50,000km) walk (spokesperson) ... final stop ... at Queen Victoria Square ... at 11am on Monday, 2 November" }
+  }
+}

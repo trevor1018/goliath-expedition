@@ -1,0 +1,3057 @@
+{
+ "leg": "02",
+ "title": "Panama (after Darién) → Central America → Mexico → USA → Canada → Alaska → Bering Strait → Uelen, Chukotka (2001–2006)",
+ "waypoints": [
+  {
+   "id": "w02-001",
+   "name": "Panama City / Bridge of the Americas, Panama",
+   "lat": 8.85,
+   "lon": -79.8167,
+   "coord_basis": "exact_reported",
+   "date": "2001-04-04",
+   "date_earliest": "2001-04-04",
+   "date_latest": "2001-04-04",
+   "date_precision": "day",
+   "event": "Departs Panama City westward after stay 17 Mar-4 Apr 2001; journal position of the day (deg/min)",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-002",
+   "name": "Penonomé, Panama",
+   "lat": 8.519,
+   "lon": -80.357,
+   "coord_basis": "town_centroid",
+   "date": "2001-04-08",
+   "date_earliest": "2001-04-08",
+   "date_latest": "2001-04-08",
+   "date_precision": "day",
+   "event": "Passes Penonomé ('off to one side of the Pan-American'); journal pos 08°30'N 80°21'W",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-003",
+   "name": "Natá, Panama",
+   "lat": 8.333,
+   "lon": -80.517,
+   "coord_basis": "town_centroid",
+   "date": "2001-04-09",
+   "date_earliest": "2001-04-09",
+   "date_latest": "2001-04-09",
+   "date_precision": "day",
+   "event": "Reaches Natá end of day",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-004",
+   "name": "Western Panama (journal position)",
+   "lat": 8.1333,
+   "lon": -82.1,
+   "coord_basis": "exact_reported",
+   "date": "2001-04-16",
+   "date_earliest": "2001-04-16",
+   "date_latest": "2001-04-16",
+   "date_precision": "day",
+   "event": "Journal position 08°08'N 82°06'W, approaching David/Costa Rica",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-005",
+   "name": "San José, Costa Rica",
+   "lat": 9.933,
+   "lon": -84.083,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2001-04-17",
+   "date_latest": "2001-05-13",
+   "date_precision": "unknown",
+   "event": "Passed through San José (mentioned retrospectively 14 May 2001); date unknown",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-006",
+   "name": "Costa Rica–Nicaragua border (Peñas Blancas)",
+   "lat": 11.214,
+   "lon": -85.611,
+   "coord_basis": "town_centroid",
+   "date": "2001-05-20",
+   "date_earliest": "2001-05-20",
+   "date_latest": "2001-05-20",
+   "date_precision": "day",
+   "event": "Crosses into Nicaragua; Nicaraguan immigration staff pay his entry fee. Journal pos 11°21'N 85°45'W. Border post name not stated in journal (inferred Peñas Blancas)",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-007",
+   "name": "Jinotepe, Nicaragua",
+   "lat": 11.85,
+   "lon": -86.2,
+   "coord_basis": "exact_reported",
+   "date": "2001-05-30",
+   "date_earliest": "2001-05-30",
+   "date_latest": "2001-05-30",
+   "date_precision": "day",
+   "event": "Overnight in Jinotepe",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-008",
+   "name": "León, Nicaragua",
+   "lat": 12.435,
+   "lon": -86.879,
+   "coord_basis": "town_centroid",
+   "date": "2001-06-03",
+   "date_earliest": "2001-06-03",
+   "date_latest": "2001-06-03",
+   "date_precision": "day",
+   "event": "Arrives León; stops to try to have a new trailer built",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-009",
+   "name": "Honduras (transit, route unknown)",
+   "lat": 13.3,
+   "lon": -87.2,
+   "coord_basis": "approximate_region",
+   "date": null,
+   "date_earliest": "2001-06",
+   "date_latest": "2001-07",
+   "date_precision": "month",
+   "event": "Honduras traversed (journal section title lists Honduras; Honduran money changed at El Salvador border). No dated entry, crossing points unknown",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-010",
+   "name": "San Miguel, El Salvador",
+   "lat": 13.4667,
+   "lon": -88.1667,
+   "coord_basis": "exact_reported",
+   "date": "2001-07-30",
+   "date_earliest": "2001-07-30",
+   "date_latest": "2001-07-30",
+   "date_precision": "day",
+   "event": "Arrives San Miguel",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-011",
+   "name": "Usulután, El Salvador",
+   "lat": 13.345,
+   "lon": -88.437,
+   "coord_basis": "town_centroid",
+   "date": "2001-08-02",
+   "date_earliest": "2001-08-02",
+   "date_latest": "2001-08-02",
+   "date_precision": "day",
+   "event": "Passes through 'Usucutan' (Usulután)",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-012",
+   "name": "Western El Salvador (journal position)",
+   "lat": 13.6833,
+   "lon": -89.9333,
+   "coord_basis": "exact_reported",
+   "date": "2001-08-09",
+   "date_earliest": "2001-08-09",
+   "date_latest": "2001-08-09",
+   "date_precision": "day",
+   "event": "Journal position 13°41'N 89°56'W",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-013",
+   "name": "Near Guatemala–Mexico border",
+   "lat": 14.35,
+   "lon": -92.1667,
+   "coord_basis": "exact_reported",
+   "date": "2001-08-30",
+   "date_earliest": "2001-08-30",
+   "date_latest": "2001-08-30",
+   "date_precision": "day",
+   "event": "'within only 5k's of Mexico'",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-014",
+   "name": "Tecún Umán (GT) – Ciudad Hidalgo (MX) border bridge",
+   "lat": 14.677,
+   "lon": -92.148,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2001-08-30",
+   "date_latest": "2001-08-31",
+   "date_precision": "day",
+   "event": "Exit Guatemala at Tecún Umán, enter Mexico at Ciudad Hidalgo. Exact day not stated (between 30 and 31 Aug 2001)",
+   "sources": [
+    "S2",
+    "S1"
+   ]
+  },
+  {
+   "id": "w02-015",
+   "name": "Tapachula, Chiapas, Mexico",
+   "lat": 14.906,
+   "lon": -92.263,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2001-08-31",
+   "date_latest": "2001-09-03",
+   "date_precision": "day",
+   "event": "Stays in Tapachula ('37k's to Tapachula' from border)",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "w02-016",
+   "name": "Tehuantepec, Oaxaca",
+   "lat": 16.322,
+   "lon": -95.24,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2001-09-27",
+   "date_latest": "2001-09-30",
+   "date_precision": "day",
+   "event": "Passes Tehuantepec (Isthmus); journal positions 27 Sep 16°40'N 95°12'W, 30 Sep 16°04'N 95°23'W",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "w02-017",
+   "name": "Oaxaca Pacific coast (journal position)",
+   "lat": 16.0,
+   "lon": -97.5333,
+   "coord_basis": "exact_reported",
+   "date": "2001-10-10",
+   "date_earliest": "2001-10-10",
+   "date_latest": "2001-10-10",
+   "date_precision": "day",
+   "event": "Journal position 16°00'N 97°32'W – coastal Oaxaca; route presumably coastal (Mex 200 not named)",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "w02-018",
+   "name": "Nayarit (journal position, near Santiago Ixcuintla)",
+   "lat": 22.15,
+   "lon": -105.2167,
+   "coord_basis": "exact_reported",
+   "date": "2002-02-05",
+   "date_earliest": "2002-02-05",
+   "date_latest": "2002-02-05",
+   "date_precision": "day",
+   "event": "Journal position 22°09'N 105°13'W; around here he passes Santiago Ixcuintla and rejoins Highway 15",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "w02-019",
+   "name": "Near Villa Unión / Mazatlán, Sinaloa",
+   "lat": 23.1833,
+   "lon": -106.1333,
+   "coord_basis": "exact_reported",
+   "date": "2002-02-13",
+   "date_earliest": "2002-02-13",
+   "date_latest": "2002-02-13",
+   "date_precision": "day",
+   "event": "Journal position 23°11'N 106°08'W",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "w02-020",
+   "name": "Navojoa, Sonora",
+   "lat": 27.0833,
+   "lon": -109.4667,
+   "coord_basis": "exact_reported",
+   "date": "2002-03-26",
+   "date_earliest": "2002-03-26",
+   "date_latest": "2002-03-26",
+   "date_precision": "day",
+   "event": "Navojoa",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "w02-021",
+   "name": "Nogales, Arizona (US port of entry)",
+   "lat": 31.34,
+   "lon": -110.934,
+   "coord_basis": "town_centroid",
+   "date": "2002-04-29",
+   "date_earliest": "2002-04-29",
+   "date_latest": "2002-04-29",
+   "date_precision": "day",
+   "event": "Enters USA at Nogales; 90-day visa waiver",
+   "sources": [
+    "S3",
+    "S25"
+   ]
+  },
+  {
+   "id": "w02-022",
+   "name": "Tucson, Arizona",
+   "lat": 32.222,
+   "lon": -110.975,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2002-05-01",
+   "date_latest": "2002-05-13",
+   "date_precision": "unknown",
+   "event": "Tucson (media, hosts); exact date not extracted",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-023",
+   "name": "Wickenburg, Arizona",
+   "lat": 33.968,
+   "lon": -112.73,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2002-05-22",
+   "date_latest": "2002-05-23",
+   "date_precision": "day",
+   "event": "'My route today takes me northwards to the town of Wickenberg ... From there I'll be turning south/south west for California'",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-024",
+   "name": "Parker, Arizona",
+   "lat": 34.15,
+   "lon": -114.289,
+   "coord_basis": "town_centroid",
+   "date": "2002-06-13",
+   "date_earliest": "2002-06-13",
+   "date_latest": "2002-06-13",
+   "date_precision": "day",
+   "event": "Parker",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-025",
+   "name": "Lake Havasu City, Arizona",
+   "lat": 34.484,
+   "lon": -114.322,
+   "coord_basis": "town_centroid",
+   "date": "2002-06-17",
+   "date_earliest": "2002-06-17",
+   "date_latest": "2002-06-17",
+   "date_precision": "day",
+   "event": "Night walking toward I-40 junction",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-026",
+   "name": "Searchlight, Nevada",
+   "lat": 35.465,
+   "lon": -114.919,
+   "coord_basis": "town_centroid",
+   "date": "2002-06-25",
+   "date_earliest": "2002-06-25",
+   "date_latest": "2002-06-25",
+   "date_precision": "day",
+   "event": "Searchlight; sees Luxor light of Las Vegas the night before",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-027",
+   "name": "Las Vegas, Nevada",
+   "lat": 36.17,
+   "lon": -115.14,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2002-07",
+   "date_latest": "2002-07",
+   "date_precision": "month",
+   "event": "Reached in July 2002; visa problem",
+   "sources": [
+    "S25",
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-028",
+   "name": "Overton, Nevada",
+   "lat": 36.544,
+   "lon": -114.446,
+   "coord_basis": "town_centroid",
+   "date": "2002-08-19",
+   "date_earliest": "2002-08-18",
+   "date_latest": "2002-08-19",
+   "date_precision": "day",
+   "event": "Overton; then joins I-15 toward Mesquite",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-029",
+   "name": "Mesquite, Nevada",
+   "lat": 36.805,
+   "lon": -114.067,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2002-08-20",
+   "date_latest": "2002-08-31",
+   "date_precision": "unknown",
+   "event": "Mesquite (Casino Oasis hotel) – exact date not extracted",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-030",
+   "name": "Nephi, Utah (I-15 exit 222)",
+   "lat": 39.71,
+   "lon": -111.836,
+   "coord_basis": "town_centroid",
+   "date": "2002-09-11",
+   "date_earliest": "2002-09-09",
+   "date_latest": "2002-09-11",
+   "date_precision": "day",
+   "event": "Highway Patrol orders him off I-15 after Nephi",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-031",
+   "name": "Salt Lake City, Utah",
+   "lat": 40.76,
+   "lon": -111.891,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2002-09-16",
+   "date_latest": "2002-10-16",
+   "date_precision": "unknown",
+   "event": "Via side roads paralleling I-15 through Provo into Salt Lake City; arrival 'the 16th or after' (Sept); departure date unknown",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-032",
+   "name": "Idaho Falls, Idaho",
+   "lat": 43.492,
+   "lon": -112.034,
+   "coord_basis": "town_centroid",
+   "date": "2002-10-26",
+   "date_earliest": "2002-10-26",
+   "date_latest": "2002-10-26",
+   "date_precision": "day",
+   "event": "Camped 3 miles short of Idaho Falls",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-033",
+   "name": "Rexburg, Idaho",
+   "lat": 43.826,
+   "lon": -111.789,
+   "coord_basis": "town_centroid",
+   "date": "2002-10-29",
+   "date_earliest": "2002-10-29",
+   "date_latest": "2002-10-29",
+   "date_precision": "day",
+   "event": "Leaves 'Wexburg' (Rexburg) in first snow",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-034",
+   "name": "Shelby, Montana",
+   "lat": 48.505,
+   "lon": -111.857,
+   "coord_basis": "town_centroid",
+   "date": "2002-12-31",
+   "date_earliest": "2002-12-31",
+   "date_latest": "2002-12-31",
+   "date_precision": "day",
+   "event": "Leaves Shelby",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "w02-035",
+   "name": "I-15 Exit 379 (Kevin/Oilmont area), Toole County, Montana",
+   "lat": 48.75,
+   "lon": -111.95,
+   "coord_basis": "approximate_region",
+   "date": "2002-12-31",
+   "date_earliest": "2002-12-31",
+   "date_latest": "2003-01-01",
+   "date_precision": "day",
+   "event": "Bar at Exit 379, 19 miles south of the border; cart B2 stolen around New Year 2003; resumed here 13 Feb 2003",
+   "sources": [
+    "S3",
+    "S25"
+   ]
+  },
+  {
+   "id": "w02-036",
+   "name": "Sweetgrass, MT / Coutts, AB border",
+   "lat": 48.998,
+   "lon": -111.959,
+   "coord_basis": "town_centroid",
+   "date": "2003-02-13",
+   "date_earliest": "2003-02-13",
+   "date_latest": "2003-02-13",
+   "date_precision": "day",
+   "event": "Crosses into Canada; given one-year Canadian visa",
+   "sources": [
+    "S3",
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-037",
+   "name": "Medicine Hat, Alberta",
+   "lat": 50.04,
+   "lon": -110.677,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2003-02-21",
+   "date_latest": "2003-02-24",
+   "date_precision": "day",
+   "event": "Reaches Medicine Hat (route from Coutts not stated)",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-038",
+   "name": "Suffield / BATUS, Alberta",
+   "lat": 50.21,
+   "lon": -111.17,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2003-02-24",
+   "date_latest": "2003-03-01",
+   "date_precision": "day",
+   "event": "Deviation NE to British Army Training Unit Suffield; ~1 week stay, leaves 1 Mar 2003",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-039",
+   "name": "Truck stop near Bassano, Alberta",
+   "lat": 50.785,
+   "lon": -112.47,
+   "coord_basis": "town_centroid",
+   "date": "2003-03-07",
+   "date_earliest": "2003-03-07",
+   "date_latest": "2003-03-09",
+   "date_precision": "day",
+   "event": "Picked up here by pick-up to Calgary (offroute) 7 Mar; driven back and resumed 9 Mar",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-040",
+   "name": "Gleichen, Alberta",
+   "lat": 50.875,
+   "lon": -113.05,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2003-03-09",
+   "date_latest": "2003-03-11",
+   "date_precision": "day",
+   "event": "Reaches Gleichen",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-041",
+   "name": "Calgary, Alberta",
+   "lat": 51.045,
+   "lon": -114.057,
+   "coord_basis": "town_centroid",
+   "date": "2003-03-14",
+   "date_earliest": "2003-03-14",
+   "date_latest": "2003-03-14",
+   "date_precision": "day",
+   "event": "Reaches Calgary outskirts; prolonged stay until 24 Jul 2003",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-042",
+   "name": "Banff, Alberta",
+   "lat": 51.178,
+   "lon": -115.571,
+   "coord_basis": "town_centroid",
+   "date": "2003-07-27",
+   "date_earliest": "2003-07-27",
+   "date_latest": "2003-07-27",
+   "date_precision": "day",
+   "event": "Banff; walks with CBC journalist Kisha Ferguson to Jasper",
+   "sources": [
+    "S4",
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-043",
+   "name": "Lake Louise, Alberta",
+   "lat": 51.425,
+   "lon": -116.177,
+   "coord_basis": "town_centroid",
+   "date": "2003-07-31",
+   "date_earliest": "2003-07-31",
+   "date_latest": "2003-07-31",
+   "date_precision": "day",
+   "event": "Lake Louise",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-044",
+   "name": "Jasper, Alberta",
+   "lat": 52.873,
+   "lon": -118.082,
+   "coord_basis": "town_centroid",
+   "date": "2003-08-13",
+   "date_earliest": "2003-08-12",
+   "date_latest": "2003-08-13",
+   "date_precision": "day",
+   "event": "Jasper (hostel, 'stuck' for a while)",
+   "sources": [
+    "S4",
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-045",
+   "name": "Grande Prairie, Alberta",
+   "lat": 55.171,
+   "lon": -118.795,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2003-10-03",
+   "date_latest": "2003-10-13",
+   "date_precision": "day",
+   "event": "In Grande Prairie by 3-5 Oct; leaves 13 Oct 2003. Route Jasper→Grande Prairie not stated",
+   "sources": [
+    "S4",
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-046",
+   "name": "Beaverlodge, Alberta",
+   "lat": 55.209,
+   "lon": -119.437,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2003-10-15",
+   "date_latest": "2003-10-15",
+   "date_precision": "day",
+   "event": "'a couple of days later reach Beaverlodge'",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-047",
+   "name": "Dawson Creek, BC (Mile 0, Alaska Highway)",
+   "lat": 55.76,
+   "lon": -120.235,
+   "coord_basis": "town_centroid",
+   "date": "2003-10-22",
+   "date_earliest": "2003-10-22",
+   "date_latest": "2003-10-22",
+   "date_precision": "day",
+   "event": "Start of the Alaska Highway",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-048",
+   "name": "Fort St. John, BC",
+   "lat": 56.252,
+   "lon": -120.847,
+   "coord_basis": "town_centroid",
+   "date": "2003-10-25",
+   "date_earliest": "2003-10-25",
+   "date_latest": "2003-10-25",
+   "date_precision": "day",
+   "event": "Fort St John",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-049",
+   "name": "Fort Nelson, BC",
+   "lat": 58.806,
+   "lon": -122.697,
+   "coord_basis": "town_centroid",
+   "date": "2004-01-01",
+   "date_earliest": "2003-11-15",
+   "date_latest": "2004-01-01",
+   "date_precision": "day",
+   "event": "Stay at Fort Nelson (arrival date unknown); leaves 1 Jan 2004",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-050",
+   "name": "Watson Lake, Yukon",
+   "lat": 60.063,
+   "lon": -128.709,
+   "coord_basis": "town_centroid",
+   "date": "2004-03-08",
+   "date_earliest": "2004-03-08",
+   "date_latest": "2004-03-08",
+   "date_precision": "day",
+   "event": "Arrives after a 42 km day; stays four days",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-051",
+   "name": "Whitehorse, Yukon",
+   "lat": 60.721,
+   "lon": -135.057,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2004-04-01",
+   "date_latest": "2004-04-02",
+   "date_precision": "day",
+   "event": "'by the 1st April I'm close to the town'; sets aside a week",
+   "sources": [
+    "S4",
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-052",
+   "name": "Beaver Creek, Yukon / US border",
+   "lat": 62.384,
+   "lon": -140.876,
+   "coord_basis": "town_centroid",
+   "date": "2004-05-01",
+   "date_earliest": "2004-05-01",
+   "date_latest": "2004-05-02",
+   "date_precision": "day",
+   "event": "Leaves for border 1 May 2004; Canadian immigration just outside Beaver Creek",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "w02-053",
+   "name": "Dot Lake, Alaska",
+   "lat": 63.663,
+   "lon": -144.065,
+   "coord_basis": "town_centroid",
+   "date": "2004-05-13",
+   "date_earliest": "2004-05-13",
+   "date_latest": "2004-05-14",
+   "date_precision": "day",
+   "event": "Dot Lake (Alaska Highway)",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-054",
+   "name": "Fairbanks, Alaska",
+   "lat": 64.838,
+   "lon": -147.716,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2004-05-15",
+   "date_latest": "2004-12-16",
+   "date_precision": "unknown",
+   "event": "Reached Fairbanks after Dot Lake (arrival date not found); summer/autumn 2004 base",
+   "sources": [
+    "S5",
+    "S24"
+   ]
+  },
+  {
+   "id": "w02-055",
+   "name": "Murphy Dome, near Fairbanks",
+   "lat": 64.952,
+   "lon": -148.357,
+   "coord_basis": "town_centroid",
+   "date": "2004-12-16",
+   "date_earliest": "2004-12-16",
+   "date_latest": "2004-12-16",
+   "date_precision": "day",
+   "event": "'Having already walked to Murphy Dome' – departs by snow-machine trail onto Minto Flats",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-056",
+   "name": "Minto Flats (journal position)",
+   "lat": 65.2505,
+   "lon": -148.7098,
+   "coord_basis": "exact_reported",
+   "date": "2004-12-20",
+   "date_earliest": "2004-12-20",
+   "date_latest": "2004-12-29",
+   "date_precision": "day",
+   "event": "GPS position given 20 and 29 Dec 2004",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-057",
+   "name": "Manley Hot Springs, Alaska",
+   "lat": 64.9992,
+   "lon": -150.635,
+   "coord_basis": "exact_reported",
+   "date": "2005-01-10",
+   "date_earliest": "2005-01-10",
+   "date_latest": "2005-01-10",
+   "date_precision": "day",
+   "event": "Arrives Manley at -45C",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-058",
+   "name": "Tanana area, Yukon River",
+   "lat": 65.172,
+   "lon": -152.079,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2005-01-15",
+   "date_latest": "2005-02-24",
+   "date_precision": "unknown",
+   "event": "Passes Tanana region (trapper cabins ~20 miles from Tanana); dates not exact",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-059",
+   "name": "Ruby, Alaska",
+   "lat": 64.739,
+   "lon": -155.487,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2005-02-24",
+   "date_latest": "2005-02-26",
+   "date_precision": "day",
+   "event": "'only 8.5 miles away' on 24 Feb 2005",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-060",
+   "name": "Kaltag area, Alaska",
+   "lat": 64.327,
+   "lon": -158.722,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2005-03",
+   "date_latest": "2005-03-23",
+   "date_precision": "month",
+   "event": "Kaltag teacher visits him near portage cabins; route Ruby→Kaltag (Galena/Nulato?) not stated",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "w02-061",
+   "name": "Unalakleet, Alaska",
+   "lat": 63.873,
+   "lon": -160.788,
+   "coord_basis": "town_centroid",
+   "date": "2005-03-24",
+   "date_earliest": "2005-03-24",
+   "date_latest": "2005-03-27",
+   "date_precision": "day",
+   "event": "Arrives ~22:30 with Dimitri Kieffer (DK); end of winter 2004/05 walking. Date conflict 24 vs 27 Mar",
+   "sources": [
+    "S5",
+    "S9",
+    "S25"
+   ]
+  },
+  {
+   "id": "w02-062",
+   "name": "Shaktoolik, Alaska",
+   "lat": 64.355,
+   "lon": -161.197,
+   "coord_basis": "town_centroid",
+   "date": "2005-12-30",
+   "date_earliest": "2005-12-30",
+   "date_latest": "2005-12-31",
+   "date_precision": "day",
+   "event": "Night push to (old and new) Shaktoolik",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w02-063",
+   "name": "Norton Bay sea ice (marooned on drifting ice, self-extracted)",
+   "lat": 64.7,
+   "lon": -161.2,
+   "coord_basis": "approximate_region",
+   "date": "2006-01-03",
+   "date_earliest": "2006-01-02",
+   "date_latest": "2006-01-03",
+   "date_precision": "day",
+   "event": "Breaks trail N across Norton Bay to Koyuk; marooned on new ice 13 mi from Koyuk/9 mi from shore; troopers alerted but he walked off himself",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w02-064",
+   "name": "Koyuk, Alaska",
+   "lat": 64.932,
+   "lon": -161.157,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2006-01-03",
+   "date_latest": "2006-01-11",
+   "date_precision": "unknown",
+   "event": "Koyuk",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w02-065",
+   "name": "Elim, Alaska",
+   "lat": 64.617,
+   "lon": -162.259,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2006-01-04",
+   "date_latest": "2006-01-12",
+   "date_precision": "unknown",
+   "event": "Elim (overland route briefed)",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w02-066",
+   "name": "Golovin, Alaska",
+   "lat": 64.543,
+   "lon": -163.03,
+   "coord_basis": "town_centroid",
+   "date": "2006-01-14",
+   "date_earliest": "2006-01-14",
+   "date_latest": "2006-01-14",
+   "date_precision": "day",
+   "event": "Golovin school overnight",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w02-067",
+   "name": "White Mountain, Alaska",
+   "lat": 64.681,
+   "lon": -163.405,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2006-01-15",
+   "date_latest": "2006-01-20",
+   "date_precision": "unknown",
+   "event": "Next target after Golovin",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w02-068",
+   "name": "Nome, Alaska",
+   "lat": 64.501,
+   "lon": -165.406,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2006-01-20",
+   "date_latest": "2006-02-01",
+   "date_precision": "unknown",
+   "event": "Meets Dimitri Kieffer; arrival date not found",
+   "sources": [
+    "S6",
+    "S9"
+   ]
+  },
+  {
+   "id": "w02-069",
+   "name": "Cape Douglas, Seward Peninsula (camp south side)",
+   "lat": 64.97,
+   "lon": -166.67,
+   "coord_basis": "approximate_region",
+   "date": "2006-02-03",
+   "date_earliest": "2006-02-03",
+   "date_latest": "2006-02-03",
+   "date_precision": "day",
+   "event": "Camp on sea ice against cliff on south side of Cape; ice breaks away in storm. Cape coordinates from general knowledge, approximate",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w02-070",
+   "name": "Drift position 28 mi SE of King Island",
+   "lat": 64.65,
+   "lon": -167.55,
+   "coord_basis": "approximate_region",
+   "date": "2006-02-05",
+   "date_earliest": "2006-02-05",
+   "date_latest": "2006-02-05",
+   "date_precision": "day",
+   "event": "GPS: '28 miles out to sea, south-east of King Island'; helicopter (Evergreen) lift; coordinates estimated from the description only",
+   "sources": [
+    "S6",
+    "S21"
+   ]
+  },
+  {
+   "id": "w02-071",
+   "name": "Teller, Alaska",
+   "lat": 65.264,
+   "lon": -166.361,
+   "coord_basis": "town_centroid",
+   "date": "2006-02-09",
+   "date_earliest": "2006-02-09",
+   "date_latest": "2006-02-09",
+   "date_precision": "day",
+   "event": "Teller; Dimitri rejoins after frostbite check in Nome",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w02-072",
+   "name": "Coast near Lost River (journal position)",
+   "lat": 65.3955,
+   "lon": -167.2548,
+   "coord_basis": "exact_reported",
+   "date": "2006-02-18",
+   "date_earliest": "2006-02-18",
+   "date_latest": "2006-02-18",
+   "date_precision": "day",
+   "event": "GPS position; Dimitri falls through ice twice",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "w02-073",
+   "name": "Wales / Cape Prince of Wales, Alaska",
+   "lat": 65.609,
+   "lon": -168.089,
+   "coord_basis": "town_centroid",
+   "date": "2006-02-21",
+   "date_earliest": "2006-02-21",
+   "date_latest": "2006-02-21",
+   "date_precision": "day",
+   "event": "Arrival at Wales ('the end of America's'); journal GPS that morning 65°37.280'N 168°05.120'W. Base in school until crossing; crossing starts here 17 Mar 2006",
+   "sources": [
+    "S6",
+    "S7"
+   ]
+  },
+  {
+   "id": "w02-074",
+   "name": "Edge of Alaskan fast ice / first lead (swim)",
+   "lat": 65.65,
+   "lon": -168.2,
+   "coord_basis": "approximate_region",
+   "date": "2006-03-17",
+   "date_earliest": "2006-03-17",
+   "date_latest": "2006-03-17",
+   "date_precision": "day",
+   "event": "Leave fast ice ~3 miles out; swim lead 'hundreds of metres wide' towing sleds. Position estimated",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "w02-075",
+   "name": "Mid-strait, ~midway along 50-mile 'teardrop' lead (drift reversal)",
+   "lat": 65.9,
+   "lon": -168.4,
+   "coord_basis": "approximate_region",
+   "date": "2006-03-20",
+   "date_earliest": "2006-03-20",
+   "date_latest": "2006-03-20",
+   "date_precision": "day",
+   "event": "Drift reverses from north (~2 mph) to south; position only described relative to lead. Estimated",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "w02-076",
+   "name": "International Date Line crossing (Russian waters)",
+   "lat": 65.9,
+   "lon": -168.98,
+   "coord_basis": "approximate_region",
+   "date": "2006-03-25",
+   "date_earliest": "2006-03-25",
+   "date_latest": "2006-03-25",
+   "date_precision": "day",
+   "event": "'we get to cross the Dateline and a nav check puts us firmly in Russian waters' – latitude unknown, estimated",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "w02-077",
+   "name": "~20 miles off Russian coast (stalled 3 days)",
+   "lat": 66.1,
+   "lon": -169.3,
+   "coord_basis": "approximate_region",
+   "date": "2006-03-28",
+   "date_earliest": "2006-03-26",
+   "date_latest": "2006-03-28",
+   "date_precision": "day",
+   "event": "'stuck at about 20 miles from the shore for three days'; abandon heavy backpack plan. Estimated",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "w02-078",
+   "name": "Russian fast-ice wall ~5 miles off Uelen",
+   "lat": 66.17,
+   "lon": -169.65,
+   "coord_basis": "approximate_region",
+   "date": "2006-03-30",
+   "date_earliest": "2006-03-30",
+   "date_latest": "2006-03-30",
+   "date_precision": "day",
+   "event": "Scale 20ft ice wall, first view of Uelen; camp ~half a mile from landfall (Karl's 37th birthday). Estimated",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "w02-079",
+   "name": "Landfall: abandoned early-warning base ~3 mi NW of Uelen",
+   "lat": 66.19,
+   "lon": -169.88,
+   "coord_basis": "approximate_region",
+   "date": "2006-03-31",
+   "date_earliest": "2006-03-31",
+   "date_latest": "2006-03-31",
+   "date_precision": "day",
+   "event": "'Terra firma'. Coordinates estimated from '3 miles north-west of Uelen'",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "w02-080",
+   "name": "Uelen, Chukotka, Russia",
+   "lat": 66.159,
+   "lon": -169.809,
+   "coord_basis": "town_centroid",
+   "date": "2006-03-31",
+   "date_earliest": "2006-03-31",
+   "date_latest": "2006-04-02",
+   "date_precision": "day",
+   "event": "Walk 3 miles SE into Uelen; report to Border Guard. END OF FORWARD PROGRESS FOR THIS LEG (next leg resumes here)",
+   "sources": [
+    "S7",
+    "S11",
+    "S16",
+    "S19"
+   ]
+  },
+  {
+   "id": "w02-081",
+   "name": "Lavrentiya, Chukotka (detention/house arrest)",
+   "lat": 65.578,
+   "lon": -171.003,
+   "coord_basis": "town_centroid",
+   "date": null,
+   "date_earliest": "2006-04-01",
+   "date_latest": "2006-05-24",
+   "date_precision": "unknown",
+   "event": "Moved here by border guards; stay with Orthodox priest Father Leonid; court case; appeal won 5 May 2006",
+   "sources": [
+    "S15",
+    "S16",
+    "S11",
+    "S17",
+    "S20"
+   ]
+  },
+  {
+   "id": "w02-082",
+   "name": "Nome, Alaska (return from Russia)",
+   "lat": 64.501,
+   "lon": -165.406,
+   "coord_basis": "town_centroid",
+   "date": "2006-05-24",
+   "date_earliest": "2006-05-24",
+   "date_latest": "2006-05-24",
+   "date_precision": "day",
+   "event": "Flight from Russia to Nome",
+   "sources": [
+    "S21",
+    "S23"
+   ]
+  }
+ ],
+ "segments": [
+  {
+   "id": "s02-001",
+   "from": "w02-001",
+   "to": "w02-002",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway (journal: Penonomé 'off to one side of the Pan-American')",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-002",
+   "from": "w02-002",
+   "to": "w02-003",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Pan-American Highway",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-003",
+   "from": "w02-003",
+   "to": "w02-004",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Pan-American Highway likely (not named after Penonomé)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-004",
+   "from": "w02-004",
+   "to": "w02-005",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-005",
+   "from": "w02-005",
+   "to": "w02-006",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-006",
+   "from": "w02-006",
+   "to": "w02-007",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "road along shore of Lake Nicaragua toward Rivas",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-007",
+   "from": "w02-007",
+   "to": "w02-008",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-008",
+   "from": "w02-008",
+   "to": "w02-009",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Route León→Honduras→El Salvador not documented",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-009",
+   "from": "w02-009",
+   "to": "w02-010",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-010",
+   "from": "w02-010",
+   "to": "w02-011",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-011",
+   "from": "w02-011",
+   "to": "w02-012",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-012",
+   "from": "w02-012",
+   "to": "w02-013",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Guatemala section: Pacific-slope highway inferred from position 14°21'N 92°10'W; not named",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-013",
+   "from": "w02-013",
+   "to": "w02-014",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "s02-014",
+   "from": "w02-014",
+   "to": "w02-015",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "s02-015",
+   "from": "w02-015",
+   "to": "w02-016",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Southern Mexico: coastal route implied by positions; road numbers not stated",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "s02-016",
+   "from": "w02-016",
+   "to": "w02-017",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "coastal Oaxaca",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "s02-017",
+   "from": "w02-017",
+   "to": "w02-018",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Oaxaca→Nayarit: 'road continues almost flat along the coast' (24 Nov 2001); no other detail; Oct 2001–Feb 2002 largely undocumented",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "s02-018",
+   "from": "w02-018",
+   "to": "w02-019",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Highway 15 (rejoined after Santiago Ixcuintla)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "s02-019",
+   "from": "w02-019",
+   "to": "w02-020",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Highway 15 (dual carriageway Villa Unión–Mazatlán); Culiacán",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "s02-020",
+   "from": "w02-020",
+   "to": "w02-021",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Highway 15 likely (not explicitly named after Mazatlán)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S2"
+   ]
+  },
+  {
+   "id": "s02-021",
+   "from": "w02-021",
+   "to": "w02-022",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Interstate / frontage roads from Nogales toward Tucson (I-19 not named in journal)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-022",
+   "from": "w02-022",
+   "to": "w02-023",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "via Phoenix to Wickenburg",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Journal 22 May 2002 heading gives 34°58'N 113°44'W which conflicts with stated location near Wickenburg (~33°58'N) – probably a typo; not used.",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-023",
+   "from": "w02-023",
+   "to": "w02-024",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "turned S/SW toward Colorado River",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-024",
+   "from": "w02-024",
+   "to": "w02-025",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-025",
+   "from": "w02-025",
+   "to": "w02-026",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "to junction with I-40, then to Searchlight NV – presumably via US-95 which passes through California near Needles (NOT stated)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-026",
+   "from": "w02-026",
+   "to": "w02-027",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-027",
+   "from": "w02-027",
+   "to": "w02-028",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Las Vegas→Overton not documented",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Visa break Jul–Aug 2002 (flight to Bogotá). Resume point stated by Wikipedia as Las Vegas.",
+   "sources": [
+    "S3",
+    "S25"
+   ]
+  },
+  {
+   "id": "s02-028",
+   "from": "w02-028",
+   "to": "w02-029",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "I-15 ('my only route north from here')",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-029",
+   "from": "w02-029",
+   "to": "w02-030",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "I-15 through Utah (Fillmore, Nephi)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-030",
+   "from": "w02-030",
+   "to": "w02-031",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "side roads paralleling I-15 through Provo",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-031",
+   "from": "w02-031",
+   "to": "w02-032",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "I-15 / frontage roads (rejoins I-15 at Downey, ID)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-032",
+   "from": "w02-032",
+   "to": "w02-033",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-033",
+   "from": "w02-033",
+   "to": "w02-034",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "presumably I-15 north through Montana – Idaho→Montana segment not documented",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-034",
+   "from": "w02-034",
+   "to": "w02-035",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "I-15 (Exit 379)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-035",
+   "from": "w02-035",
+   "to": "w02-036",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "I-15 to Sweetgrass",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Resumed at Exit 379 on 13 Feb 2003 after theft break.",
+   "sources": [
+    "S3"
+   ]
+  },
+  {
+   "id": "s02-036",
+   "from": "w02-036",
+   "to": "w02-037",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Coutts→Medicine Hat road not named",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-037",
+   "from": "w02-037",
+   "to": "w02-038",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "deviation NE to Suffield",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-038",
+   "from": "w02-038",
+   "to": "w02-039",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Suffield→Bassano (Trans-Canada Hwy 1 likely but not named)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-039",
+   "from": "w02-039",
+   "to": "w02-040",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Resumed at Bassano truck stop 9 Mar 2003 after offroute car trip to Calgary.",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-040",
+   "from": "w02-040",
+   "to": "w02-041",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-041",
+   "from": "w02-041",
+   "to": "w02-042",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Calgary→Banff (Trans-Canada likely, not named)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-042",
+   "from": "w02-042",
+   "to": "w02-043",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [
+    "Kisha Ferguson (CBC journalist, Banff–Jasper)"
+   ],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-043",
+   "from": "w02-043",
+   "to": "w02-044",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Lake Louise→Jasper (Icefields Parkway implied by geography; not named)",
+   "companions": [
+    "Kisha Ferguson (CBC journalist, Banff–Jasper)"
+   ],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-044",
+   "from": "w02-044",
+   "to": "w02-045",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Jasper→Grande Prairie undocumented",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-045",
+   "from": "w02-045",
+   "to": "w02-046",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-046",
+   "from": "w02-046",
+   "to": "w02-047",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-047",
+   "from": "w02-047",
+   "to": "w02-048",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Alaska Highway",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-048",
+   "from": "w02-048",
+   "to": "w02-049",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Alaska Highway",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-049",
+   "from": "w02-049",
+   "to": "w02-050",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Alaska Highway",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-050",
+   "from": "w02-050",
+   "to": "w02-051",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Alaska Highway (Swift River Lodge resupply)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-051",
+   "from": "w02-051",
+   "to": "w02-052",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Alaska Highway",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-052",
+   "from": "w02-052",
+   "to": "w02-053",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "Alaska Highway (Tok on route by geography, not mentioned)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "s02-053",
+   "from": "w02-053",
+   "to": "w02-054",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Dot Lake→Fairbanks (Alaska Hwy/Richardson Hwy via Delta Junction inferred, not stated)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "s02-054",
+   "from": "w02-054",
+   "to": "w02-055",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "walked to Murphy Dome before 16 Dec 2004",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "s02-055",
+   "from": "w02-055",
+   "to": "w02-056",
+   "mode": "walk",
+   "route_basis": "named_road",
+   "route_detail": "snow-machine trail west over high ground onto Minto Flats",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "s02-056",
+   "from": "w02-056",
+   "to": "w02-057",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "winter trails (Dunbar Trail mentioned)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "s02-057",
+   "from": "w02-057",
+   "to": "w02-058",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Tanana/Yukon River winter trails",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "s02-058",
+   "from": "w02-058",
+   "to": "w02-059",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Yukon River trail",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "s02-059",
+   "from": "w02-059",
+   "to": "w02-060",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Ruby→Kaltag (Iditarod Trail river route presumed; Galena/Nulato not mentioned)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "s02-060",
+   "from": "w02-060",
+   "to": "w02-061",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Kaltag→Unalakleet portage (36-mile final push with Kieffer)",
+   "companions": [
+    "Dimitri Kieffer (met on trail, final 36 miles)"
+   ],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "s02-061",
+   "from": "w02-061",
+   "to": "w02-062",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "Unalakleet→Shaktoolik over hills",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Season break Mar–Dec 2005; resumed at Unalakleet.",
+   "sources": [
+    "S5"
+   ]
+  },
+  {
+   "id": "s02-062",
+   "from": "w02-062",
+   "to": "w02-063",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "straight across Norton Bay sea ice toward Koyuk",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-063",
+   "from": "w02-063",
+   "to": "w02-064",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "snow-go trails to Koyuk",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-064",
+   "from": "w02-064",
+   "to": "w02-065",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-065",
+   "from": "w02-065",
+   "to": "w02-066",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "overland route Elim→Golovin",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-066",
+   "from": "w02-066",
+   "to": "w02-067",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-067",
+   "from": "w02-067",
+   "to": "w02-068",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "coast; 'notorious 30 miles' Iditarod stretch (20 Jan)",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-068",
+   "from": "w02-068",
+   "to": "w02-069",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "coast NW from Nome to Cape Douglas",
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": true,
+   "notes": "With Kieffer from Nome.",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-069",
+   "from": "w02-069",
+   "to": "w02-070",
+   "mode": "other",
+   "route_basis": "unknown",
+   "route_detail": null,
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": false,
+   "notes": "Involuntary drift on detached sea ice during storm (night 4-5 Feb 2006). Not progress.",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-070",
+   "from": "w02-070",
+   "to": "w02-069",
+   "mode": "offroute",
+   "route_basis": "unknown",
+   "route_detail": null,
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": false,
+   "notes": "Evergreen helicopter lift 5 Feb 2006; Karl dropped '2 miles from Cape Douglas' and walked back up to the Cape (continuity preserved); Kieffer flown to Nome for frostbite and rejoined at Teller.",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-070a",
+   "from": "w02-069",
+   "to": "w02-071",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "coast north of Cape Douglas to Teller",
+   "companions": [],
+   "counts_as_progress": true,
+   "notes": "Karl alone from Cape Douglas to Teller (Kieffer in Nome)",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-071",
+   "from": "w02-071",
+   "to": "w02-072",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-072",
+   "from": "w02-072",
+   "to": "w02-073",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": null,
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": true,
+   "notes": "",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "s02-073",
+   "from": "w02-073",
+   "to": "w02-074",
+   "mode": "ice",
+   "route_basis": "waypoints_only",
+   "route_detail": "Bering Strait sea ice; actual drift track (GPS logged 24h by Karl) not published",
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": true,
+   "notes": "17 Mar 2006: start from Wales school, along coast NW, onto fast ice; first swim across lead hundreds of metres wide towing sleds, in immersion suits. Overall crossing: ~14 days (17-31 Mar 2006), mostly walking/skiing over moving pack ice; swimming of open leads in dry/immersion suits on day 1 and as needed (Seattle Times/Nexus: '5 days where swimming was required').",
+   "sources": [
+    "S7",
+    "S13",
+    "S21",
+    "S26"
+   ]
+  },
+  {
+   "id": "s02-074",
+   "from": "w02-074",
+   "to": "w02-075",
+   "mode": "ice",
+   "route_basis": "waypoints_only",
+   "route_detail": "Bering Strait sea ice; actual drift track (GPS logged 24h by Karl) not published",
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": true,
+   "notes": "Broken-ice 'soup', repeated immersion; drifting north ~2 mph; then 20 Mar drift reverses south. Overall crossing: ~14 days (17-31 Mar 2006), mostly walking/skiing over moving pack ice; swimming of open leads in dry/immersion suits on day 1 and as needed (Seattle Times/Nexus: '5 days where swimming was required').",
+   "sources": [
+    "S7",
+    "S13",
+    "S21",
+    "S26"
+   ]
+  },
+  {
+   "id": "s02-075",
+   "from": "w02-075",
+   "to": "w02-076",
+   "mode": "ice",
+   "route_basis": "waypoints_only",
+   "route_detail": "Bering Strait sea ice; actual drift track (GPS logged 24h by Karl) not published",
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": true,
+   "notes": "22 Mar drift north ~0.4 mph; best day 8 miles westward; polar bear tracks; helicopter resupply discussed (whether it happened is not in extracts). Overall crossing: ~14 days (17-31 Mar 2006), mostly walking/skiing over moving pack ice; swimming of open leads in dry/immersion suits on day 1 and as needed (Seattle Times/Nexus: '5 days where swimming was required').",
+   "sources": [
+    "S7",
+    "S13",
+    "S21",
+    "S26"
+   ]
+  },
+  {
+   "id": "s02-076",
+   "from": "w02-076",
+   "to": "w02-077",
+   "mode": "ice",
+   "route_basis": "waypoints_only",
+   "route_detail": "Bering Strait sea ice; actual drift track (GPS logged 24h by Karl) not published",
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": true,
+   "notes": "25 Mar ice breaking under tent at 04:00; 4.6 miles; ice behind turning to open water. Overall crossing: ~14 days (17-31 Mar 2006), mostly walking/skiing over moving pack ice; swimming of open leads in dry/immersion suits on day 1 and as needed (Seattle Times/Nexus: '5 days where swimming was required').",
+   "sources": [
+    "S7",
+    "S13",
+    "S21",
+    "S26"
+   ]
+  },
+  {
+   "id": "s02-077",
+   "from": "w02-077",
+   "to": "w02-078",
+   "mode": "ice",
+   "route_basis": "waypoints_only",
+   "route_detail": "Bering Strait sea ice; actual drift track (GPS logged 24h by Karl) not published",
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": true,
+   "notes": "28-29 Mar heavy-backpack experiment fails; ~20 miles off shore, walking toward then drifting away. Overall crossing: ~14 days (17-31 Mar 2006), mostly walking/skiing over moving pack ice; swimming of open leads in dry/immersion suits on day 1 and as needed (Seattle Times/Nexus: '5 days where swimming was required').",
+   "sources": [
+    "S7",
+    "S13",
+    "S21",
+    "S26"
+   ]
+  },
+  {
+   "id": "s02-078",
+   "from": "w02-078",
+   "to": "w02-079",
+   "mode": "ice",
+   "route_basis": "waypoints_only",
+   "route_detail": "Bering Strait sea ice; actual drift track (GPS logged 24h by Karl) not published",
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": true,
+   "notes": "30 Mar crossed ice 'moat' on frozen bridge, scaled 20ft wall onto Russian fast ice; halted ~0.5 mile from shore at dark. Overall crossing: ~14 days (17-31 Mar 2006), mostly walking/skiing over moving pack ice; swimming of open leads in dry/immersion suits on day 1 and as needed (Seattle Times/Nexus: '5 days where swimming was required').",
+   "sources": [
+    "S7",
+    "S13",
+    "S21",
+    "S26"
+   ]
+  },
+  {
+   "id": "s02-079",
+   "from": "w02-079",
+   "to": "w02-080",
+   "mode": "walk",
+   "route_basis": "waypoints_only",
+   "route_detail": "coast",
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": true,
+   "notes": "31 Mar walk 3 miles SE along debris-strewn coast to Uelen.",
+   "sources": [
+    "S7"
+   ]
+  },
+  {
+   "id": "s02-080",
+   "from": "w02-080",
+   "to": "w02-081",
+   "mode": "offroute",
+   "route_basis": "unknown",
+   "route_detail": null,
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": false,
+   "notes": "Transferred by Russian border guards from Uelen to Lavrentiya; means of transport not stated.",
+   "sources": [
+    "S15",
+    "S16"
+   ]
+  },
+  {
+   "id": "s02-081",
+   "from": "w02-081",
+   "to": "w02-082",
+   "mode": "offroute",
+   "route_basis": "unknown",
+   "route_detail": "flight; routing (via Anadyr/Provideniya?) unknown",
+   "companions": [
+    "Dimitri Kieffer"
+   ],
+   "counts_as_progress": false,
+   "notes": "After appeal win, flight Russia→Nome 24 May 2006 (not a deportation per BBC 5 May 2006)",
+   "sources": [
+    "S21",
+    "S23",
+    "S17"
+   ]
+  }
+ ],
+ "pauses": [
+  {
+   "id": "p02-001",
+   "at": "w02-001",
+   "start": "2001-03-17",
+   "end": "2001-04-04",
+   "reason": "Rest/resupply in Panama City after Darién Gap (handover from leg 01; how he reached Panama City is leg-01 scope)",
+   "left_how": "unknown (stayed in city)",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "p02-002",
+   "at": "w02-008",
+   "start": "2001-06-03",
+   "end": "2001-06 to 2001-07 (end unknown)",
+   "reason": "Trying to have a new trailer built in León; length of stop unknown ('after the stop in Leon')",
+   "left_how": "unknown",
+   "sources": [
+    "S1"
+   ]
+  },
+  {
+   "id": "p02-003",
+   "at": "w02-027",
+   "start": "2002-07",
+   "end": "2002-08",
+   "reason": "US visa (90-day waiver) expired; must apply abroad",
+   "left_how": "Flew to Bogotá, Colombia, returned to Las Vegas (Wikipedia, citing Arizona Daily Star – not verified by me). Exact resume point unknown",
+   "sources": [
+    "S25"
+   ]
+  },
+  {
+   "id": "p02-004",
+   "at": "w02-035",
+   "start": "2003-01-01",
+   "end": "2003-02-13",
+   "reason": "Cart B2 and equipment stolen at Exit 379 bar; replacement trailer built in Helena",
+   "left_how": "Lifts to Conrad, Tracy (Great Falls) and Helena, MT; driven back to Exit 379 by Ruth Finch",
+   "sources": [
+    "S3",
+    "S25"
+   ]
+  },
+  {
+   "id": "p02-005",
+   "at": "w02-039",
+   "start": "2003-03-07",
+   "end": "2003-03-09",
+   "reason": "Meet father Keith & stepbrother Ben in Calgary for resupply/BBC filming",
+   "left_how": "Bill Anderson's pick-up to Calgary; father's hired pick-up back to truck stop",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "p02-006",
+   "at": "w02-041",
+   "start": "2003-03-14",
+   "end": "2003-07-24",
+   "reason": "Prolonged stay in Calgary while supporters fought Canadian immigration over partner Catalina (Catty) Estrada's visitor visa (refused)",
+   "left_how": "stayed in Calgary (Bill Anderson's place)",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "p02-007",
+   "at": "w02-049",
+   "start": "2003-11 to 2003-12 (start unknown)",
+   "end": "2004-01-01",
+   "reason": "Stay at Fort Nelson; reason not stated in extracts ('Leaving Fort Nelson was not meant to be like this. It was intended to be a far happier day')",
+   "left_how": "unknown",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "p02-008",
+   "at": "w02-051",
+   "start": "2004-04-01/02",
+   "end": "~2004-04-08 (about one week)",
+   "reason": "Rest/media in Whitehorse",
+   "left_how": "stayed in hostel",
+   "sources": [
+    "S4"
+   ]
+  },
+  {
+   "id": "p02-009",
+   "at": "w02-054",
+   "start": "2004-05/06 (arrival unknown)",
+   "end": "2004-12-16",
+   "reason": "Waited in Fairbanks for winter freeze to travel west on snow-machine trails / frozen rivers (reason inferred; not explicitly stated)",
+   "left_how": "unknown; journal starts again at Murphy Dome 16 Dec 2004",
+   "sources": [
+    "S5",
+    "S24"
+   ]
+  },
+  {
+   "id": "p02-010",
+   "at": "w02-061",
+   "start": "2005-03-24 (or 27)",
+   "end": "2005-12 (late; between 17 and 30 Dec)",
+   "reason": "Spring melt ended the 2005 season; US visa expiring; teeth repair",
+   "left_how": "Flew Unalakleet→Nome→Fairbanks, then to Colombia; returned to Alaska early Oct 2005; Anchorage/Fairbanks preparation; flew back to Unalakleet",
+   "sources": [
+    "S5",
+    "S9",
+    "S25"
+   ]
+  },
+  {
+   "id": "p02-011",
+   "at": "w02-071",
+   "start": "2006-02-09",
+   "end": "2006-02 (before 18 Feb)",
+   "reason": "Waiting at Teller for Dimitri (frostbite check in Nome)",
+   "left_how": "stayed",
+   "sources": [
+    "S6"
+   ]
+  },
+  {
+   "id": "p02-012",
+   "at": "w02-073",
+   "start": "2006-02-21",
+   "end": "2006-03-17",
+   "reason": "Preparation in Wales school; waiting for ice window",
+   "left_how": "stayed in Wales",
+   "sources": [
+    "S6",
+    "S7"
+   ]
+  },
+  {
+   "id": "p02-013",
+   "at": "w02-080",
+   "start": "2006-03-31",
+   "end": "2006-05-24 (Russia); walk resumed only in 2007 (next leg)",
+   "reason": "Detention for illegal border crossing; court in Chukotka ordered fine + deportation (≈14 Apr 2006), overturned on appeal (announced 5 May 2006); then permits for Chukotka",
+   "left_how": "Moved by border guards to Lavrentiya; flight Russia→Nome 24 May 2006; then flew to Colombia for summer 2006",
+   "sources": [
+    "S11",
+    "S16",
+    "S17",
+    "S20",
+    "S21",
+    "S12"
+   ]
+  }
+ ],
+ "conflicts": [
+  {
+   "topic": "Bering crossing departure point",
+   "claims": [
+    {
+     "value": "Wales / Cape Prince of Wales, 17 Mar 2006",
+     "source": "S7"
+    },
+    {
+     "value": "Wales, March 17 (per Keith Bushby)",
+     "source": "S18"
+    },
+    {
+     "value": "Wales – Uelen, March 17-31",
+     "source": "S26"
+    },
+    {
+     "value": "'leaving Nome on March 17'",
+     "source": "S21"
+    }
+   ],
+   "assessment": "Wales is supported by Karl's own diary; Nome in S21 is an error (Nome was where they met / Evergreen base)."
+  },
+  {
+   "topic": "Crossing duration",
+   "claims": [
+    {
+     "value": "14 days (17–31 Mar)",
+     "source": "S7"
+    },
+    {
+     "value": "14 days",
+     "source": "S13"
+    },
+    {
+     "value": "15 days",
+     "source": "S19"
+    },
+    {
+     "value": "15-day trek",
+     "source": "S20"
+    }
+   ],
+   "assessment": "Diary: left 17 Mar, landfall 31 Mar = 14 days (15 calendar days inclusive). Both counts consistent with same dates."
+  },
+  {
+   "topic": "Date of arrival in Russia / Uelen",
+   "claims": [
+    {
+     "value": "Landfall 31 Mar 2006, walked to Uelen same day",
+     "source": "S7"
+    },
+    {
+     "value": "March 31 website post placed them in Uelen",
+     "source": "S19"
+    },
+    {
+     "value": "arrived near Uelen on 2 April",
+     "source": "S16"
+    },
+    {
+     "value": "arrived near Uelen on 2 April",
+     "source": "S17"
+    },
+    {
+     "value": "detained on April 1",
+     "source": "S20"
+    }
+   ],
+   "assessment": "Primary diary gives 31 Mar landfall. BBC's '2 April' may refer to formal registration or be an error. Detention date 1 Apr (AP) plausible but unconfirmed by primary source."
+  },
+  {
+   "topic": "Strait width and distance actually travelled",
+   "claims": [
+    {
+     "value": "58-mile strait; 150-mile roundabout route",
+     "source": "S13"
+    },
+    {
+     "value": "56-mile stretch",
+     "source": "S19"
+    },
+    {
+     "value": "56 miles; 200 circuitous miles",
+     "source": "S21"
+    },
+    {
+     "value": "200 miles / 322 km",
+     "source": "S26"
+    }
+   ],
+   "assessment": "Different journalistic figures; no GPS track published. Treat as approximate."
+  },
+  {
+   "topic": "Swimming during crossing",
+   "claims": [
+    {
+     "value": "Swam an open lead 'hundreds of metres wide' on day 1; frequent immersion in broken ice",
+     "source": "S7"
+    },
+    {
+     "value": "'swim five days through the slushy ice'",
+     "source": "S21"
+    },
+    {
+     "value": "'14 days, 5 days where swimming was required'",
+     "source": "S26"
+    },
+    {
+     "value": "walked, skied and swam",
+     "source": "S22"
+    }
+   ],
+   "assessment": "Swimming confirmed by primary source; the '5 days' figure comes only from Kieffer-related/secondary sources; diary extracts only explicitly describe the day-1 swim (extracts skip several days)."
+  },
+  {
+   "topic": "36-hour drift and helicopter rescue",
+   "claims": [
+    {
+     "value": "'They drifted for 36 hours until rescued by a helicopter' (presented within crossing story)",
+     "source": "S21"
+    },
+    {
+     "value": "Drift and Evergreen helicopter lift occurred 3–5 Feb 2006 off Cape Douglas (28 mi SE of King Island), before the crossing",
+     "source": "S6"
+    }
+   ],
+   "assessment": "S21 conflates the February pre-crossing incident with the March crossing; no helicopter rescue during the crossing itself per diary."
+  },
+  {
+   "topic": "Where/how detained",
+   "claims": [
+    {
+     "value": "reported themselves to Border Guard in Uelen",
+     "source": "S11"
+    },
+    {
+     "value": "detained while crossing the Russian border near Uelen",
+     "source": "S25"
+    },
+    {
+     "value": "stopped in the village of Lavrenty",
+     "source": "S19"
+    },
+    {
+     "value": "detained by border guards and moved to Lavrentiya",
+     "source": "S16"
+    }
+   ],
+   "assessment": "Best reading: presented themselves in Uelen, then moved to Lavrentiya and held there under movement restriction (stayed with priest Father Leonid)."
+  },
+  {
+   "topic": "Fine amount and outcome",
+   "claims": [
+    {
+     "value": "$72 each and deportation, 5-year ban (lower court)",
+     "source": "S20"
+    },
+    {
+     "value": "£40 fine upheld, expulsion cancelled on appeal",
+     "source": "S17"
+    },
+    {
+     "value": "Russian appeal court upheld Bushby's application, 5 May 2006",
+     "source": "S25"
+    }
+   ],
+   "assessment": "Consistent: lower court (≈14 Apr 2006) fine + deportation; appeal (announced 5 May 2006) kept fine, cancelled deportation. They left Russia by flight 24 May 2006 (S21) – a departure, not a deportation. Some later secondary pieces say 'deported' – not supported."
+  },
+  {
+   "topic": "Dimitri Kieffer nationality",
+   "claims": [
+    {
+     "value": "French adventurer",
+     "source": "S13"
+    },
+    {
+     "value": "American",
+     "source": "S17"
+    },
+    {
+     "value": "U.S. and French citizen",
+     "source": "S18"
+    }
+   ],
+   "assessment": "Probably dual French/US citizen, Anchorage/Seattle-based."
+  },
+  {
+   "topic": "Unalakleet arrival date 2005",
+   "claims": [
+    {
+     "value": "24 Mar 2005, ~22:30",
+     "source": "S5"
+    },
+    {
+     "value": "27th March 2005",
+     "source": "S9"
+    }
+   ],
+   "assessment": "Karl's own diary (24 Mar) preferred, but both are expedition-official."
+  },
+  {
+   "topic": "Las Vegas visa break",
+   "claims": [
+    {
+     "value": "Reached Las Vegas in July 2002, flew to Bogotá, resumed in Las Vegas August 2002",
+     "source": "S25"
+    }
+   ],
+   "assessment": "Journal extracts show Searchlight 25 Jun and Overton 19 Aug 2002 with nothing in between; consistent but exact break/resume point unverified (Wikipedia cites Arizona Daily Star clippings that I could not access)."
+  }
+ ],
+ "unknowns": [
+  "Exact route through Honduras, El Salvador entry/exit points and Guatemala route (no dated journal entries for Honduras/Guatemala).",
+  "Length of León (Nicaragua) stop June–July 2001.",
+  "Mexico Oct 2001 – Feb 2002: route between coastal Oaxaca and Nayarit (Guerrero/Michoacán/Colima/Jalisco coast?) and whether there was a pause; only one entry (24 Nov 2001).",
+  "Whether he passed through California (Needles) between I-40 and Searchlight NV in June 2002.",
+  "Exact place where the walk resumed after the Jul–Aug 2002 Bogotá visa trip.",
+  "Route Coutts→Medicine Hat, Suffield→Bassano, Calgary→Banff, Jasper→Grande Prairie (roads not named).",
+  "Fort Nelson arrival date and reason for the Nov/Dec 2003 stop.",
+  "Fairbanks arrival date (May/June 2004) and what he did May–Dec 2004.",
+  "Exact resumption date at Unalakleet (late Dec 2005) and Nome arrival date (late Jan 2006).",
+  "Whether the helicopter food/fuel resupply on the strait (~23 Mar 2006) actually happened.",
+  "Actual GPS drift track of the crossing (Karl says GPS logged 24h; never published as far as found).",
+  "Exact detention date/time and the means of transfer Uelen→Lavrentiya; exact court dates (lower court ≈14 Apr 2006; appeal ≈4/5 May 2006); flight route out of Russia on 24 May 2006.",
+  "Book 'Giant Steps' (2006) – not accessible (archive.org item is lending-only); could confirm many of the above."
+ ],
+ "sources": {
+  "S1": {
+   "title": "Karl's journals – Central America (Panama, Costa Rica, Nicaragua, Guatemala, Honduras)",
+   "url": "https://web.archive.org/web/20060406213110/http://goliath.mail2web.com:80/Journals/CentralAmerica.asp",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website (goliath.mail2web.com), Wayback snapshot 2006-04-06",
+   "date": "journal 2001-03-17..2001-08-30",
+   "quote": "Wednesday, 4th April 2001. 8 degrees 51 minutes north, 79 degrees 49 minutes west. ... Within 45 minutes I had cleared the city and reached the America's Bridge, a huge construction spanning the Panama Canal. | Sunday, 20th May 2001 ... I reached the border ... It's then I find I have to pay $3 US to leave Costa Rica. | Thursday colour 30th August 2001. 14 degrees 21 minutes north, 92 degrees 10 minutes west. ... soon I'm within only 5k's of Mexico."
+  },
+  "S2": {
+   "title": "Karl's journals – Mexico",
+   "url": "https://web.archive.org/web/20061021010332/http://goliath.mail2web.com/Journals/Mexico.asp",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website, Wayback snapshot 2006-10-21",
+   "date": "journal 2001-08..2002-04-28",
+   "quote": "Moving on, I quite quickly come to Tecun Uman ... From here I cross a fenced off bridge ... reaching a river which denotes the border. Crossing this bridge I finally arrive at a checkpoint in Mexico. ... I had to make a withdrawal from the 'hole in the wall' in the town of Hidalgo on the Mexican side. ... It's 37k's to Tapachula | ...slowly climbing up to rejoin the main road, Highway 15. | Tomorrow is the 'Coming in day' of 'Coming in days'! Nogales, this is it! The end of Latin America!"
+  },
+  "S3": {
+   "title": "Karl's journals – United States",
+   "url": "https://web.archive.org/web/20081006235059/http://goliath.mail2web.com/Journals/USA.asp",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website, Wayback snapshot 2008-10-06",
+   "date": "journal 2002-04-27..2003-02-13",
+   "quote": "Monday, 29th April 2002. US border, Nogales. ... I fill in my 'green card', pay my $6 and receive a 90 day visa waiver | Monday, 17th June 2002. Lake Havasu City. It's about 20 miles from here to the junction with Interstate Highway 40 | Last night I ended up close to the I-15, (Interstate 15). ... This is my only route north from here. | Tuesday, 31st December 2002. ... only 19 miles south of the Canadian border. I'm happy to find that on Exit 379 there's a small bar /cafe. | Thursday, 13th February 2003. ... Ruth drives everything back up to exit 379. After our goodbyes I am finally off, once again only 19 miles short of Canada. ... dropping down into Sweetgrass and the immigration crossing point."
+  },
+  "S4": {
+   "title": "Karl's journals – Canada",
+   "url": "https://web.archive.org/web/20060414142102/http://goliath.mail2web.com:80/Journals/Canada.asp",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website, Wayback snapshot 2006-04-14",
+   "date": "journal 2003-02-13..2004-05-01",
+   "quote": "Just over the border is the small town of Coutts. | I push on through the cold until I reach Medicine Hat | I'm throwing in a bit of a deviation to my route and making my way to the north- east, to the small town of Suffield. Here is BATUS | I will meet them at a truck stop near the small settlement of Bassano ... on 7th March. | Sunday, 9th March 2003. Dad hires a pick-up and we head off back to the truck stop where I'd been picked up. | The chapter ended with Karl's prolonged stay in Calgary as a number of people took the fight to the Immigration Service. | I leave Grande Prairie on 13th October and a couple of days later reach Beaverlodge. ... I head north-west about 100k's to Dawson Creek and the start of the Alaska Highway, arriving on the 22nd October. ... by the 25th reach Fort St John. | Thursday, 1st January 2004. Leaving Fort Nelson ... | Monday, 8th March 2004. I eventually arrive in Watson Lake | Saturday, 1st May 2004. I leave for the border ... I pass through Canadian Immigration just outside Beaver Creek"
+  },
+  "S5": {
+   "title": "Karl's journals – Alaska 2003-2005",
+   "url": "https://web.archive.org/web/20060406212735/http://goliath.mail2web.com:80/Journals/Alaska.asp",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website, Wayback snapshot 2006-04-06",
+   "date": "journal 2003-07..2005-03",
+   "quote": "Thursday, 13th May 2004. ... reach Dot Lake | Thursday, 16th December 2004. Having already walked to Murphy Dome I just need to have the sled brought up for me. ... a snow machine trail leaving the Dome ... drops onto the Minto Flats | Sunday, 10th January 2005. N 64 59.953' W 150 38.101' (Manley Hot Springs) | Thursday, 24th March 2005. ... DK plans to reach Unalakleet in one 36 mile push ... we entered the village at about 22:30. | My US visa is about to run out. ... I fly to Nome to pick up a flight to Fairbanks ... I shall go to Colombia."
+  },
+  "S6": {
+   "title": "Karl's journals – Alaska 2005-2006",
+   "url": "https://web.archive.org/web/20070702003226/http://goliath.mail2web.com:80/Journals/Alaska2006.asp",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website, Wayback snapshot 2007-07-02",
+   "date": "journal 2005-12..2006-02-21",
+   "quote": "Extracts from Karl's diaries covering the Winter 2005 /06 from the point where Karl and Dimitri prepare in Fairbanks, Karl's move back to Unalakleet on the coast to complete his walk around to Cape Prince Wales and start of the crossing. He meets up again with Dimitri in Nome | Checking my GPS I find we are 28 miles out to sea, south-east of King Island!! | I'm dropped off 2 miles from Cape Douglas and the chopper leaves for Nome. ... I push on back up to the Cape | Tuesday, 21st February 2006. N65° 37.280' W168° 05.120' ... Wales, (population approximately 130) finally comes into view"
+  },
+  "S7": {
+   "title": "Extracts from Karl's diaries covering the Bering Straits Crossing 2006",
+   "url": "https://web.archive.org/web/20070629095526/http://goliath.mail2web.com:80/Journals/BeringStraits2006.asp",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website, Wayback snapshot 2007-06-29",
+   "date": "journal 2006-03-17..2006-03-31",
+   "quote": "Friday, 17th March 2006 Cape Prince of Wales ... We ease ourselves into the water after the sleds and begin to swim for the other side. ... Hundreds of metres wide | At this point we are drifting northwards at about 2mph | Monday, 20th March 2006 ... We are now in reverse and moving south at a similar speed. | we get to cross the Dateline and a 'nav check' puts us firmly in Russian waters. | We have been stuck at about 20 miles from the shore for three days now. | Today is also my 37th birthday ... only half a mile from landfall | Friday, 31st March 2006 ... It would appear we have come ashore right in the middle of the early-warning base about 3 miles north-west of Uelen ... The site is in fact abandoned. ... 'Terra firma - Terra firma.'"
+  },
+  "S8": {
+   "title": "Letter from Karl, 9th June 2006",
+   "url": "https://web.archive.org/web/20060723073357/http://goliath.mail2web.com:80/Journals/letter_June2006.asp",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website",
+   "date": "2006-06-09",
+   "quote": "There is not one yard between the town of Punto Arenas in Chile and Uelen in Russia that I have not walked or swam. There is no gap in the trail and that is my aim."
+  },
+  "S9": {
+   "title": "Location page (team updates 5 Apr 2005, 9 Oct 2005, 17 Dec 2005)",
+   "url": "https://web.archive.org/web/20060417185420/http://goliath.mail2web.com:80/Location/",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website (written by home team)",
+   "date": "2005-04-05..2005-12-17",
+   "quote": "Karl reached Unalakleet on the Alaskan coast on 27th March 2005. ... Karl flew back to Fairbanks and after sorting out and storing his equipment has flown back to Colombia | Karl returned from Colombia, arriving back in Alaska earlier this month [9 Oct 2005] | Dimitri will join Karl in Fairbanks on 10th December ... and shortly after Karl will go to Unalakleet (where he finished last winter)"
+  },
+  "S10": {
+   "title": "Homepage update 22 March 2006",
+   "url": "https://web.archive.org/web/20060325215656/http://goliath.mail2web.com:80/",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website",
+   "date": "2006-03-22",
+   "quote": "CURRENT LOCATION: Bering Strait , Alaska 22 March 2006 Though it had been extremely hard work, Karl and Dmitri had managed to make 5 miles westwards yesterday."
+  },
+  "S11": {
+   "title": "Homepage updates 7, 11 and 24 April 2006",
+   "url": "https://web.archive.org/web/20060407163224/http://goliath.mail2web.com:80/",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website",
+   "date": "2006-04-07..2006-04-24",
+   "quote": "[7 Apr] They were well aware that they would be detained on reaching Russia ... Their intention was to contact the Border Guard as soon as possible after making land, which they then did in Uelen. | [11 Apr, snapshot 20060415081403] still in Lavrentiya (population 1200) ... their passports (unstamped). However, all their electrical equipment, as well as skis, poles, dry suits, underwater gloves and sled have been retained | [24 Apr, snapshot 20060427154458] It was hoped that Karl and Dimitri would be down in Anadyr by now but as there is only one aircraft per week"
+  },
+  "S12": {
+   "title": "Homepage update 9 June 2006",
+   "url": "https://web.archive.org/web/20060615052158/http://goliath.mail2web.com/",
+   "type": "primary",
+   "publisher": "Goliath Expedition official website",
+   "date": "2006-06-09",
+   "quote": "After sorting out all that he could in Alaska Karl has flown down to Colombia to spend the summer with Catty. ... renewing visas and obtaining the special permits required for the Chukotka region."
+  },
+  "S13": {
+   "title": "Epic explorer crosses frozen sea",
+   "url": "http://news.bbc.co.uk/1/hi/england/humber/4872348.stm",
+   "type": "secondary",
+   "publisher": "BBC News",
+   "date": "2006-04-03",
+   "quote": "Karl Bushby reached land after 14 days walking across shifting plates of ice in temperatures reaching -30C. ... conquered the strait with temporary companion, Dimitri Kieffer, a French adventurer and specialist endurance racer. The pair had to take a roundabout 150-mile route to cross the 58-mile wide strait from Alaska to Siberia, crossing sheets of ice which were drifting with the current."
+  },
+  "S14": {
+   "title": "Epic explorer detained in Russia",
+   "url": "http://news.bbc.co.uk/1/hi/england/humber/4876076.stm",
+   "type": "secondary",
+   "publisher": "BBC News",
+   "date": "2006-04-04",
+   "quote": "\"We are still trying to clarify the facts, but it seems he was lacking the correct border stamps.\" ... Dimitri Kieffer ... who has also been detained by the Russian authorities in Chukotka."
+  },
+  "S15": {
+   "title": "Explorer awaiting Russian release",
+   "url": "http://news.bbc.co.uk/1/hi/england/humber/4884222.stm",
+   "type": "secondary",
+   "publisher": "BBC News",
+   "date": "2006-04-06",
+   "quote": "They were detained by border officials on arrival in Russia and later moved to Lavrentiya where they are staying with a young orthodox priest. ... they had had their equipment seized and were not allowed to leave the village"
+  },
+  "S16": {
+   "title": "Judge to decide explorer's fate",
+   "url": "http://news.bbc.co.uk/2/hi/europe/4905160.stm",
+   "type": "secondary",
+   "publisher": "BBC News",
+   "date": "2006-04-12",
+   "quote": "Karl Bushby, 36, from Hull, arrived near the unauthorised entry point of Uelen on 2 April having walked across the frozen Bering Strait from Alaska. He and fellow explorer Dimitri Kieffer were later detained by border guards and moved to the village of Lavrentiya."
+  },
+  "S17": {
+   "title": "Explorer's world trek continues",
+   "url": "http://news.bbc.co.uk/1/hi/england/humber/4975988.stm",
+   "type": "secondary",
+   "publisher": "BBC News",
+   "date": "2006-05-05",
+   "quote": "A court in Russia's Far East has upheld an appeal by the British adventurer Karl Bushby against deportation. ... He must still pay a £40 fine, but will not now be expelled from Russia. Mr Bushby and fellow explorer American Dimitri Kieffer arrived near the unauthorised entry point of Uelen on 2 April. ... crossing from Alaska into Siberia via the frozen Arctic waters of the Chukchi Sea (north of the Bering Straits)."
+  },
+  "S18": {
+   "title": "Adventurers held by Russians after crossing Bering Strait (David Holley, Los Angeles Times)",
+   "url": "https://www.spokesman.com/stories/2006/apr/05/adventurers-held-by-russians-after-crossing/",
+   "type": "secondary",
+   "publisher": "Spokesman-Review (LA Times wire)",
+   "date": "2006-04-05",
+   "quote": "[paraphrase returned by fetch tool - NOT verified verbatim] They set off from the Alaskan town of Wales on March 17, according to Karl Bushby's father, Keith Bushby; ... entered the small settlement of Uelen; planned to go on to Provideniya ... to present themselves for immigration procedures; Kieffer described as a U.S. and French citizen."
+  },
+  "S19": {
+   "title": "Russia arrests Briton, American on remote hike (AP)",
+   "url": "https://www.nbcnews.com/news/amp/wbna12152629",
+   "type": "secondary",
+   "publisher": "NBC News / Associated Press",
+   "date": "2006-04-04",
+   "quote": "[paraphrase returned by fetch tool - NOT verified verbatim] crossed a frozen 56-mile stretch of the Bering Strait on foot, taking 15 days; a March 31 website post placed them in Uelen; stopped in the village of Lavrenty ... in Chukotka; officials said they had satellite phones, GPS equipment, a video camera and a pistol; the FSB said they were accused of illegal border crossing."
+  },
+  "S20": {
+   "title": "World trek threatened by Russian court order (AP)",
+   "url": "https://archive.seattletimes.com/archive/20060415/deport15m/world-trek-threatened-by-russian-court-order",
+   "type": "secondary",
+   "publisher": "Seattle Times / AP",
+   "date": "2006-04-15",
+   "quote": "would be fined $72 each and deported ... would not be permitted to return for at least another five years ... not allowed to leave the town of Lavrentiya ... [detained April 1] ... a perilous 15-day trek across a 56-mile stretch of the frozen Bering Strait"
+  },
+  "S21": {
+   "title": "\"Much suspense\" near tip of the world",
+   "url": "https://archive.seattletimes.com/archive/20060603/dimitri03m/much-suspense-near-tip-of-the-world",
+   "type": "secondary",
+   "publisher": "Seattle Times",
+   "date": "2006-06-03",
+   "quote": "leaving Nome on March 17 ... After 14 grueling days ... the tiny village of Uelen ... they had to swim five days through the slushy ice ... They drifted for 36 hours until rescued by a helicopter ... traveled 200 circuitous miles ... 54 days ... catching a flight from Russia to Nome on May 24"
+  },
+  "S22": {
+   "title": "Full-time adventurer setting out again soon",
+   "url": "https://archive.seattletimes.com/archive/20061227/enddimitri27m/full-time-adventurer-setting-out-again-soon",
+   "type": "secondary",
+   "publisher": "Seattle Times",
+   "date": "2006-12-27",
+   "quote": "walked, skied and swam the 56 miles across the Bering Strait from Alaska to Russia in 14 days ... were detained for 54 days for visa violations before they were allowed to leave Russia"
+  },
+  "S23": {
+   "title": "Bushby and Kieffer beat Russian deportation order (Dan Bross)",
+   "url": "https://fm.kuac.org/kuac-newscasts/2006-06-01/bushby-and-kieffer-beat-russian-deportation-order",
+   "type": "secondary",
+   "publisher": "KUAC Fairbanks",
+   "date": "2006-06-01",
+   "quote": "[paraphrase returned by fetch tool] Bushby and Kieffer returned to Alaska the previous week ... spent several additional weeks in Russia contesting a deportation order"
+  },
+  "S24": {
+   "title": "Marathon Walker's Goliath Expedition Reaches Alaska (Dan Bross)",
+   "url": "https://fm.kuac.org/kuac-newscasts/2004-08-11/marathon-walkers-goliath-expedition-reaches-alaska",
+   "type": "secondary",
+   "publisher": "KUAC Fairbanks",
+   "date": "2004-08-11",
+   "quote": "[headline] Marathon Walker's Goliath Expedition Reaches Alaska"
+  },
+  "S25": {
+   "title": "Karl Bushby (Wikipedia, raw wikitext)",
+   "url": "https://en.wikipedia.org/w/index.php?title=Karl_Bushby&action=raw",
+   "type": "secondary",
+   "publisher": "Wikipedia",
+   "date": "accessed 2026-11-01",
+   "quote": "On 29 April 2002, Bushby left Mexico and entered the United States at Nogales, Arizona. Upon reaching Las Vegas in July, Bushby was told that his 90-day visa had expired and could not be renewed while he was in the United States. He thus flew back to Bogotá to apply for a six-month visa, returning to Las Vegas to resume the walk when his visa was approved in August. On New Year's Day 2003, a day away from crossing into Canada, Bushby's handcart was stolen while he was visiting a bar in Toole County, Montana. ... Between 17 and 31 March 2006, Bushby and French adventurer Dimitri Kieffer successfully crossed the Bering Strait on foot, having to take a roundabout 14-day route across a frozen 150-mile section to cross the 58-mile wide strait ... detained by Russian border troop officers while they were crossing the Russian border near the Chukotkan village of Uelen ... It was announced on 5 May 2006 that the Russian appeal court had upheld Bushby's application"
+  },
+  "S26": {
+   "title": "Expedition history (Nexus Expeditions blog, Kieffer-related; posted by 'Nathrop')",
+   "url": "https://nexusexpeditions.blogspot.com/2008/01/expedition-history.html",
+   "type": "secondary",
+   "publisher": "nexusexpeditions.blogspot.com",
+   "date": "2008-01",
+   "quote": "Third Section: Wales (Alaska) – Uelen (Russia) Bering Strait Crossing ... March 17-31 2006 ... 14 days, 5 days where swimming was required ... 200 miles 322 kilometers"
+  }
+ }
+}

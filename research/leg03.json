@@ -1,0 +1,1411 @@
+{
+  "leg": "03",
+  "title": "Russia: Uelen -> Amguema -> Komsomolsky -> Bilibino -> Srednekolymsk -> Yakutia -> Amur/Zabaykalye -> Mongolian border (2006–2017), incl. off-route US protest walk 2013–14",
+  "waypoints": [
+    {
+      "id": "w03-001",
+      "name": "Uelen, Chukotka",
+      "lat": 66.159,
+      "lon": -169.81,
+      "coord_basis": "town_centroid",
+      "date": "2007-04-12",
+      "date_earliest": "2007-04-12",
+      "date_latest": "2007-04-13",
+      "date_precision": "day",
+      "event": "2006 landing/detention point (detained 1 Apr 2006). Karl & Kieffer returned here 12 Apr 2007 (10-hour all-terrain-vehicle ride) and resumed walking 'from the point it left off'.",
+      "sources": [
+        "S5",
+        "S33",
+        "S34"
+      ]
+    },
+    {
+      "id": "w03-002",
+      "name": "Inchoun, Chukotka",
+      "lat": 66.3,
+      "lon": -170.25,
+      "coord_basis": "town_centroid",
+      "date": "2007-04",
+      "date_earliest": "2007-04-13",
+      "date_latest": "2007-04-24",
+      "date_precision": "month",
+      "event": "Passed through on the north coast.",
+      "sources": [
+        "S34"
+      ]
+    },
+    {
+      "id": "w03-003",
+      "name": "Enurmino, Chukotka",
+      "lat": 66.95,
+      "lon": -171.82,
+      "coord_basis": "town_centroid",
+      "date": "2007-04",
+      "date_earliest": "2007-04-13",
+      "date_latest": "2007-04-24",
+      "date_precision": "month",
+      "event": "Passed through on the north coast.",
+      "sources": [
+        "S34"
+      ]
+    },
+    {
+      "id": "w03-004",
+      "name": "Neshkan, Chukotka",
+      "lat": 67.03,
+      "lon": -172.97,
+      "coord_basis": "town_centroid",
+      "date": "2007-04-24",
+      "date_earliest": "2007-04-24",
+      "date_latest": "2007-04-27",
+      "date_precision": "day",
+      "event": "Arrived 24 Apr 2007 (193 km from Uelen); rested until 27 Apr; then inland west toward Amguema.",
+      "sources": [
+        "S34"
+      ]
+    },
+    {
+      "id": "w03-005",
+      "name": "Amguema, Chukotka",
+      "lat": 67.75,
+      "lon": -178.7,
+      "coord_basis": "town_centroid",
+      "date": "2007-05",
+      "date_earliest": "2007-05-01",
+      "date_latest": "2007-05-16",
+      "date_precision": "month",
+      "event": "Reached by mid-May 2007 (~480 km from Uelen). Also the restart point of late Aug 2007.",
+      "sources": [
+        "S35",
+        "S38"
+      ]
+    },
+    {
+      "id": "w03-006",
+      "name": "Egvekinot, Chukotka",
+      "lat": 66.32,
+      "lon": -179.12,
+      "coord_basis": "town_centroid",
+      "date": "2007-05",
+      "date_earliest": "2007-05-16",
+      "date_latest": "2007-05-21",
+      "date_precision": "month",
+      "event": "Spring 2007 walk ended here (walked 'down' from Amguema); left Russia ~21 May 2007 because permit was only 2 months. Spur end-point: the main line later continued north from Amguema.",
+      "sources": [
+        "S35",
+        "S36",
+        "S37"
+      ]
+    },
+    {
+      "id": "w03-007",
+      "name": "'Valinistiy' (Valunisty?) mining camp, ~200 km from Amguema",
+      "lat": null,
+      "lon": null,
+      "coord_basis": "approximate_region",
+      "date": "2007-09-09",
+      "date_earliest": "2007-09-09",
+      "date_latest": "2007-09-09",
+      "date_precision": "day",
+      "event": "First waypoint of the summer/autumn 2007 leg; 4-5 rest days. Coordinates not verified.",
+      "sources": [
+        "S39",
+        "S40"
+      ]
+    },
+    {
+      "id": "w03-008",
+      "name": "Komsomolsky, Chaunsky district, Chukotka",
+      "lat": 69.17,
+      "lon": 172.7,
+      "coord_basis": "town_centroid",
+      "date": "2007-10-06",
+      "date_earliest": "2007-10-06",
+      "date_latest": "2007-10-06",
+      "date_precision": "day",
+      "event": "Arrived after 474 km along mining-truck track; went to Pevek (off-route) for supplies; departed Pevek/Komsomolskiy 28 Oct 2007.",
+      "sources": [
+        "S40",
+        "S41"
+      ]
+    },
+    {
+      "id": "w03-009",
+      "name": "Dvoynoye mining camp (Kinross), between Komsomolsky and Bilibino",
+      "lat": null,
+      "lon": null,
+      "coord_basis": "approximate_region",
+      "date": "2007-11",
+      "date_earliest": "2007-11-04",
+      "date_latest": "2007-11-21",
+      "date_precision": "month",
+      "event": "Furthest point of 2007 ('out of fuel and food'). Then helicopter/convoy out, flight from Anadyr 13 Dec 2007. Restart point of 2008. Coordinates deliberately null (not verified).",
+      "sources": [
+        "S42",
+        "S43",
+        "S3"
+      ]
+    },
+    {
+      "id": "w03-010",
+      "name": "Bilibino, Chukotka",
+      "lat": 68.05,
+      "lon": 166.45,
+      "coord_basis": "town_centroid",
+      "date": "2008-05-18",
+      "date_earliest": "2008-05-18",
+      "date_latest": "2008-05-18",
+      "date_precision": "day",
+      "event": "2008 season end (thaw; 90-day visa). Expedition stalled here until 10 Mar 2011.",
+      "sources": [
+        "S44",
+        "S7",
+        "S12"
+      ]
+    },
+    {
+      "id": "w03-011",
+      "name": "Anyuysk, Chukotka",
+      "lat": 68.38,
+      "lon": 161.53,
+      "coord_basis": "approximate_region",
+      "date": "2011-03-20",
+      "date_earliest": "2011-03-19",
+      "date_latest": "2011-03-22",
+      "date_precision": "day",
+      "event": "Left Bilibino 10 Mar 2011; ~300 km / 10 days to Anyuysk; left 22 Mar towards Chersky. (Coordinates approximate.)",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "w03-012",
+      "name": "Stadukhinskaya channel, Nizhnekolymsky district, Yakutia (border-guard protocol)",
+      "lat": null,
+      "lon": null,
+      "coord_basis": "approximate_region",
+      "date": "2011-03",
+      "date_earliest": "2011-03-22",
+      "date_latest": "2011-03-28",
+      "date_precision": "month",
+      "event": "Border post 'Cherskiy' soldiers wrote a protocol for lacking a permit for Nizhnekolymsky district. Almost certainly the incident later cited for the entry ban.",
+      "sources": [
+        "S7",
+        "S14"
+      ]
+    },
+    {
+      "id": "w03-013",
+      "name": "Srednekolymsk, Yakutia",
+      "lat": 67.45,
+      "lon": 153.71,
+      "coord_basis": "town_centroid",
+      "date": "2011-04-25",
+      "date_earliest": "2011-04-25",
+      "date_latest": "2011-04-25",
+      "date_precision": "day",
+      "event": "End of 2011 season (~1,100 km from Bilibino). Exact resume point in March 2015.",
+      "sources": [
+        "S8",
+        "S13",
+        "S22"
+      ]
+    },
+    {
+      "id": "w03-014",
+      "name": "Los Angeles, California (start of off-route protest walk)",
+      "lat": 34.05,
+      "lon": -118.24,
+      "coord_basis": "town_centroid",
+      "date": "2013-09",
+      "date_earliest": "2013-09-01",
+      "date_latest": "2013-09-14",
+      "date_precision": "month",
+      "event": "Start of 'The 3000' walk to the Russian Embassy (off-route).",
+      "sources": [
+        "S17",
+        "S18"
+      ]
+    },
+    {
+      "id": "w03-015",
+      "name": "Death Valley, California",
+      "lat": 36.5,
+      "lon": -117.1,
+      "coord_basis": "approximate_region",
+      "date": "2013-10",
+      "date_earliest": "2013-10-01",
+      "date_latest": "2013-10-06",
+      "date_precision": "month",
+      "event": "Walking through Death Valley.",
+      "sources": [
+        "S18"
+      ]
+    },
+    {
+      "id": "w03-016",
+      "name": "Las Vegas, Nevada",
+      "lat": 36.17,
+      "lon": -115.14,
+      "coord_basis": "town_centroid",
+      "date": "2013-10-15",
+      "date_earliest": "2013-10-15",
+      "date_latest": "2013-10-15",
+      "date_precision": "day",
+      "event": "In Las Vegas.",
+      "sources": [
+        "S17"
+      ]
+    },
+    {
+      "id": "w03-017",
+      "name": "Dacula, Georgia",
+      "lat": 33.99,
+      "lon": -83.9,
+      "coord_basis": "town_centroid",
+      "date": "2014-06-06",
+      "date_earliest": "2014-06-06",
+      "date_latest": "2014-06-06",
+      "date_precision": "day",
+      "event": "Photographed on Highway 124 near Dacula.",
+      "sources": [
+        "S19"
+      ]
+    },
+    {
+      "id": "w03-018",
+      "name": "Cameron, North Carolina (NC Hwy 24)",
+      "lat": 35.33,
+      "lon": -79.25,
+      "coord_basis": "town_centroid",
+      "date": "2014-07-13",
+      "date_earliest": "2014-07-13",
+      "date_latest": "2014-07-13",
+      "date_precision": "day",
+      "event": "On NC Hwy 24; son Adam with him for ~2 weeks.",
+      "sources": [
+        "S20",
+        "S19"
+      ]
+    },
+    {
+      "id": "w03-019",
+      "name": "Richmond, Virginia area",
+      "lat": 37.54,
+      "lon": -77.44,
+      "coord_basis": "town_centroid",
+      "date": "2014-08",
+      "date_earliest": "2014-08-13",
+      "date_latest": "2014-08-27",
+      "date_precision": "month",
+      "event": "In the Richmond area; expected in Washington 'just after Labor Day'.",
+      "sources": [
+        "S19"
+      ]
+    },
+    {
+      "id": "w03-020",
+      "name": "Washington, D.C. – Russian Embassy",
+      "lat": 38.907,
+      "lon": -77.037,
+      "coord_basis": "town_centroid",
+      "date": "2014-09",
+      "date_earliest": "2014-09-01",
+      "date_latest": "2014-10-23",
+      "date_precision": "unknown",
+      "event": "End of protest walk; exact arrival date not found. New Russian visa / invitation 23 Oct 2014.",
+      "sources": [
+        "S19",
+        "S21",
+        "S3"
+      ]
+    },
+    {
+      "id": "w03-021",
+      "name": "Srednekolymsk, Yakutia (resumption)",
+      "lat": 67.45,
+      "lon": 153.71,
+      "coord_basis": "town_centroid",
+      "date": "2015-03-21",
+      "date_earliest": "2015-03-18",
+      "date_latest": "2015-03-31",
+      "date_precision": "month",
+      "event": "Restart at the 2011 stopping point, postponed to the weekend after 18 Mar 2015 (sled cargo delayed).",
+      "sources": [
+        "S22",
+        "S2"
+      ]
+    },
+    {
+      "id": "w03-022",
+      "name": "Sasyr, Momsky district, Yakutia",
+      "lat": 65.1664,
+      "lon": 147.0767,
+      "coord_basis": "town_centroid",
+      "date": "2015",
+      "date_earliest": "2015-03",
+      "date_latest": "2015-11-23",
+      "date_precision": "year",
+      "event": "Karl's post: 'from Sasyr to the Road of Bones 2015'. Passage date unknown.",
+      "sources": [
+        "S23"
+      ]
+    },
+    {
+      "id": "w03-023",
+      "name": "Road of Bones (R504 Kolyma Highway) – junction point unknown",
+      "lat": null,
+      "lon": null,
+      "coord_basis": "approximate_region",
+      "date": "2015",
+      "date_earliest": "2015-03",
+      "date_latest": "2015-11-23",
+      "date_precision": "year",
+      "event": "Reached the Kolyma Highway in 2015. Where, and where the 2015 season ended, unknown.",
+      "sources": [
+        "S23",
+        "S21"
+      ]
+    },
+    {
+      "id": "w03-024",
+      "name": "Yakutsk / Lena Highway (A360)",
+      "lat": 62.035,
+      "lon": 129.675,
+      "coord_basis": "town_centroid",
+      "date": "unknown",
+      "date_earliest": "2015-05",
+      "date_latest": "2016-06-08",
+      "date_precision": "unknown",
+      "event": "Passage of Yakutsk not directly dated; afterwards followed the federal highway south and swam the Aldan (point unknown).",
+      "sources": [
+        "S24",
+        "S28"
+      ]
+    },
+    {
+      "id": "w03-025",
+      "name": "Neryungri, Yakutia",
+      "lat": 56.66,
+      "lon": 124.72,
+      "coord_basis": "town_centroid",
+      "date": "2016-06-08",
+      "date_earliest": "2016-06-08",
+      "date_latest": "2016-06-08",
+      "date_precision": "day",
+      "event": "Met by rescue volunteer 8 Jun 2016; next stop Tynda via federal highway.",
+      "sources": [
+        "S24"
+      ]
+    },
+    {
+      "id": "w03-026",
+      "name": "Mogocha, Zabaykalsky Krai",
+      "lat": 53.73,
+      "lon": 119.77,
+      "coord_basis": "town_centroid",
+      "date": "2016",
+      "date_earliest": "2016-06-08",
+      "date_latest": "2016-12-05",
+      "date_precision": "year",
+      "event": "Geotagged Instagram photo from Mogocha (reported 5 Dec 2016); order relative to Erofey Pavlovich unclear.",
+      "sources": [
+        "S25",
+        "S26"
+      ]
+    },
+    {
+      "id": "w03-027",
+      "name": "Erofey Pavlovich, Amur Oblast",
+      "lat": 53.96,
+      "lon": 121.94,
+      "coord_basis": "town_centroid",
+      "date": "2016-12-05",
+      "date_earliest": "2016-12-04",
+      "date_latest": "2016-12-05",
+      "date_precision": "day",
+      "event": "Geotagged photo 'in Erofey Pavlovich or approaching it'.",
+      "sources": [
+        "S25",
+        "S26"
+      ]
+    },
+    {
+      "id": "w03-028",
+      "name": "Russia → Mongolia border crossing (point unknown)",
+      "lat": null,
+      "lon": null,
+      "coord_basis": "approximate_region",
+      "date": "2017",
+      "date_earliest": "2017-01-01",
+      "date_latest": "2017-08-08",
+      "date_precision": "year",
+      "event": "Crossed 'earlier this year' (HDM 8 Aug 2017); in Ulaanbaatar 8 Aug 2017 (Leg 04). End of Leg 03.",
+      "sources": [
+        "S27",
+        "S1"
+      ]
+    }
+  ],
+  "segments": [
+    {
+      "id": "s03-001",
+      "from": "w03-001",
+      "to": "w03-002",
+      "mode": "walk",
+      "route_basis": "waypoints_only",
+      "route_detail": "North coast of Chukotka Peninsula, sled-hauling",
+      "companions": [
+        "Dimitri Kieffer"
+      ],
+      "counts_as_progress": true,
+      "notes": "Departed Uelen 13 Apr 2007 (after night in police station). Re-positioning Anadyr->Uelen (flight 15 Mar 2007 Nome->Anadyr; ATV ride) was off-route.",
+      "sources": [
+        "S34",
+        "S4"
+      ]
+    },
+    {
+      "id": "s03-002",
+      "from": "w03-002",
+      "to": "w03-003",
+      "mode": "walk",
+      "route_basis": "waypoints_only",
+      "route_detail": "North coast",
+      "companions": [
+        "Dimitri Kieffer"
+      ],
+      "counts_as_progress": true,
+      "notes": "36 h tent-bound by storms.",
+      "sources": [
+        "S34"
+      ]
+    },
+    {
+      "id": "s03-003",
+      "from": "w03-003",
+      "to": "w03-004",
+      "mode": "walk",
+      "route_basis": "waypoints_only",
+      "route_detail": "North coast",
+      "companions": [
+        "Dimitri Kieffer"
+      ],
+      "counts_as_progress": true,
+      "notes": "",
+      "sources": [
+        "S34"
+      ]
+    },
+    {
+      "id": "s03-004",
+      "from": "w03-004",
+      "to": "w03-005",
+      "mode": "walk",
+      "route_basis": "waypoints_only",
+      "route_detail": "Inland west, ~287 km",
+      "companions": [
+        "Dimitri Kieffer"
+      ],
+      "counts_as_progress": true,
+      "notes": "",
+      "sources": [
+        "S34",
+        "S35"
+      ]
+    },
+    {
+      "id": "s03-005",
+      "from": "w03-005",
+      "to": "w03-006",
+      "mode": "walk",
+      "route_basis": "named_road",
+      "route_detail": "Amguema->Egvekinot (Iultin–Egvekinot road corridor; exact track not stated)",
+      "companions": [
+        "Dimitri Kieffer"
+      ],
+      "counts_as_progress": true,
+      "notes": "Spur: walked south to Egvekinot to exit Russia. Main line resumes from Amguema (s03-006), so this spur is a dead end on the map. Kieffer and Bushby separated around here.",
+      "sources": [
+        "S35",
+        "S38"
+      ]
+    },
+    {
+      "id": "s03-006",
+      "from": "w03-005",
+      "to": "w03-007",
+      "mode": "walk",
+      "route_basis": "named_road",
+      "route_detail": "North from Amguema along the mining/truck road ('truckers on route'), ~200 km, backpacking",
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "Restart late Aug 2007 at Amguema — reached from Anadyr/Egvekinot 'by a series of boat trips and flights' (off-route). Continuity justified because he had walked through Amguema in spring.",
+      "sources": [
+        "S38",
+        "S39"
+      ]
+    },
+    {
+      "id": "s03-007",
+      "from": "w03-007",
+      "to": "w03-008",
+      "mode": "walk",
+      "route_basis": "named_road",
+      "route_detail": "Mining-truck track, 474 km",
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "",
+      "sources": [
+        "S40"
+      ]
+    },
+    {
+      "id": "s03-008",
+      "from": "w03-008",
+      "to": "w03-009",
+      "mode": "walk",
+      "route_basis": "unknown",
+      "route_detail": "Dirt track/snow toward Bilibino; sled wrecked day 1, backpacked",
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "Left 28 Oct 2007. Pevek resupply trip was off-route.",
+      "sources": [
+        "S41",
+        "S42"
+      ]
+    },
+    {
+      "id": "s03-009",
+      "from": "w03-009",
+      "to": "w03-010",
+      "mode": "walk",
+      "route_basis": "unknown",
+      "route_detail": "Spring 2008 sled-haul",
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "Returned to Russia 16 Apr 2008; flew to Pevek (~30 Apr) and rode 'one of the last vehicles' on the winter road back to Dvoynoye (off-route repositioning). Walked to Bilibino by 18 May 2008. Out via Anadyr; Nome 26 May 2008.",
+      "sources": [
+        "S44",
+        "S45"
+      ]
+    },
+    {
+      "id": "s03-010",
+      "from": "w03-010",
+      "to": "w03-011",
+      "mode": "walk",
+      "route_basis": "named_road",
+      "route_detail": "Winter road Bilibino -> Anyuysk (~300 km, 10 days)",
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "Repositioning 2011: charter Nome->Anadyr 25 Feb 2011, plane to Bilibino (off-route).",
+      "sources": [
+        "S7",
+        "S14"
+      ]
+    },
+    {
+      "id": "s03-011",
+      "from": "w03-011",
+      "to": "w03-012",
+      "mode": "walk",
+      "route_basis": "waypoints_only",
+      "route_detail": "Toward Chersky; lost 2 days near the Lesakovka river",
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "s03-012",
+      "from": "w03-012",
+      "to": "w03-013",
+      "mode": "walk",
+      "route_basis": "waypoints_only",
+      "route_detail": "Planned on 28 Mar 2011: Kolymskoye -> Andryushkino -> Argakhtakh -> Srednekolymsk (Kolyma winter roads); only endpoint confirmed",
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "After 25 Apr 2011: flew to Yakutsk, Moscow, Los Angeles (4 May 2011).",
+      "sources": [
+        "S7",
+        "S8",
+        "S13"
+      ]
+    },
+    {
+      "id": "s03-013",
+      "from": "w03-014",
+      "to": "w03-020",
+      "mode": "offroute",
+      "route_basis": "waypoints_only",
+      "route_detail": "'The 3000': Los Angeles -> Death Valley -> Las Vegas -> ... -> Dacula GA -> NC Hwy 24 (Biscoe, Cameron) -> Richmond VA -> Washington DC",
+      "companions": [
+        "Adam Bushby (son, ~2 weeks, July 2014)"
+      ],
+      "counts_as_progress": false,
+      "notes": "Protest/petition walk (Westward Productions / National Geographic documentary). Sept 2013 – ~Sept 2014. Distance 3,000–3,600 mi.",
+      "sources": [
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21"
+      ]
+    },
+    {
+      "id": "s03-014",
+      "from": "w03-021",
+      "to": "w03-022",
+      "mode": "walk",
+      "route_basis": "unknown",
+      "route_detail": null,
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "Spring 2015 (~2.5 months by mid-May).",
+      "sources": [
+        "S22",
+        "S21",
+        "S23"
+      ]
+    },
+    {
+      "id": "s03-015",
+      "from": "w03-022",
+      "to": "w03-023",
+      "mode": "walk",
+      "route_basis": "unknown",
+      "route_detail": "Across tundra from Sasyr to the Kolyma Highway",
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "",
+      "sources": [
+        "S23"
+      ]
+    },
+    {
+      "id": "s03-016",
+      "from": "w03-023",
+      "to": "w03-024",
+      "mode": "walk",
+      "route_basis": "named_road",
+      "route_detail": "Presumably R504 Kolyma Highway west to the Yakutsk area – NOT confirmed",
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "Dates, season breaks and Lena crossing unknown.",
+      "sources": [
+        "S23"
+      ]
+    },
+    {
+      "id": "s03-017",
+      "from": "w03-024",
+      "to": "w03-025",
+      "mode": "walk",
+      "route_basis": "named_road",
+      "route_detail": "Federal highway south (A360 'Lena'); swam the Aldan",
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "",
+      "sources": [
+        "S24"
+      ]
+    },
+    {
+      "id": "s03-018",
+      "from": "w03-025",
+      "to": "w03-027",
+      "mode": "walk",
+      "route_basis": "waypoints_only",
+      "route_detail": "Neryungri -> (Tynda planned) -> Amur region -> Erofey Pavlovich",
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "Nothing heard June–Dec 2016.",
+      "sources": [
+        "S24",
+        "S25"
+      ]
+    },
+    {
+      "id": "s03-019",
+      "from": "w03-027",
+      "to": "w03-028",
+      "mode": "walk",
+      "route_basis": "unknown",
+      "route_detail": null,
+      "companions": [],
+      "counts_as_progress": true,
+      "notes": "Route from Amur/Zabaykalye to the Mongolian border (via Chita? Ulan-Ude? Kyakhta?) undocumented. Mogocha photo (w03-026) lies on this corridor.",
+      "sources": [
+        "S25",
+        "S26",
+        "S27"
+      ]
+    }
+  ],
+  "pauses": [
+    {
+      "id": "p03-001",
+      "at": "w03-001",
+      "start": "2006-05/06",
+      "end": "2007-03-15",
+      "reason": "court case (fine + expulsion 14 Apr 2006, overturned on appeal 5 May 2006), then Chukotka permit delays",
+      "left_how": "returned to Alaska; '58 days' in Russia",
+      "sources": [
+        "S5",
+        "S11",
+        "S4"
+      ]
+    },
+    {
+      "id": "p03-002",
+      "at": "w03-006",
+      "start": "2007-05-21",
+      "end": "2007-08-15",
+      "reason": "permit only valid two months (agent error)",
+      "left_how": "flight to Alaska; lectures in Vancouver/Seattle/Anchorage July 2007; returned Nome->Anadyr 15 Aug 2007",
+      "sources": [
+        "S36",
+        "S37",
+        "S6"
+      ]
+    },
+    {
+      "id": "p03-003",
+      "at": "w03-009",
+      "start": "2007-11",
+      "end": "2008-04-16",
+      "reason": "permit/visa expiry, needed new passport, 1-year visa, 6-month Chukotka permit",
+      "left_how": "Kinross helicopter/convoy out of Dvoynoye; flight Anadyr 13 Dec 2007 -> Fairbanks",
+      "sources": [
+        "S42",
+        "S43",
+        "S44"
+      ]
+    },
+    {
+      "id": "p03-004",
+      "at": "w03-010",
+      "start": "2008-05-18",
+      "end": "2011-03-10",
+      "reason": "spring thaw + 90-day visa limit, then lost sponsors (2008 crisis) and visa/permit problems",
+      "left_how": "via Anadyr to Nome (26 May 2008); Fairbanks; Mexico (Melaque) from Aug 2008 to 2010",
+      "sources": [
+        "S44",
+        "S46",
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "id": "p03-005",
+      "at": "w03-013",
+      "start": "2011-04-25",
+      "end": "2015-03-21",
+      "reason": "season end, 2012 visa refusal, five-year entry ban (lifted 23 Oct 2014)",
+      "left_how": "flew Yakutsk -> Moscow -> Los Angeles (4 May 2011)",
+      "sources": [
+        "S13",
+        "S9",
+        "S16",
+        "S21"
+      ]
+    },
+    {
+      "id": "p03-006",
+      "at": "w03-023",
+      "start": "2015 (c. late May/June)",
+      "end": "unknown",
+      "reason": "90-day visa limit; looking for a summer route",
+      "left_how": "unknown",
+      "sources": [
+        "S21"
+      ]
+    },
+    {
+      "id": "p03-007",
+      "at": "w03-027",
+      "start": "unknown",
+      "end": "unknown",
+      "reason": "unknown – any winter 2016/17 break undocumented",
+      "left_how": "unknown",
+      "sources": []
+    }
+  ],
+  "conflicts": [
+    {
+      "topic": "Return date to Russia, March 2007",
+      "claims": [
+        {
+          "value": "Flight Nome->Anadyr on Thursday (15 Mar 2007)",
+          "source": "S4"
+        },
+        {
+          "value": "Returned 19 March",
+          "source": "S5"
+        },
+        {
+          "value": "'Karl is back in Russia' posted 16 Mar 2007",
+          "source": "S33"
+        }
+      ],
+      "assessment": "Primary site confirms in Russia by 16 Mar; S5's '19 March' likely the date of official entry/report. Walking restart is firmly 12–13 Apr 2007 (S34)."
+    },
+    {
+      "topic": "Where the spring-2007 segment ended",
+      "claims": [
+        {
+          "value": "Both reached Amguema (~480 km) and 'will walk down to Egvekinot'",
+          "source": "S35"
+        },
+        {
+          "value": "Egvekinot 'the town he reached on the last phase'",
+          "source": "S37"
+        },
+        {
+          "value": "~400 miles in spring",
+          "source": "S6"
+        }
+      ],
+      "assessment": "Consistent: Uelen->Amguema ~480 km + Amguema->Egvekinot ~ 90 km ≈ 350–400 mi. Restart was at Amguema (S38), so Amguema->Egvekinot is a spur."
+    },
+    {
+      "topic": "Planned vs actual 2007 route",
+      "claims": [
+        {
+          "value": "Plan: Uelen -> Egvekinot -> Anadyr -> Markovo -> Magadan",
+          "source": "S5"
+        },
+        {
+          "value": "Actual: Uelen -> north coast -> Amguema -> mining camp -> Komsomolsky -> Dvoynoye -> Bilibino",
+          "source": "S34"
+        }
+      ],
+      "assessment": "Route changed because of the late start and the 2-month permit ('yet another change of route which will probably be to the north', S36). Use actual."
+    },
+    {
+      "topic": "End of 2007 season",
+      "claims": [
+        {
+          "value": "'returning to Alaska when his visa ran out in November'",
+          "source": "S3"
+        },
+        {
+          "value": "Reached Dvoynoye ~Nov; flew out of Anadyr 13 Dec 2007",
+          "source": "S43"
+        }
+      ],
+      "assessment": "Walking ended Nov 2007; left Russia 13 Dec 2007."
+    },
+    {
+      "topic": "Date and cause of the post-2011 entry ban",
+      "claims": [
+        {
+          "value": "Visa denied 12 Apr 2012, reason unknown",
+          "source": "S9"
+        },
+        {
+          "value": "Barred five years after straying into a security zone in spring 2011 (written July 2012)",
+          "source": "S15"
+        },
+        {
+          "value": "Spring 2012 five-year ban",
+          "source": "S17"
+        },
+        {
+          "value": "2012 five-year visa ban; 2011 security-zone incident",
+          "source": "S19"
+        },
+        {
+          "value": "March 2013: banned five years 'because of a border violation last year'",
+          "source": "S16"
+        },
+        {
+          "value": "2013 ban for closed zone in Yakutia",
+          "source": "S30"
+        },
+        {
+          "value": "Ban would last until 2018",
+          "source": "S21"
+        }
+      ],
+      "assessment": "Visa refusal April 2012 (primary). Five-year ban known by 2012 per US sources, reported in UK March 2013. Trigger is almost certainly the March 2011 Nizhnekolymsky permit protocol (S7); HDM's 'last year' is probably loose."
+    },
+    {
+      "topic": "Dates of the LA -> Washington walk",
+      "claims": [
+        {
+          "value": "Set out Sept 2013",
+          "source": "S17"
+        },
+        {
+          "value": "Death Valley Oct 2013",
+          "source": "S18"
+        },
+        {
+          "value": "Started spring 2014",
+          "source": "S29"
+        },
+        {
+          "value": "Brief assumed 2015",
+          "source": "coordinator brief"
+        }
+      ],
+      "assessment": "Sept 2013 – ~Sept 2014 is well supported; 2015 is the year of the Outside article/documentary coverage, not the walk."
+    },
+    {
+      "topic": "Distance of US walk",
+      "claims": [
+        {
+          "value": "3,000 mi",
+          "source": "S18"
+        },
+        {
+          "value": "3,500 mi",
+          "source": "S3"
+        },
+        {
+          "value": "3,600 mi",
+          "source": "S21"
+        },
+        {
+          "value": "4,800 km",
+          "source": "S32"
+        }
+      ],
+      "assessment": "Off-route; ~3,000–3,600 mi."
+    },
+    {
+      "topic": "Return walk Washington -> LA",
+      "claims": [
+        {
+          "value": "'и обратно' (and back)",
+          "source": "S2"
+        }
+      ],
+      "assessment": "Unsupported by any contemporaneous source; treat as error."
+    },
+    {
+      "topic": "Touareg team meeting (June 2016)",
+      "claims": [
+        {
+          "value": "Met 'shortly before Yakutsk' on Lena highway (entry 24 Jun 2016)",
+          "source": "S28"
+        },
+        {
+          "value": "In Neryungri 8 Jun 2016 heading south",
+          "source": "S24"
+        }
+      ],
+      "assessment": "Incompatible; S28 entries are internally impossible (Irkutsk 23 Jun, Yakutsk 24 Jun). Do not use S28 for positioning."
+    },
+    {
+      "topic": "Order Mogocha / Erofey Pavlovich (late 2016)",
+      "claims": [
+        {
+          "value": "Mogocha photo then Erofey Pavlovich geotag ~5 Dec 2016",
+          "source": "S25"
+        }
+      ],
+      "assessment": "Westbound he should pass Erofey Pavlovich first; posts may be out of order. Unresolved."
+    },
+    {
+      "topic": "Kieffer's nationality",
+      "claims": [
+        {
+          "value": "American (Seattle)",
+          "source": "S6"
+        },
+        {
+          "value": "French",
+          "source": "S1"
+        }
+      ],
+      "assessment": "Not location-relevant."
+    }
+  ],
+  "unknowns": [
+    "Coordinates of Dvoynoye camp and the 'Valinistiy' mining camp (left null).",
+    "Exact 2007 date of arrival at Dvoynoye (between 4 and 21 Nov 2007).",
+    "Exact arrival date at the Russian Embassy, Washington (expected just after Labor Day 2014).",
+    "Route Srednekolymsk -> Sasyr (via Zyryanka?) and where spring 2015 ended; whether there was a later 2015 season.",
+    "When/how he passed Yakutsk and crossed the Lena; where he swam the Aldan.",
+    "Start point/date of the 2016 season.",
+    "Route and dates Neryungri -> Tynda? -> Erofey Pavlovich/Mogocha and any winter 2016/17 break.",
+    "Route to the Mongolian border (Chita? Ulan-Ude? Kyakhta?) and the crossing point/date in 2017.",
+    "Number/dates of visa exits from Russia 2015–2017.",
+    "COVID: no COVID pause falls in this leg."
+  ],
+  "sources": {
+    "S1": {
+      "title": "Karl Bushby (English Wikipedia, raw wikitext)",
+      "url": "https://en.wikipedia.org/wiki/Karl_Bushby",
+      "type": "secondary",
+      "publisher": "Wikipedia",
+      "date": "accessed 2026-11-01",
+      "quote": "On 25 April 2011, after walking approximately {{convert|1100|km|disp=flip}}, Bushby reached the town of [[Srednekolymsk]], completing his leg for 2011. ... In March 2013, Russia banned Bushby from re-entering Russia for five years, citing a border violation from the previous year. ... On 23 October 2014, Bushby's visa ban was overturned ... Bushby crossed the [[Mongolia–Russia border|Russia–Mongolia border]] in 2017, and on 8 August 2017 he was in [[Ulaanbaatar]]"
+    },
+    "S2": {
+      "title": "Бушби, Карл (Russian Wikipedia, raw wikitext)",
+      "url": "https://ru.wikipedia.org/wiki/Бушби,_Карл",
+      "type": "secondary",
+      "publisher": "Wikipedia",
+      "date": "accessed 2026-11-01",
+      "quote": "Бушби пришлось переждать год на Аляске, после чего он вернулся в чукотское с. Уэлен и продолжил свой путь ... Затем путешествие было вновь прервано из-за визовых проблем и возобновлено в марте 2015 года. За это время Бушби сходил пешком в посольство России из Лос-Анжелеса в Вашингтон и обратно."
+    },
+    "S3": {
+      "title": "Goliath Expedition (Wikipedia-derived text)",
+      "url": "https://web.archive.org/web/20240703172313/https://www.westboundhorizons.com/goliath-expedition",
+      "type": "secondary",
+      "publisher": "WestBound Horizons",
+      "date": "archived 2024-07-03",
+      "quote": "During 2007, he managed to walk more than 620 miles (1,000 km) from Uelen to Dvoynoye (not far from Bilibino), returning to Alaska when his visa ran out in November. In 2008 he only walked for three weeks, reaching Bilibino. ... He was granted a visa in 2014, at the embassy, marking the end of his year long journey of 3,500 miles in the wrong direction."
+    },
+    "S4": {
+      "title": "Daredevil resumes world trek in Russia (Reuters)",
+      "url": "https://thepost.co.za/news/eish/2007-03-14-daredevil-resumes-world-trek-in-russia/",
+      "type": "secondary",
+      "publisher": "Reuters via The Post (SA)",
+      "date": "2007-03-14",
+      "quote": "Bushby will fly from Nome in Alaska to Chukotka's capital Anadyr on Thursday. ... \"Karl and Dimitri never got the permits until just a week or two ago,\" Bushby's father Keith told Reuters"
+    },
+    "S5": {
+      "title": "Английский путешественник вновь попытается пройти по территории РФ",
+      "url": "https://tia-ostrova.ru/news/obschestvo/38080/",
+      "type": "secondary",
+      "publisher": "ТИА «Острова»",
+      "date": "2007-03-20",
+      "quote": "Американец Дмитрий Киффер и англичанин Карл Бушби, которых в апреле 2006 г. задержали ... 19 марта вернулись в Россию ... Из Анадыря они доберутся до Уэлена на снегоходах, затем путешественники пройдут пешком по территории округа через Эгвекинот в Анадырь, а затем через Марково до Магадана."
+    },
+    "S6": {
+      "title": "Karl Bushby heading to Siberia in August -- to walk home to the U.K. (Dan Bross, KUAC)",
+      "url": "https://alaskapublic.org/2007/07/30/karl-bushby-heading-to-siberia-in-august-to-walk-home-to-the-uk",
+      "type": "secondary",
+      "publisher": "Alaska Public Media",
+      "date": "2007-07-30",
+      "quote": "Bushby and traveling partner Dimitry Kieffer of Seattle walked 400 miles into Siberia this past spring before finding out what they thought was a six month permit was only good for two months."
+    },
+    "S7": {
+      "title": "Английский путешественник застрянет на Колыме (Алексей Курило)",
+      "url": "https://1sn.ru/angliiskii-putesestvennik-zastryanet-na-kolyme",
+      "type": "secondary",
+      "publisher": "SakhaNews (1sn.ru)",
+      "date": "2011-03-28",
+      "quote": "В 2008 году Карл Бушби прервал своё путешествие по Чукотке в городе Билибино из-за распутицы. Продолжить свой маршрут смог 25 февраля года нынешнего, прилетев чартерным рейсом из Нома (Аляска) в Анадырь. Добравшись также с помощью авиации до Билибино, он 10 марта отправился в село Анюйск. Эта трёхсоткилометровая дорога заняла у него 10 дней. 22 марта он вышел из этого чукотского села в направлении посёлка Черский ... На Стадухинской протоке путешественника встретили военнослужащие пограничного поста «Черский». Проверив документы, они выяснили, что у него нет разрешения на пребывание в Нижнеколымском районе, что и было оформлено в виде протокола. ... Следующая остановка странника будет в селе Колымское. Затем его маршрут пройдёт через Андрюшкино, Аргахтах, Среднеколымск, Зырянку, а далее - на Якутск"
+    },
+    "S8": {
+      "title": "Odyssey XXI home page, May 2011 notice",
+      "url": "https://web.archive.org/web/20110819003518/http://www.odysseyxxi.com/",
+      "type": "primary",
+      "publisher": "odysseyxxi.com (Karl Bushby)",
+      "date": "2011-05",
+      "quote": "After 1,100kms this spring, Karl is only 900kms from the Road of Bones.  The journey reached the town of Srednekolymsk, Yakutia, 25th of April 2011."
+    },
+    "S9": {
+      "title": "Odyssey XXI home page, 12 April 2012 notice",
+      "url": "https://web.archive.org/web/2012/http://www.odysseyxxi.com/",
+      "type": "primary",
+      "publisher": "odysseyxxi.com (Karl Bushby)",
+      "date": "2012-04-12",
+      "quote": "After lengthy delays the Russia visa has been denied by Russian officials.  The reason is unknown"
+    },
+    "S10": {
+      "title": "Odyssey XXI home page, 13 Jan 2011 notice",
+      "url": "https://web.archive.org/web/20110303224419/http://www.odysseyxxi.com/",
+      "type": "primary",
+      "publisher": "odysseyxxi.com (Karl Bushby)",
+      "date": "2011-01-13",
+      "quote": "Only weeks away from been back on the ground! Feb 1st we head back to Russia."
+    },
+    "S11": {
+      "title": "Odyssey XXI – Goliath Expedition Blog (posts Oct–Nov 2009)",
+      "url": "https://web.archive.org/web/20110517233412/http://www.odysseyxxi.com/blog/",
+      "type": "primary",
+      "publisher": "odysseyxxi.com (Karl Bushby)",
+      "date": "2009-10/11",
+      "quote": "In the mean time, I am shifting locations here in Melaque Mexico in an attempt to find a roof over my head. ... But then there is the question ‘how long will it take to get back to Bilibino’? ... the 58 days of political drama and trials Dimitri and I faced on reaching Russia."
+    },
+    "S12": {
+      "title": "Interview with Karl Bushby (David Ways)",
+      "url": "https://www.thelongestwayhome.com/blog/great-modern-travelers/interview-with-karl-bushby/",
+      "type": "primary",
+      "publisher": "The Longest Way Home",
+      "date": "2010-05-23",
+      "quote": "This creates an impossible situation for an unfunded expedition on foot and currently placed in Bilibino, Chukotka, far North East Russia."
+    },
+    "S13": {
+      "title": "Karl Bushby, the UK explorer, about his walking from Bilibino (Chukotka) & Srednekolymsk (Sakha-Yakutia)",
+      "url": "https://web.archive.org/web/20111005072214/http://askyakutia.com/2011/05/karl-bushby-uk-explorer-walk-expedition-odyssey-bilibino-chukotka-srednekolymsk-yakutsk-yakutia-siberia-russia-arctic-tundra/",
+      "type": "secondary",
+      "publisher": "AskYakutia.com",
+      "date": "2011-05-04",
+      "quote": "This year he returned back to Chukotka and continued his Arctic part from Chukotka’s settlement of Bilibino to Yakutia’s village of Srednekolymsk. 35 days in the Arctic tundra. ... Today he departed for Moscow and then to LA."
+    },
+    "S14": {
+      "title": "Английский путешественник Карл Бушби дошел до Якутии",
+      "url": "https://www.irk.kp.ru/online/news/858484/",
+      "type": "secondary",
+      "publisher": "Комсомольская правда (Иркутск)",
+      "date": "2011-03-28",
+      "quote": "Сейчас он идет по Нижнеколымскому району."
+    },
+    "S15": {
+      "title": "The Long Way Home (Bill Donahue)",
+      "url": "https://www.backpacker.com/trips/adventure-travel/the-long-way-home/",
+      "type": "secondary",
+      "publisher": "Backpacker",
+      "date": "2012-07-27",
+      "quote": "On his spring 2011 visit, he inadvertently strayed into one of the off-limits security zones Russia maintains near its borders. Authorities barred him from returning to Russia for five years."
+    },
+    "S16": {
+      "title": "Russia ban for Hull's round-the-world walker Karl Bushby (Kevin Shoesmith)",
+      "url": "https://web.archive.org/web/20140203182708/http://www.hulldailymail.co.uk/Russia-ban-Hull-s-round-world-walker-Karl-Bushby/story-18460279-detail/story.html",
+      "type": "secondary",
+      "publisher": "Hull Daily Mail",
+      "date": "2013-03-19",
+      "quote": "\"But this time the Russians have told him, because of a border violation last year, he is banned for five years.\" ... Karl, 42, was driven 300 miles to a police station, where he was questioned and fined, before being driven back to the spot where he was arrested."
+    },
+    "S17": {
+      "title": "Karl Bushby is walking around the world (no, really)",
+      "url": "https://www.mensjournal.com/travel/karl-bushby-is-walking-around-the-world-no-really-20130514",
+      "type": "secondary",
+      "publisher": "Men's Journal",
+      "date": "2013 (updated after 15 Oct 2013)",
+      "quote": "When, in the spring of 2012 Moscow completely banned Karl from entering the country for a period of five years ... In September 2013 ... he set out on the 3,000-mile hike to the U.S. capital ... As of October 15, Karl was in Las Vegas, Nevada"
+    },
+    "S18": {
+      "title": "Karl Bushby – The 3000 (official US-walk site)",
+      "url": "https://web.archive.org/web/20131006221855/http://www.bushby3000.com/",
+      "type": "primary",
+      "publisher": "bushby3000.com",
+      "date": "snapshot 2013-10-06",
+      "quote": "Karl is walking through Death Valley at the moment ... Adventurer Karl Bushby is walking 3000 miles – one step at a time – from Los Angeles to the Russian Embassy in Washington, D.C., where he hopes to convince the Russian government to grant him a visa"
+    },
+    "S19": {
+      "title": "Will Russia thwart Karl Bushby’s epic hike around the globe? (Bill Donahue), syndicated text",
+      "url": "https://iol.co.za/travel/travel-tips/2014-09-01-tracing-the-worlds-map-on-foot/",
+      "type": "secondary",
+      "publisher": "The Washington Post (via IOL)",
+      "date": "2014-08-15 / 2014-09-01",
+      "quote": "As of Wednesday afternoon, he was in the Richmond, Virginia, area. At his current pace, he'll likely reach Washington just after Labor Day ... In 2012, after having granted Bushby four travel visas between 2007 and 2011, the Russian Embassy met his new request with a five-year visa ban. ... In 2011 ... he inadvertently wandered into one of Far Eastern Russia's many off-limits, militarised security zones."
+    },
+    "S20": {
+      "title": "Will Russia thwart Karl Bushby’s epic hike around the globe? (photo caption)",
+      "url": "https://www.washingtonpost.com/lifestyle/magazine/will-russia-thwart-karl-bushbys-epic-hike-around-the-globe/2014/08/14/6c6d120a-0c59-11e4-8c9a-923ecc0c7d23_story.html",
+      "type": "secondary",
+      "publisher": "The Washington Post",
+      "date": "2014-08-15",
+      "quote": "Cameron, NC - July 13: Adventurer Karl Bushby is walking 3000 miles – one step at a time – from Los Angeles to the Russian Embassy in Washington, D.C. ... He is seen walking along NC Highway 24 near Cameron, NC."
+    },
+    "S21": {
+      "title": "Karl Bushby Is Sick of Walking Around the World (Jay Bennett)",
+      "url": "https://web.archive.org/web/20250201191522/https://www.outsideonline.com/culture/books-media/karl-bushby-questions-his-decision-walk-around-world/",
+      "type": "secondary",
+      "publisher": "Outside Online",
+      "date": "2015-05-15",
+      "quote": "With the ban in place, Bushby would not be able to continue his journey home until 2018. ... But on October 23, when Bushby receives a new visa, he is far from ecstatic. ... Bushby has resumed his global trek, spending the last two and a half months walking across Russia. Only allowed to stay in Russia for 90 days at a time due to visa restrictions, he is currently looking for a summer route through Siberia."
+    },
+    "S22": {
+      "title": "Известный путешественник Карл Бушби продолжает в Якутии свой пеший путь длиною в 16 лет (Елена Алексеева)",
+      "url": "https://web.archive.org/web/20150506044104/http://news.ykt.ru/article/29802",
+      "type": "primary",
+      "publisher": "News.Ykt.Ru (interview)",
+      "date": "2015-03-18",
+      "quote": "Стартует Карл Бушби в Среднеколымске, где по планам, должен был быть уже сегодня, но его груз с 70-килограммовыми санями, экипировкой и провизией задерживается. Старт перенесен на эти выходные. ... Дошел до Среднеколымска и в 2011 году прервал свое путешествие, оттуда и начинаю."
+    },
+    "S23": {
+      "title": "Karl Bushby on X (@bushby3000), status 668906744370728960",
+      "url": "https://x.com/bushby3000/status/668906744370728960",
+      "type": "primary",
+      "publisher": "X/Twitter (Karl Bushby)",
+      "date": "2015-11-23 (per search metadata; page not retrievable)",
+      "quote": "On the way across the Russian tundra from Sasyr to the Road of Bones 2015"
+    },
+    "S24": {
+      "title": "В Тынду зайдёт кругосветный путешественник Карл Бушби (ИА «Порт Амур»)",
+      "url": "https://gazeta-bam.ru/news/media/2016/6/11/v-tyindu-zajdyot-krugosvetnyij-puteshestvennik-karl-bushbi/",
+      "type": "secondary",
+      "publisher": "Газета БАМ / ИА «Порт Амур»",
+      "date": "2016-06-11",
+      "quote": "Карла Бушби 8 июня встретил волонтер республиканской службы спасения. ... как вплавь пересекает Алдан. Он не пользуется никаким транспортом. Маршрут у него интересный — он хочет дойти до Монголии и Ирана. Кругосветный путешественник также рассказал, что следующим пункт его назначения — амурский город Тында. Карл Бушби со дня на день выйдет в дорогу по федеральной трассе."
+    },
+    "S25": {
+      "title": "На амурский север пришел кругосветный путешественник Карл Бушби",
+      "url": "https://portamur.ru/news/detail/na-amurskiy-sever-prishel-krugosvetnyiy-puteshestvennik-karl-bushbi/",
+      "type": "secondary",
+      "publisher": "ИА «Порт Амур»",
+      "date": "2016-12-05",
+      "quote": "Британец несколько часов назад выложил в соцсетях фото с географической пометкой, судя по которой он находится в поселке Ерофей Павлович Сковородинского района либо на подходе к нему. ... Судя по соцсетям, после Якутии Карл Бушби побывал в Забайкальском крае — в его профиле есть фото из города Могочи."
+    },
+    "S26": {
+      "title": "Кругосветный путешественник Карл Бушби дошёл до Амурской области",
+      "url": "https://travel.rambler.ru/news/35495385-krugosvetnyy-puteshestvennik-karl-bushbi-doshel-do-amurskoy-oblasti/",
+      "type": "secondary",
+      "publisher": "Рамблер/путешествия",
+      "date": "2016-12-05",
+      "quote": "Фотографию с геолокацией в посёлке Ерофей Павлович он выложил в своём Instagram. ... В своём Instagram он выложил фото с геолокацией в городе Могоча."
+    },
+    "S27": {
+      "title": "Hull adventurer Karl Bushby to let camels take the strain in Mongolia (Kevin Shoesmith)",
+      "url": "https://web.archive.org/web/20201025113542/https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/hull-adventurer-karl-bushby-camels-295155",
+      "type": "secondary",
+      "publisher": "Hull Daily Mail / Hull Live",
+      "date": "2017-08-08",
+      "quote": "Since crossing the Russia-Mongolia border earlier this year, Karl has agonised over how he is going to lug his hand cart ... Karl - currently making preparations in the Mongolian capital Ulaanbaatar"
+    },
+    "S28": {
+      "title": "Around Yakutsk with a famous walker",
+      "url": "https://web.archive.org/web/20260125093751/https://www.touareg-eurasia.com/",
+      "type": "secondary",
+      "publisher": "Touareg Eurasia (expedition blog)",
+      "date": "2016-06-24",
+      "quote": "Shortly before Yakutsk we met him, when he was pushing his trailer on \"Lena\" highway."
+    },
+    "S29": {
+      "title": "«Кажется, ты забрёл не туда». Как британец 27 лет идёт домой",
+      "url": "https://otello.ru/nomer/kazhetsya-ty-zabryol-ne-tuda-kak-britanec-27-let-idyot-domoj",
+      "type": "secondary",
+      "publisher": "Отелло",
+      "date": "2026-03-11 (year inferred)",
+      "quote": "РФ опять на пять лет отказала ему во въезде ... из-за того, что британец проник без спецпропуска в закрытую приграничную зону. ... Весной 2014-го Бушби отправился в новый поход — из Лос-Анджелеса до Вашингтона, к посольству РФ"
+    },
+    "S30": {
+      "title": "Кругосветное путешествие Карла Бушби",
+      "url": "https://www.vokrugsveta.ru/news/medvedi-beringov-proliv-i-abramovich-idushii-peshkom-vokrug-sveta-karl-bushbi-vernulsya-v-angliyu-spustya-28-let-id76688457/",
+      "type": "secondary",
+      "publisher": "Вокруг света",
+      "date": "2026-10-09",
+      "quote": "В 2013 году Россия закрыла для Бушби границу на пять лет из-за нарушения правил пограничного режима ... проходя по территории Якутии, он оказался в закрытой для иностранцев зоне"
+    },
+    "S31": {
+      "title": "Great Modern Travelers – Karl Bushby (David Ways)",
+      "url": "https://www.thelongestwayhome.com/resources/gmt/gmtkarlbushby.html",
+      "type": "secondary",
+      "publisher": "The Longest Way Home",
+      "date": "updates 2008–2019",
+      "quote": "Update 2012 part 2: Devastating news for Karl Bushby as the Russians yet again reject his application for a visa extension. ... Russia's latest rejection is a long term one."
+    },
+    "S32": {
+      "title": "Karl Bushby Begins Home Stretch of 27-Year, Round-the-World Walk (Rebecca McPhee)",
+      "url": "https://explorersweb.com/karl-bushby-begins-home-stretch-of-27-year-round-the-world-walk/",
+      "type": "secondary",
+      "publisher": "Explorersweb",
+      "date": "2025-04-28",
+      "quote": "Then in 2012, he was denied a further visa, and in 2013, he received a five-year entry ban from Russia. ... walked 4,800 km from Los Angeles to the Russian Embassy in Washington, D.C."
+    },
+    "S33": {
+      "title": "Goliath Expedition home page – '16 March 2007' update",
+      "url": "https://web.archive.org/web/20070324132725/http://goliath.mail2web.com/",
+      "type": "primary",
+      "publisher": "goliath.mail2web.com (Karl Bushby / home team)",
+      "date": "2007-03-16",
+      "quote": "At last we are able to report that Karl is back in Russia ... They will make their way back to Uelen in order that Karl can continue the walk from the point it left off."
+    },
+    "S34": {
+      "title": "Karl and Dimitri finally arrived in Uelen! (Goliath Expedition MediaBlog)",
+      "url": "https://web.archive.org/web/20071011075522/http://blog.goliath.mail2web.com/2007/05/karl-and-dimitri-finally-arrived-in-uelen/",
+      "type": "primary",
+      "publisher": "blog.goliath.mail2web.com",
+      "date": "2007-05-01",
+      "quote": "After a 10 hour ride in an all-terrain vehicle Karl and Dimitri finally arrived in Uelen on 12th April. ... Heading north-west along the northern coast of the Chukotskiy Peninsula they passed through the villages of Inchoun and Enurmino ... before arriving at the village of Neshkan on 24th April, some 193 kms / 119 miles from Uelen. ... They stayed in Neshkan until 27th April ... They are now heading inland, westwards, towards Amguema, approx 287 kms / 177 miles."
+    },
+    "S35": {
+      "title": "Karl and Dmitri won’t be walking together (MediaBlog)",
+      "url": "https://web.archive.org/web/20071011073400/http://blog.goliath.mail2web.com/2007/05/karl-and-dmitri-wont-be-walking-together/",
+      "type": "primary",
+      "publisher": "blog.goliath.mail2web.com",
+      "date": "2007-05-16",
+      "quote": "They have both reached Anguema (approximately 480 kilometres / 296 miles from Uelen) and will walk down to Egvekinot. ... Karl believes that at Egvekinot he will have to send his sled and most of his equipment down to Anadyr to be stored there"
+    },
+    "S36": {
+      "title": "Permits procedure to start all over again (MediaBlog)",
+      "url": "https://web.archive.org/web/20071011074210/http://blog.goliath.mail2web.com/2007/05/permits-procedure-to-start-all-over-again/",
+      "type": "primary",
+      "publisher": "blog.goliath.mail2web.com",
+      "date": "2007-05-22",
+      "quote": "the agent (with a choice of two months or six months permits) chose the lesser. This means that K and D will have to leave Russia by the end of this month. ... Given the availability of aircraft, Karl will probably return to Alaska on 21st May."
+    },
+    "S37": {
+      "title": "Karl back in Anadyr (MediaBlog)",
+      "url": "https://web.archive.org/web/20071011074215/http://blog.goliath.mail2web.com/2007/08/karl-back-in-anadyr/",
+      "type": "primary",
+      "publisher": "blog.goliath.mail2web.com",
+      "date": "2007-08-20",
+      "quote": "On the 15th August, after several days waiting in Nome, Karl managed to get on a flight back to Anadyr in Russia. ... waiting for the next flight up to Egvekinot. This being the town he reached on the last phase of the trek"
+    },
+    "S38": {
+      "title": "Karl in Anguema (MediaBlog)",
+      "url": "https://web.archive.org/web/20071011074220/http://blog.goliath.mail2web.com/2007/08/karl-in-anguema/",
+      "type": "primary",
+      "publisher": "blog.goliath.mail2web.com",
+      "date": "2007-08-28",
+      "quote": "By the 28th August, Karl will have made his way to Anguema, a small village north of Egvekinot, by a series of boat trips and flights. As Karl is taking a more northerly summer route for the present, it will be easier to start at Anguema. Being a village he passed through on the last leg, he can start there without breaking the expedition’s golden rule, (no advancement of the actual expedition route by any other means than walking / swimming)."
+    },
+    "S39": {
+      "title": "Straight from Karl (MediaBlog)",
+      "url": "https://web.archive.org/web/20071011074556/http://blog.goliath.mail2web.com/2007/09/straight-from-karl/",
+      "type": "primary",
+      "publisher": "blog.goliath.mail2web.com (Karl Bushby)",
+      "date": "2007-09-13",
+      "quote": "Just let you all know that I reached my first way-point, the mining camp, on schedule on 9th September. ... This first 200km is just a warm-up though. I’ve been looking at the best options for the next move up to Komsomolskiy, (474km). ... Everyone in Egvekinot and Amguema has been extremely helpful and the truckers on route have dropped off food for me as they passed."
+    },
+    "S40": {
+      "title": "Goliath Expedition home page – '10 October 2007' update",
+      "url": "https://web.archive.org/web/20071019022039/http://goliath.mail2web.com/",
+      "type": "primary",
+      "publisher": "goliath.mail2web.com",
+      "date": "2007-10-10",
+      "quote": "On Saturday, 6th October, Karl arrived at Komsomolskiy after walking the 474 km / 295 miles from his last waypoint at the Valinistiy mining camp. The track created for the mining trucks had been a lot better than expected ... He has now moved up to Pevek to pick up supplies that he'd sent ahead."
+    },
+    "S41": {
+      "title": "Karl heads to Bilibino (MediaBlog)",
+      "url": "https://web.archive.org/web/20071209191052/http://blog.goliath.mail2web.com/2007/10/karl-heads-to-bilibino/",
+      "type": "primary",
+      "publisher": "blog.goliath.mail2web.com",
+      "date": "2007-10-31",
+      "quote": "It’s believed that Karl left Pevek / Komsomolskiy on Sunday 28th October after the start being delayed for a number of days because of bad storms. The next leg will take him 500km to the town of Bilibino."
+    },
+    "S42": {
+      "title": "Karl depleted of food and gas (MediaBlog, Karl's own text)",
+      "url": "https://web.archive.org/web/20071210153823/http://blog.goliath.mail2web.com/2007/11/karl-depleted-of-food-and-gas/",
+      "type": "primary",
+      "publisher": "blog.goliath.mail2web.com (Karl Bushby)",
+      "date": "2007-11-21",
+      "quote": "I found camp Dvoynoye having depleted all my gas and food. ... Yes, I’d have liked to have made it to Bilibino but in the grand scheme of things I guess I can suck it up. I was beaten up pretty badly the first day out of Komsomolskiy. ... With a good sled, the equipment and right time of year I can make, Bilibino in 5 or 6 days."
+    },
+    "S43": {
+      "title": "Goliath Expedition home page – '19 December 2007' update",
+      "url": "https://web.archive.org/web/20071228181057/http://goliath.mail2web.com/",
+      "type": "primary",
+      "publisher": "goliath.mail2web.com",
+      "date": "2007-12-19",
+      "quote": "Karl managed to get a flight from Chukotka (Anadyr) on the 13th December, having spent a month making his way back from the furthest point along his route west (Dvoynoye mining camp)."
+    },
+    "S44": {
+      "title": "Karl back in Russia (MediaBlog)",
+      "url": "https://web.archive.org/web/20080608155335/http://blog.goliath.mail2web.com/2008/06/karl-back-in-russia/",
+      "type": "primary",
+      "publisher": "blog.goliath.mail2web.com",
+      "date": "2008-06-03",
+      "quote": "Karl returned to Russia on 16th April 2008 and by the end of April, using various means, he had made his way to the Dvoynoye mining camp and the start of the new walking phase. ... by the time he got to Bilibno on 18th May, Karl was dragging the sled over dirt. Consequently, there was no chance of getting it to Cherskiy. ... he had to make the return journey to Anadyr and then the US, arriving in Nome on 26th May."
+    },
+    "S45": {
+      "title": "Goliath Expedition home page – '12 May 2008' update",
+      "url": "https://web.archive.org/web/20080602070412/http://goliath.mail2web.com/",
+      "type": "primary",
+      "publisher": "goliath.mail2web.com",
+      "date": "2008-05-12",
+      "quote": "Karl had made it up to Pevek by 30th April. He managed to get a lift on one of the last vehicles taking the ‘winter road’ before it closed. This took him back to the mining camp at Dvoynoye, his starting point for the next leg."
+    },
+    "S46": {
+      "title": "Goliath Expedition home page – '19 August 2008' update",
+      "url": "https://web.archive.org/web/20080913064346/http://goliath.mail2web.com/",
+      "type": "primary",
+      "publisher": "goliath.mail2web.com",
+      "date": "2008-08-19",
+      "quote": "Karl will also been making his way to Mexico before the end of August, when his US visa will expire. He will probably remain there for some time before eventually returning to Alaska and then Russia at the start of the winter."
+    }
+  }
+}

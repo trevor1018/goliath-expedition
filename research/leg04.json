@@ -1,0 +1,596 @@
+{
+  "leg": "04",
+  "title": "Russia/Mongolia border → Mongolia (camel caravan) → China (Xinjiang) → Kazakhstan → Uzbekistan → Turkmenistan dead-end → backtrack to Bukhara → Kyzylkum / Karakalpakstan → Kazakhstan (Beyneu, Shetpe) → Caspian Sea swim → landfall Azerbaijan (Sea Breeze / Baku), 2017–2024",
+  "waypoints": [
+    {
+      "id": "w04-001",
+      "name": "Russia–Mongolia border crossing (crossing point not sourced)",
+      "lat": null, "lon": null,
+      "coord_basis": "unknown",
+      "date": null,
+      "date_earliest": "2017-01-01", "date_latest": "2017-08-08",
+      "date_precision": "year",
+      "event": "Enters Mongolia from Russia. Only the year (2017) and the fact he was in Ulaanbaatar on 8 Aug 2017 are sourced; the border post (e.g. Kyakhta–Altanbulag) is NOT sourced.",
+      "sources": ["S2", "S24"]
+    },
+    {
+      "id": "w04-002",
+      "name": "Ulaanbaatar, Mongolia",
+      "lat": 47.9184, "lon": 106.9177,
+      "coord_basis": "town_centroid",
+      "date": "2017-08-08",
+      "date_earliest": "2017-08-08", "date_latest": "2017-08-08",
+      "date_precision": "day",
+      "event": "Arrives Ulaanbaatar; joins 'Steppes to the West' camel-caravan project (Baigalmaa Norjmaa). Camels trained at a camp west of the capital; caravan departs 'just before winter' 2017.",
+      "sources": ["S2", "S3", "S9", "S24"]
+    },
+    {
+      "id": "w04-003",
+      "name": "Camel caravan dissolution point (location not sourced)",
+      "lat": null, "lon": null,
+      "coord_basis": "unknown",
+      "date": null,
+      "date_earliest": "2017-11-01", "date_latest": "2018-02-25",
+      "date_precision": "season",
+      "event": "Group fractures after ~1,000+ km (Karl: 'more than a thousand kilometres'; Explorersweb: 1,130 km). Angela Maxwell worked on the project 'From August to mid-December' 2017; by 25 Feb 2018 she wrote all members except Norjmaa had left. Exact place unknown.",
+      "sources": ["S2", "S6", "S10", "S3"]
+    },
+    {
+      "id": "w04-004",
+      "name": "Mongolian desert, 'a couple of hundred kilometres from the Chinese border' (location not sourced)",
+      "lat": null, "lon": null,
+      "coord_basis": "unknown",
+      "date": "2018-05-31",
+      "date_earliest": "2018-05", "date_latest": "2018-05-31",
+      "date_precision": "month",
+      "event": "Karl walking alone with his cart ('The Beast') in Mongolian desert, battered by gales; father says he is a couple of hundred km from the Chinese border (date = report date).",
+      "sources": ["S12"]
+    },
+    {
+      "id": "w04-005",
+      "name": "Mongolia–China border crossing (crossing point not sourced)",
+      "lat": null, "lon": null,
+      "coord_basis": "unknown",
+      "date": null,
+      "date_earliest": "2018-05-31", "date_latest": "2018-12-31",
+      "date_precision": "year",
+      "event": "Crosses into China alone, 2018.",
+      "sources": ["S2", "S12"]
+    },
+    {
+      "id": "w04-006",
+      "name": "Xinjiang police stop / roadside tyre-repair shack (location not sourced; site only says security radiated 'out from Urumqi')",
+      "lat": null, "lon": null,
+      "coord_basis": "unknown",
+      "date": null,
+      "date_earliest": "2018-01-01", "date_latest": "2018-12-31",
+      "date_precision": "year",
+      "event": "Detained, gear searched, footage confiscated, told the walk was over; British Embassy intervened; allowed to continue on a mandated route with 24-h escort to the Kazakh border.",
+      "sources": ["S2"]
+    },
+    {
+      "id": "w04-007",
+      "name": "China–Kazakhstan border crossing (crossing point not sourced)",
+      "lat": null, "lon": null,
+      "coord_basis": "unknown",
+      "date": null,
+      "date_earliest": "2018-01-01", "date_latest": "2019-06-30",
+      "date_precision": "unknown",
+      "event": "Enters (eastern) Kazakhstan. Year conflicts: 2018 (Explorersweb/Wikipedia) vs Karl's Aug 2024 remark '5 years after entering Eastern Kazakhstan' (implies ~2019).",
+      "sources": ["S2", "S6", "S8", "S24"]
+    },
+    {
+      "id": "w04-008",
+      "name": "Almaty, Kazakhstan",
+      "lat": 43.2389, "lon": 76.8897,
+      "coord_basis": "town_centroid",
+      "date": null,
+      "date_earliest": "2018-01-01", "date_latest": "2019-07-31",
+      "date_precision": "unknown",
+      "event": "Meets partner 'Rika' in Almaty before pressing west. Departure from Almaty reported (onthegosolo) under July 2019 heading, but Uzbekistan entry reported as early June 2019 — see conflicts.",
+      "sources": ["S2", "S8"]
+    },
+    {
+      "id": "w04-009",
+      "name": "Kazakhstan–Uzbekistan border crossing, 2019 (crossing point not sourced)",
+      "lat": null, "lon": null,
+      "coord_basis": "unknown",
+      "date": null,
+      "date_earliest": "2019-06-01", "date_latest": "2019-07-31",
+      "date_precision": "month",
+      "event": "Enters Uzbekistan ('early June 2019' per an unsourced Wikipedia edit quoted by onthegosolo).",
+      "sources": ["S8", "S24"]
+    },
+    {
+      "id": "w04-010",
+      "name": "Samarkand, Uzbekistan",
+      "lat": 39.6542, "lon": 66.9597,
+      "coord_basis": "town_centroid",
+      "date": null,
+      "date_earliest": "2019-06", "date_latest": "2019-09",
+      "date_precision": "year",
+      "event": "Passes through Samarkand with Rika along the Silk Road.",
+      "sources": ["S2"]
+    },
+    {
+      "id": "w04-011",
+      "name": "Bukhara, Uzbekistan (first passage, 2019)",
+      "lat": 39.7747, "lon": 64.4286,
+      "coord_basis": "town_centroid",
+      "date": null,
+      "date_earliest": "2019-06", "date_latest": "2019-09",
+      "date_precision": "year",
+      "event": "Passes Bukhara heading for Turkmenistan. Karl later calls Bukhara 'my last major waypoint in Uzbekistan before we entered Turkmenistan' — this becomes the 2023 continuity/restart point.",
+      "sources": ["S2", "S1"]
+    },
+    {
+      "id": "w04-012",
+      "name": "Uzbekistan–Turkmenistan border (crossing point not sourced)",
+      "lat": null, "lon": null,
+      "coord_basis": "unknown",
+      "date": null,
+      "date_earliest": "2019-07", "date_latest": "2019-09",
+      "date_precision": "year",
+      "event": "Karl crosses alone (Rika could not, visa); 30-day Turkmen visa with government escort.",
+      "sources": ["S2", "S1"]
+    },
+    {
+      "id": "w04-013",
+      "name": "Turkmenistan–Iran border (exact post not sourced) — furthest point of the abandoned Turkmen spur",
+      "lat": null, "lon": null,
+      "coord_basis": "unknown",
+      "date": null,
+      "date_earliest": "2019-08-27", "date_latest": "2019-12-31",
+      "date_precision": "season",
+      "event": "Reaches Iranian border as Turkmen visa expires; Iran visa refused. Dates conflict: father on 27 Aug 2019 'on the border'; El Informador '15 September'; Karl: 'By the end of 2019'.",
+      "sources": ["S1", "S2", "S4", "S8"]
+    },
+    {
+      "id": "w04-014",
+      "name": "Ashgabat, Turkmenistan (flown out)",
+      "lat": 37.9601, "lon": 58.3261,
+      "coord_basis": "town_centroid",
+      "date": null,
+      "date_earliest": "2019-08", "date_latest": "2019-12-31",
+      "date_precision": "year",
+      "event": "Escorts hurry him to Ashgabat and put him on a plane; returns to Los Angeles, later Mexico. Equipment ('the Beast') left in an escort's garden in Turkmenistan.",
+      "sources": ["S1"]
+    },
+    {
+      "id": "w04-015",
+      "name": "Bukhara, Uzbekistan (restart point, 2023)",
+      "lat": 39.7747, "lon": 64.4286,
+      "coord_basis": "town_centroid",
+      "date": "2023-03-14",
+      "date_earliest": "2023-03-14", "date_latest": "2023-03-14",
+      "date_precision": "day",
+      "event": "Walk resumes from Bukhara with Angela Maxwell ('Hitting the road 14/03/2023'). Backtrack abandons ~700 miles of Turkmen progress (Karl, 2021: 'losing almost 700 miles of progress').",
+      "sources": ["S1", "S6", "S7"]
+    },
+    {
+      "id": "w04-016",
+      "name": "Nukus, Karakalpakstan, Uzbekistan",
+      "lat": 42.4600, "lon": 59.6100,
+      "coord_basis": "town_centroid",
+      "date": "2023-04-08",
+      "date_earliest": "2023-03-14", "date_latest": "2023-04-08",
+      "date_precision": "day",
+      "event": "'first major waypoint Nukus' after 543 km from Bukhara (date = WBH post date). Leaves Uzbekistan for visa renewal (visits Baku).",
+      "sources": ["S1"]
+    },
+    {
+      "id": "w04-017",
+      "name": "Uzbekistan–Kazakhstan border (crossing point not named in source)",
+      "lat": null, "lon": null,
+      "coord_basis": "unknown",
+      "date": "2023-06-26",
+      "date_earliest": "2023-06-01", "date_latest": "2023-06-26",
+      "date_precision": "day",
+      "event": "Crosses into Kazakhstan after 441 km from Nukus (water cached along a 260 km stretch 'past the Arial Sea'). Date = WBH post date for the crossing; Beyneu reached on the 28th, 87 km later.",
+      "sources": ["S1"]
+    },
+    {
+      "id": "w04-018",
+      "name": "Beyneu, Mangystau, Kazakhstan",
+      "lat": 45.3167, "lon": 55.2000,
+      "coord_basis": "town_centroid",
+      "date": "2023-06-28",
+      "date_earliest": "2023-06-28", "date_latest": "2023-06-28",
+      "date_precision": "day",
+      "event": "Arrive Beyneu; rest/resupply; back on road 7 Jul 2023.",
+      "sources": ["S1"]
+    },
+    {
+      "id": "w04-019",
+      "name": "Shetpe, Mangystau, Kazakhstan",
+      "lat": 44.1667, "lon": 52.1167,
+      "coord_basis": "town_centroid",
+      "date": "2023-07-18",
+      "date_earliest": "2023-07-07", "date_latest": "2023-07-18",
+      "date_precision": "day",
+      "event": "Arrive Shetpe after 309 km from Beyneu (date = WBH post date). Visa bounce needed; swim later postponed to Aug 2024.",
+      "sources": ["S1"]
+    },
+    {
+      "id": "w04-020",
+      "name": "Caspian swim start point, Kazakh coast ('near Aktau' per press; exact point not published)",
+      "lat": 43.65, "lon": 51.20,
+      "coord_basis": "approximate_region",
+      "date": "2024-08-16",
+      "date_earliest": "2024-08-16", "date_latest": "2024-08-18",
+      "date_precision": "day",
+      "event": "Walk from Shetpe reaches start point ~28 Apr 2024 (~300 km, 14–28 Apr 2024). Swim begins mid-August 2024: planned start 16 Aug; on 16 Aug Karl posted the team was leaving 'south to the start point'; 31-day duration ending 17 Sep implies start ~17–18 Aug. Coordinates = Aktau town centre as proxy ONLY; true start is probably elsewhere on the coast (Shetpe→Aktau by road is well under 300 km — unresolved).",
+      "sources": ["S1", "S8", "S15", "S16", "S20", "S21"]
+    },
+    {
+      "id": "w04-021",
+      "name": "Landfall, Azerbaijan — Sea Breeze resort (Nardaran area, Absheron, Baku)",
+      "lat": 40.59, "lon": 49.98,
+      "coord_basis": "approximate_region",
+      "date": "2024-09-17",
+      "date_earliest": "2024-09-17", "date_latest": "2024-09-17",
+      "date_precision": "day",
+      "event": "'Task Complete: 18:30 – 17/9/2024'. Team arrives on the coast of Azerbaijan; welcomed 'In the resort city of Sea Breeze' by Deputy Minister Mariana Vasileva (other outlets say 'in Baku'). Coordinates approximate (Sea Breeze resort area), exact landing point not published.",
+      "sources": ["S1", "S8", "S19", "S18", "S20"]
+    }
+  ],
+  "segments": [
+    {
+      "id": "s04-001", "from": "w04-001", "to": "w04-002",
+      "mode": "walk", "route_basis": "unknown", "route_detail": null,
+      "companions": [], "counts_as_progress": true,
+      "notes": "Russia border to Ulaanbaatar, 2017. Route not sourced.",
+      "sources": ["S2", "S24"]
+    },
+    {
+      "id": "s04-002", "from": "w04-002", "to": "w04-003",
+      "mode": "walk", "route_basis": "unknown", "route_detail": null,
+      "companions": ["Baigalmaa Norjmaa", "Angela Maxwell", "Jamie Ramsay", "others of the Steppes to the West team"],
+      "counts_as_progress": true,
+      "notes": "Camel caravan (10 Bactrian camels carrying gear; walking alongside — Karl's rules allow pack animals). Departed 'just before winter' 2017; Norjmaa: 'After the first month, we were in the Gobi desert in mid-winter.' Distance: >1,000 km (Karl site), 1,130 km (Explorersweb). Norjmaa (unverified secondary snippet) claims Karl left after about three days — conflicts with all Karl-side sources. Exact Gobi route unknown.",
+      "sources": ["S2", "S3", "S6", "S10", "S11"]
+    },
+    {
+      "id": "s04-003", "from": "w04-003", "to": "w04-004",
+      "mode": "walk", "route_basis": "unknown", "route_detail": null,
+      "companions": [], "counts_as_progress": true,
+      "notes": "Solo with cart 'The Beast' through winter/spring 2017–18 across Mongolian desert. Route unknown.",
+      "sources": ["S2", "S12"]
+    },
+    {
+      "id": "s04-004", "from": "w04-004", "to": "w04-005",
+      "mode": "walk", "route_basis": "unknown", "route_detail": null,
+      "companions": [], "counts_as_progress": true,
+      "notes": "", "sources": ["S12"]
+    },
+    {
+      "id": "s04-005", "from": "w04-005", "to": "w04-006",
+      "mode": "walk", "route_basis": "unknown", "route_detail": null,
+      "companions": [], "counts_as_progress": true,
+      "notes": "China, 2018, into Xinjiang. Route (Inner Mongolia/Gansu or direct into Xinjiang) not sourced.",
+      "sources": ["S2"]
+    },
+    {
+      "id": "s04-006", "from": "w04-006", "to": "w04-007",
+      "mode": "walk", "route_basis": "unknown", "route_detail": "Police-mandated route with 24-hour escort, no camping (route itself not published)",
+      "companions": ["Chinese police escort"], "counts_as_progress": true,
+      "notes": "Karl refused a vehicle ride to the border because it would break the rule; walked under escort to the Kazakh border.",
+      "sources": ["S2"]
+    },
+    {
+      "id": "s04-007", "from": "w04-007", "to": "w04-008",
+      "mode": "walk", "route_basis": "unknown", "route_detail": null,
+      "companions": [], "counts_as_progress": true,
+      "notes": "", "sources": ["S2"]
+    },
+    {
+      "id": "s04-008", "from": "w04-008", "to": "w04-009",
+      "mode": "walk", "route_basis": "unknown", "route_detail": null,
+      "companions": ["Rika (partner)"], "counts_as_progress": true,
+      "notes": "Whether Rika walked the whole stretch is not explicit; Karl's site: 'Karl and Rika followed the Silk Road through Samarkand and ... Bukhara'.",
+      "sources": ["S2", "S8"]
+    },
+    {
+      "id": "s04-009", "from": "w04-009", "to": "w04-010",
+      "mode": "walk", "route_basis": "unknown", "route_detail": null,
+      "companions": ["Rika"], "counts_as_progress": true,
+      "notes": "Severe heatstroke and several days' hospitalisation somewhere in Uzbekistan in mid-summer 2019 (location not stated).",
+      "sources": ["S2"]
+    },
+    {
+      "id": "s04-010", "from": "w04-010", "to": "w04-011",
+      "mode": "walk", "route_basis": "unknown", "route_detail": null,
+      "companions": ["Rika"], "counts_as_progress": true,
+      "notes": "", "sources": ["S2"]
+    },
+    {
+      "id": "s04-011", "from": "w04-011", "to": "w04-012",
+      "mode": "walk", "route_basis": "unknown", "route_detail": null,
+      "companions": ["Rika (to the border)"], "counts_as_progress": false,
+      "notes": "Walked in 2019 but later ABANDONED: the 2023 restart was at Bukhara, so everything west of Bukhara toward Turkmenistan became a dead-end spur.",
+      "sources": ["S1", "S2"]
+    },
+    {
+      "id": "s04-012", "from": "w04-012", "to": "w04-013",
+      "mode": "walk", "route_basis": "unknown", "route_detail": "Through the Karakum Desert with government escort (escort carried most gear)",
+      "companions": ["Turkmen government escort"], "counts_as_progress": false,
+      "notes": "Dead-end spur. Karl 2021: Plan B 'would involve backtracking to Uzbekistan losing almost 700 miles of progress'. Onthegosolo: 'all of the walking he did in Turkmenistan will have been for naught.'",
+      "sources": ["S1", "S2", "S8"]
+    },
+    {
+      "id": "s04-013", "from": "w04-013", "to": "w04-014",
+      "mode": "offroute", "route_basis": "unknown", "route_detail": null,
+      "companions": ["Turkmen escorts"], "counts_as_progress": false,
+      "notes": "'With my visa up I was hurried by my escorts to Ashgabat and put on a plane.' Transport mode to Ashgabat not stated (presumably vehicle).",
+      "sources": ["S1"]
+    },
+    {
+      "id": "s04-014", "from": "w04-014", "to": "w04-015",
+      "mode": "offroute", "route_basis": "unknown", "route_detail": "Flight Ashgabat → Los Angeles (2019); waits in Mexico 2020–2023; flight Mexico → Tashkent; train Tashkent → Bukhara (2023)",
+      "companions": ["Angela Maxwell (2023)"], "counts_as_progress": false,
+      "notes": "Gear shipped from Turkmenistan/Tashkent to Bukhara; swim kit shipped to Aktau.",
+      "sources": ["S1", "S4"]
+    },
+    {
+      "id": "s04-015", "from": "w04-015", "to": "w04-016",
+      "mode": "walk", "route_basis": "waypoints_only", "route_detail": "Through the Kyzylkum Desert (Explorersweb); 543 km per WBH. Road not named by source (A380 Bukhara–Nukus is the obvious candidate but UNSOURCED).",
+      "companions": ["Angela Maxwell"], "counts_as_progress": true,
+      "notes": "Heavy blistering early on.",
+      "sources": ["S1", "S6", "S7"]
+    },
+    {
+      "id": "s04-016", "from": "w04-016", "to": "w04-017",
+      "mode": "walk", "route_basis": "waypoints_only", "route_detail": "441 km; 260 km remote stretch with buried water caches, 'past the Arial Sea' to the Kazakh border. Road not named (likely across the Ustyurt via the A380 — UNSOURCED).",
+      "companions": ["Angela Maxwell"], "counts_as_progress": true,
+      "notes": "Resumed from Nukus ('Back to Nukus and back on the road', WBH post 1 Jun 2023). Temperatures to 45°C.",
+      "sources": ["S1"]
+    },
+    {
+      "id": "s04-017", "from": "w04-017", "to": "w04-018",
+      "mode": "walk", "route_basis": "waypoints_only", "route_detail": "87 km border → Beyneu",
+      "companions": ["Angela Maxwell"], "counts_as_progress": true,
+      "notes": "", "sources": ["S1"]
+    },
+    {
+      "id": "s04-018", "from": "w04-018", "to": "w04-019",
+      "mode": "walk", "route_basis": "waypoints_only", "route_detail": "309 km Beyneu → Shetpe, departed 7 Jul 2023",
+      "companions": ["Angela Maxwell"], "counts_as_progress": true,
+      "notes": "", "sources": ["S1"]
+    },
+    {
+      "id": "s04-019", "from": "w04-019", "to": "w04-020",
+      "mode": "walk", "route_basis": "waypoints_only", "route_detail": "'Roughly 300 km, in an approximate 10-day walk', 14–28 Apr 2024, Shetpe → swim start point (start point not named)",
+      "companions": ["Angela Maxwell (presumed — 'the team')", "Erik Scheeres"], "counts_as_progress": true,
+      "notes": "WBH post is dated '7/04/2024' yet describes 14–28 April — date format/typo ambiguity.",
+      "sources": ["S1"]
+    },
+    {
+      "id": "s04-020", "from": "w04-020", "to": "w04-021",
+      "mode": "swim", "route_basis": "unknown", "route_detail": "Kazakhstan → Azerbaijan across the Caspian; daily swim stages from support vessels; SPOT live tracker existed but track not recovered",
+      "companions": ["Angela Maxwell", "Anastasiya Boborikina", "Abdurrahman Rustamov"],
+      "counts_as_progress": true,
+      "notes": "~16/18 Aug – 17 Sep 2024. Distance 288 km (most sources; Karl's own stats post per onthegosolo: 275.5 km). 31 days (Karl), 32 days at sea / 27 swimming days (Explorersweb), 41 days (Azerbaijani/Kazakh press). ~132 h 21 min swimming. Routine: ~3 h morning + 3 h afternoon (Explorersweb); planned ~10 km/day (5+5) (Tengrinews); Karl's site: 'six-to-nine-hour shifts'. Slept on boats. Support: Azeri Coast Guard + a 64-m ship (WBH Jun 2024) / 'a local support boat from the Kazakh port of Aktau and an Azerbaijani Coast Guard ship' (Karl site) / 'a warship and two regular vessels' (Tengrinews). Vessel names unknown. How each day's stopping position was recorded and resumed is NOT described in any source found.",
+      "sources": ["S1", "S2", "S5", "S8", "S15", "S16", "S18", "S19", "S20"]
+    }
+  ],
+  "pauses": [
+    {
+      "id": "p04-001",
+      "at": "w04-006",
+      "start": "2018", "end": "2018",
+      "reason": "police detention in Xinjiang; British Embassy intervention (duration not stated)",
+      "left_how": "did not leave route; refused vehicle transport",
+      "sources": ["S2"]
+    },
+    {
+      "id": "p04-002",
+      "at": null,
+      "start": "2019 mid-summer", "end": "2019 mid-summer",
+      "reason": "severe heatstroke, hospitalised several days (Uzbekistan; location not stated)",
+      "left_how": "unknown",
+      "sources": ["S2"]
+    },
+    {
+      "id": "p04-003",
+      "at": "w04-013",
+      "start": "2019-08/2019-12", "end": "2023-03-14",
+      "reason": "Iran visa refused (British passport, US sanctions on sponsors), Soleimani killing (Jan 2020) collapsed contacts, COVID-19 from spring 2020, Turkmenistan closed borders, Russia route closed by 2022 invasion of Ukraine; Plan C Caspian adopted Feb 2022. Resumed NOT at the Iran border but at Bukhara (backtrack).",
+      "left_how": "Escorted to Ashgabat and flown out to Los Angeles; then waited in Mexico; flew Mexico → Tashkent 2023, train to Bukhara",
+      "sources": ["S1", "S2", "S4", "S7"]
+    },
+    {
+      "id": "p04-004",
+      "at": "w04-016",
+      "start": "2023-04", "end": "2023-06 (WBH 'Back to Nukus' post dated 1 Jun 2023)",
+      "reason": "visa renewal (had to leave Uzbekistan); used to visit Baku re support boat",
+      "left_how": "unknown (travel to Baku; mode not stated)",
+      "sources": ["S1"]
+    },
+    {
+      "id": "p04-005",
+      "at": "w04-018",
+      "start": "2023-06-28", "end": "2023-07-07",
+      "reason": "rest, resupply, equipment repair",
+      "left_how": "stayed in Beyneu",
+      "sources": ["S1"]
+    },
+    {
+      "id": "p04-006",
+      "at": "w04-019",
+      "start": "2023-07", "end": "2024-04-14",
+      "reason": "30-day Kazakh visa renewal ('visa bounce'); support-boat safety requirements unmet, swim postponed from 2023 to Aug 2024 (cold-water concern)",
+      "left_how": "unknown",
+      "sources": ["S1", "S8"]
+    },
+    {
+      "id": "p04-007",
+      "at": "w04-020",
+      "start": "2024-04-28", "end": "2024-08-16",
+      "reason": "waiting for swim logistics/permits; team moved back to Baku 1 Jun 2024 to work with Azerbaijani government; trained in Baku (Jul) and Aktau (Aug)",
+      "left_how": "unknown (went to Baku)",
+      "sources": ["S1", "S15"]
+    }
+  ],
+  "conflicts": [
+    {
+      "topic": "Caspian swim start date / month",
+      "claims": [
+        {"value": "Planned 16 Aug 2024 ('this Friday, 16 August')", "source": "S16"},
+        {"value": "Scheduled for August 16", "source": "S15"},
+        {"value": "16 Aug 2024 Karl: leaving 'south to the start point'; finish 17 Sep 2024 18:30 after 31 days", "source": "S8"},
+        {"value": "WBH Jun 2024: start date set for August 10th", "source": "S1"},
+        {"value": "'October 2024'", "source": "S6"},
+        {"value": "August 2024 (YouTube title 'Caspian Sea Crossing August 2024 WBH')", "source": "S28"}
+      ],
+      "assessment": "October is wrong: Karl's own post dates completion 17 Sep 2024 and Azerbaijani press reported the arrival 17 Sep 2024. Explorersweb's first article was published 19 Oct 2024, which likely caused the 'October' error. Start ≈ 16–18 Aug 2024 (exact first-stroke day unconfirmed)."
+    },
+    {
+      "topic": "Swim duration",
+      "claims": [
+        {"value": "31 days, >132 h swimming", "source": "S1"},
+        {"value": "32 days at sea, 27 swimming days", "source": "S5"},
+        {"value": "32 days", "source": "S19"},
+        {"value": "41 days", "source": "S18"},
+        {"value": "41 days", "source": "S20"}
+      ],
+      "assessment": "Prefer Karl's 31 days (primary). 41 days may count from team arrival on the Kazakh coast (~7–10 Aug); unverified."
+    },
+    {
+      "topic": "Swim distance",
+      "claims": [
+        {"value": "288 km", "source": "S1"},
+        {"value": "275.5 km (Karl's stats post, as quoted)", "source": "S8"},
+        {"value": "~300 km planned", "source": "S15"},
+        {"value": "259 km planned (2022)", "source": "S1"}
+      ],
+      "assessment": "288 km is the headline figure in Karl's own later posts; 275.5 km may be swum distance vs straight-line/total. Unresolved."
+    },
+    {
+      "topic": "Landing point",
+      "claims": [
+        {"value": "Met 'In the resort city of Sea Breeze'", "source": "S19"},
+        {"value": "Met 'in Baku'", "source": "S18"},
+        {"value": "'arrives on the coast of Azerbaijan'", "source": "S1"},
+        {"value": "Planned: reach Baku", "source": "S13"}
+      ],
+      "assessment": "Consistent: Sea Breeze (Nardaran, Absheron) lies within Baku's administrative area. Precise beach coordinates not published. Sea Breeze/idman also say 'border to border', leaving open whether the counted swim ended at the coast or at a maritime boundary."
+    },
+    {
+      "topic": "Support vessels",
+      "claims": [
+        {"value": "Azeri Coast Guard and a 64-meter ship", "source": "S1"},
+        {"value": "a local support boat from Aktau and an Azerbaijani Coast Guard ship", "source": "S2"},
+        {"value": "a warship and two regular vessels", "source": "S15"}
+      ],
+      "assessment": "Probably compatible (coast guard warship + 1–2 civilian boats). No vessel names found."
+    },
+    {
+      "topic": "Daily swim routine",
+      "claims": [
+        {"value": "3 h morning + 3 h afternoon, sleeping on boats", "source": "S5"},
+        {"value": "plan ~10 km/day, 5 km before and 5 km after lunch", "source": "S15"},
+        {"value": "'six-to-nine-hour shifts'", "source": "S2"}
+      ],
+      "assessment": "Likely varied with weather; no source describes GPS marking/resume method."
+    },
+    {
+      "topic": "Camel-caravan distance and Karl's participation",
+      "claims": [
+        {"value": "'more than a thousand kilometres'", "source": "S2"},
+        {"value": "1,130 km", "source": "S6"},
+        {"value": "Norjmaa: Karl stopped after about three days (search-snippet only, from theubposts.com; not fetched)", "source": "S27"}
+      ],
+      "assessment": "Karl-side sources agree on ~1,000+ km. Norjmaa's claim unverified; recorded for completeness."
+    },
+    {
+      "topic": "Year Karl entered Kazakhstan / Uzbekistan",
+      "claims": [
+        {"value": "'In 2018, he crossed Kazakhstan and then made his way through Uzbekistan and Turkmenistan'", "source": "S6"},
+        {"value": "'5 years after entering Eastern Kazakhstan' (said Aug 2024 → ~2019)", "source": "S8"},
+        {"value": "Uzbekistan entry early June 2019 (unsourced Wikipedia edit) / leaving Almaty listed under July 2019", "source": "S8"},
+        {"value": "Site header '2018–2019 Kazakhstan · Uzbekistan · Turkmenistan'", "source": "S2"}
+      ],
+      "assessment": "China→Kazakhstan crossing is late 2018 or early 2019; unresolved."
+    },
+    {
+      "topic": "Arrival at Iran border",
+      "claims": [
+        {"value": "On the border by 27 Aug 2019 (father)", "source": "S8"},
+        {"value": "'arrived at the Iranian border on September 15' (El Informador, Feb 2020)", "source": "S8"},
+        {"value": "'By the end of 2019 I arrived on the border of Iran'", "source": "S1"},
+        {"value": "'By the end of 2019, he had trekked through Turkmenistan to its border with Iran'", "source": "S4"}
+      ],
+      "assessment": "Most likely late Aug–mid Sep 2019; 'end of 2019' is loose wording."
+    },
+    {
+      "topic": "Order of countries 2018–2019",
+      "claims": [
+        {"value": "Mongolia, China, Kazakhstan, Uzbekistan, Turkmenistan", "source": "S7"},
+        {"value": "Siberia, Mongolia, China, then Turkmenistan and Kazakhstan", "source": "S25"},
+        {"value": "'returned to Kazakhstan to head north through Russia and Ukraine' / returned to Latin America", "source": "S26"}
+      ],
+      "assessment": "Karl's own site and WBH give China → Kazakhstan (Almaty) → Uzbekistan (Samarkand, Bukhara) → Turkmenistan. Otello.ru account is garbled."
+    },
+    {
+      "topic": "2023 WBH post date ordering",
+      "claims": [
+        {"value": "Post dated '27/03/2023': fly Mexico → Tashkent", "source": "S1"},
+        {"value": "Post dated '12/03/2023': everything arrives in Bukhara; 'Hitting the road 14/03/2023'", "source": "S1"}
+      ],
+      "assessment": "Internal inconsistency; arrival in Tashkent probably late Feb 2023 (typo). Bukhara restart 14 Mar 2023 accepted, Nukus by 8 Apr 2023 (543 km in ~25 days is plausible)."
+    },
+    {
+      "topic": "Pandemic timing",
+      "claims": [
+        {"value": "'The pandemic also set in around this time' (context: 2018)", "source": "S6"},
+        {"value": "Spring 2020", "source": "S1"}
+      ],
+      "assessment": "S6 is wrong; COVID hit in 2020 while Karl was already off-route waiting in Mexico."
+    }
+  ],
+  "unknowns": [
+    "Exact Russia→Mongolia border crossing point and date (only 2017, before 8 Aug).",
+    "Camel-caravan route through the Gobi, departure date, and where/when the group split.",
+    "Karl's solo route across southern/western Mongolia in early 2018 and the Mongolia→China crossing point.",
+    "China route (Inner Mongolia/Gansu vs direct to Xinjiang), detention location, China→Kazakhstan crossing point and date.",
+    "Kazakhstan 2018–19 route east of Almaty and Kazakhstan→Uzbekistan crossing point.",
+    "Uzbekistan→Turkmenistan and Turkmenistan→Iran border posts.",
+    "Named roads for Bukhara–Nukus–Beyneu–Shetpe (A380/A27 likely but unsourced).",
+    "Exact swim start point (beach/coordinates) — press says 'near Aktau' but Shetpe→start was ~300 km, more than Shetpe→Aktau by road.",
+    "Exact landing beach coordinates at Sea Breeze/Nardaran.",
+    "Names of support vessels.",
+    "How the end-of-stage position was recorded and how swimmers were returned to it each day (GPS/SPOT) — no source describes this.",
+    "SPOT tracker data (live link existed on westboundhorizons.com; not recovered).",
+    "Whether Angela Maxwell walked the Shetpe→start section (April 2024)."
+  ],
+  "sources": {
+    "S1": {"title": "Update (situation reports) — WestBound Horizons", "url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ", "type": "primary", "publisher": "WestBound Horizons (Karl Bushby & Angela Maxwell; domain now hijacked — use Wayback snapshots 20240915085339, 20240923174331, 20250717205540, 20251001034217)", "date": "2021-04-09 to 2025-05-01 (posts)", "quote": "27/03/2023 ... pack and ship the Beast and Athathen (Angela’s cart) to Bukhara, the starting point and my last major waypoint in Uzbekistan before we entered Turkmenistan. | 12/03/2023 Everything arrives in Bukhara ... Hitting the road 14/03/2023. | 8/04/2023 After a long and trying haul we reach the first major waypoint Nukus. ... 543kms | 1/06/2023 Back to Nukus and back on the road for the Kazakh border. ... We bury and cache water along a 260km stretch getting us past the Arial Sea and to the border with Kazakhstan. 441kms | 26/06/2023 We cross into Kazakhstan and cover the next 87kms arriving in Beyneu on the 28th. ... hitting the road on the 7/07/2023. | 18/07/2023 ... Arrive in Shetpe after 309kms. From here we need to renew the 30 day Kazakh visa so require another visa bounce. | 31 / 08 / 2023 ... we have had to delay the crossing until August next year. | 7/04/2024 April 14th -28th The team was joined by Erik Scheeres for the last push from Shetpe to the start point of the swim. Roughly 300 km, in an approximate 10-day walk. | 1/6/2024 ... The team will be supported by the Azeri Coast Guard and a 64-meter ship. The start date is now set for August 10th from the coast of Kazakhstan. | 17/9/2024 31 days, 288kms and over 132hrs of swimming, the team arrives on the coast of Azerbaijan to a warm welcome. | 09/04/21 ... By the end of 2019 I arrived on the border of Iran. With my visa up I was hurried by my escorts to Ashgabat and put on a plane. ... Plan B This would involve backtracking to Uzbekistan losing almost 700 miles of progress."},
+    "S2": {"title": "Goliath Expedition Story & Route", "url": "https://karlbushby.world/story", "type": "primary", "publisher": "karlbushby.world (official)", "date": "accessed 2026-11-01", "quote": "Back across Russia and into Mongolia, Karl arrived in Ulaanbaatar on 8 August 2017. ... A training camp west of the capital spent five months preparing the animals ... Just before winter, the caravan set out and covered more than a thousand kilometres across the unforgiving steppe. ... The caravan dissolved. Karl left it behind and crossed into China alone. | In 2018, Karl crossed into China ... The police let him keep walking — under a strictly mandated route, a twenty-four-hour escort, no camping, and later no internet access — all the way to the Kazakh border. | Across the Kazakh border, Karl met up with Rika in Almaty before pressing west. ... Karl and Rika followed the Silk Road through Samarkand and the old trading hub of Bukhara, heading toward Turkmenistan. ... At the Turkmenistan border, visa restrictions forced a separation: Karl crossed alone. | Supported by two escort vessels — a local support boat from the Kazakh port of Aktau and an Azerbaijani Coast Guard ship ... They pushed forward in six-to-nine-hour shifts ... After thirty-one days at sea, 288 kilometres ... and more than 132 hours in the water, the team stepped ashore in Azerbaijan"},
+    "S3": {"title": "Hiking the World: Updates from the Road", "url": "https://explorersweb.com/hiking-the-world-updates-from-the-road/", "type": "secondary", "publisher": "ExplorersWeb (Martin Walsh)", "date": "2019-04-16", "quote": "But back in late 2017, a number of notable long-distance travelers elected to join forces in Ulaanbaatar, Mongolia. ... Joining Bushby, Norjmaa and the camels came two more long-distance masochists, Jamie Ramsay and Angela Maxwell. ... Bushby, Maxwell and Ramsay have all left the project, leaving Norjmaa to continue alone."},
+    "S4": {"title": "Where in the World is Karl Bushby?", "url": "https://explorersweb.com/?p=25908", "type": "secondary", "publisher": "ExplorersWeb (Kristine De Abreu)", "date": "2021-05-05", "quote": "By the end of 2019, he had trekked through Turkmenistan to its border with Iran. ... But he couldn't get a visa into Iran, and his 30-day Turkmen visa had expired. ... Currently, Bushby is waiting out his COVID quarantine in Mexico."},
+    "S5": {"title": "Karl Bushby and Angela Maxwell Swim Across the Caspian Sea", "url": "https://explorersweb.com/karl-bushby-and-angela-maxwell-swim-across-the-caspian-sea/", "type": "secondary", "publisher": "ExplorersWeb (Rebecca McPhee)", "date": "2024-10-19", "quote": "Over 32 days at sea, they spent 27 days swimming through dangerously rough seas and high winds."},
+    "S6": {"title": "Karl Bushby Begins Home Stretch of 27-Year, Round-the-World Walk", "url": "https://explorersweb.com/karl-bushby-begins-home-stretch-of-27-year-round-the-world-walk/", "type": "secondary", "publisher": "ExplorersWeb (Rebecca McPhee)", "date": "2025-04-28", "quote": "In 2018, he crossed Kazakhstan and then made his way through Uzbekistan and Turkmenistan. ... Bushby and Maxwell flew to Bukhara, Uzbekistan, and walked across the Kyzylkum Desert to the Caspian Sea. ... the 288km swim from Kazakhstan to Azerbaijan in October 2024."},
+    "S7": {"title": "Karl Bushby Back in Europe, Begins Last Leg of Journey", "url": "https://explorersweb.com/karl-bushby-back-in-europe-begins-last-leg-of-journey/", "type": "secondary", "publisher": "ExplorersWeb (Rebecca McPhee)", "date": "2025-08-20", "quote": "From Russia, he crossed through Mongolia, China, Kazakhstan, Uzbekistan, and Turkmenistan — another hard one. ... He could not get a visa for Iran, and then COVID struck. ... swam 288km in stages to Azerbaijan"},
+    "S8": {"title": "Where is Karl Bushby? (running tracker blog)", "url": "https://onthegosolo.com/where-is-karl-bushby-2019/", "type": "secondary", "publisher": "On The Go Solo (B. P. Naughton) — quotes Karl's social posts", "date": "2019–2026", "quote": "Aug 16, 2024: \"5 years after entering Eastern Kazakhstan I'm leaving with the team south to the start point.\" | \"Task Complete: 18:30 – 17/9/2024\", \"Distance: 275.5km\", \"Hours swam: ~132hrs 21min\", \"Days: 31\" | \"have to return to a spot he passed years ago in Uzbekistan and then branch off, heading northwest into Kazakhstan\" | \"all of the walking he did in Turkmenistan will have been for naught\" | \"Bushby crossed into Uzbekistan early June 2019.\" | \"he arrived at the Iranian border on September 15\""},
+    "S9": {"title": "Steppes to the West: an epic journey with Bactrian camel", "url": "https://www.montsame.mn/en/read/131396", "type": "secondary", "publisher": "Montsame (Mongolian national news agency)", "date": "2017-09-08", "quote": "Today, he finds himself planning the remaining three years of his walk as part of the 'Steppes to the West'."},
+    "S10": {"title": "After Mongolia and feet back in Europe", "url": "https://www.shewalkstheearth.com/the-walk/after-mongolia-and-feet-back-in-europe", "type": "secondary", "publisher": "She Walks the Earth (Angela Maxwell's own blog — primary for Maxwell, secondary for Karl)", "date": "2018-02-25", "quote": "From August to mid-December I gave my all to Steppes to the West. ... All the team members have left except for Baikal, the mongolian who held the dream of taking camels across the silk road."},
+    "S11": {"title": "Interview with Baigalmaa Norjmaa: Mongolia to London by Camel", "url": "https://explorersweb.com/interview-with-baigalmaa-norjmaa-the-mongolian-camel-lady/", "type": "secondary", "publisher": "ExplorersWeb", "date": "2019-01-08", "quote": "After the first month, we were in the Gobi desert in mid-winter."},
+    "S12": {"title": "British adventurer battered by gale-force winds in Mongolia", "url": "https://news.mn/en/779986/", "type": "secondary", "publisher": "News.MN (relaying Hull Daily Mail)", "date": "2018-05-31", "quote": "He must only be a couple of hundred kilometres from the Chinese border now."},
+    "S13": {"title": "A world-famous traveler will swim the Caspian Sea for the first time!", "url": "https://report.az/en/tourism/british-traveler-prepares-to-swim-from-kazakhstan-to-azerbaijan", "type": "secondary", "publisher": "Report.az", "date": "2024-07-16", "quote": "plan to set off from the coast near Aktau in coming days ... reach Baku approximately within a month"},
+    "S14": {"title": "Around the world walker set to swim Caspian Sea", "url": "https://azertag.az/en/xeber/around_the_world_walker_set_to_swim_caspian_sea-3099250", "type": "secondary", "publisher": "AZERTAC (citing BBC)", "date": "2024-07-16", "quote": "This is the best route, because it's the only viable route. Failure here would be crippling."},
+    "S15": {"title": "An American, a Briton and Azerbaijanis decided to swim across the Caspian Sea in 30 days", "url": "https://en.tengrinews.kz/people/an-american-a-briton-and-azerbaijanis-decided-to-swim-across-263827", "type": "secondary", "publisher": "Tengrinews", "date": "2024-08-15", "quote": "The swim is scheduled for August 16. ... They plan to swim from Aktau to Baku in 30 days. ... The team's support is fully provided by the Azerbaijani side, which includes a warship and two regular vessels."},
+    "S16": {"title": "Из Актау в Баку: четверо иностранцев решили переплыть Каспий за 30 дней", "url": "https://rus.azattyq-ruhy.kz/news/70746-iz-aktau-v-baku-chetvero-inostrantsev-reshili-pereplyt-kaspii-za-30-dnei", "type": "secondary", "publisher": "Azattyq Ruhy", "date": "2024-08-15", "quote": "Старт заплыва запланирован уже на эту пятницу, 16 августа."},
+    "S17": {"title": "Британец планирует переплыть Каспийское море", "url": "https://www.lada.kz/aktau_news/society/125688-britanets-planiruet-pereplyt-kaspiiskoe-more.html", "type": "secondary", "publisher": "Lada.kz (Aktau)", "date": "2024-07-17", "quote": "заплыв планируется начать в середине августа."},
+    "S18": {"title": "World-famous travelers cross Caspian Sea - from Kazakhstan to Azerbaijan", "url": "https://www.idman.biz/en/news/other/43723", "type": "secondary", "publisher": "İdman və Biz", "date": "2024-09-17", "quote": "For 41 days ... 288 kilometers ... welcomed in Baku"},
+    "S19": {"title": "Famous adventurers swim across the Caspian Sea to Sea Breeze", "url": "https://seabreeze.az/en/news/famous-adventurers-swim-across-the-caspian-sea-to-sea-breeze", "type": "secondary", "publisher": "Sea Breeze (resort developer)", "date": "2024-09-17", "quote": "They swam the Caspian Sea from border to border in 32 days, covering 288 kilometers to reach Azerbaijan. ... In the resort city of Sea Breeze, the travelers were met by Deputy Minister of Youth and Sports Mariana Vasileva and representatives of the Azerbaijan Swimming Federation."},
+    "S20": {"title": "Всемирно известный путешественник: «Нам повезло с погодой»", "url": "https://azertag.az/ru/xeber/vsemirno_izvestnyi_puteshestvennik_nam_povezlo_s_pogodoi-3184406", "type": "secondary", "publisher": "AZERTAC", "date": "2024-09-17", "quote": "стартовал на побережье близ казахстанского города Актау. ... оба путешественника в течение 41 дня преодолели 288 километров."},
+    "S21": {"title": "Путешественники впервые переплыли Каспийское море", "url": "https://www.lada.kz/aktau_news/society/128326-puteshestvenniki-vpervye-pereplyli-kaspiiskoe-more.html", "type": "secondary", "publisher": "Lada.kz (Aktau)", "date": "2024-09-18", "quote": "стартовал на побережье близ Актау"},
+    "S22": {"title": "Around the world walker to tackle Caspian Sea for the first time", "url": "https://www.idman.biz/en/news/other/38855", "type": "secondary", "publisher": "İdman və Biz", "date": "2024-08-06", "quote": "depart from the coast near Aktau in the next few days"},
+    "S23": {"title": "Angela Maxwell: \"We had bad storms in the Caspian Sea\"", "url": "https://www.idman.biz/en/news/other/43867", "type": "secondary", "publisher": "İdman və Biz", "date": "2024-09-18", "quote": "We had some bad storms, high winds and high waves wich were a little scary."},
+    "S24": {"title": "Karl Bushby", "url": "https://en.wikipedia.org/wiki/Karl_Bushby", "type": "secondary", "publisher": "Wikipedia", "date": "accessed 2026-11-01", "quote": "Bushby crossed the Russia–Mongolia border in 2017, and on 8 August 2017 he was in Ulaanbaatar, Mongolia."},
+    "S25": {"title": "Traveller Karl Bushby Walked from Chile to Great Britain. It Took Him 28 Years", "url": "https://nashaniva.com/en/406521", "type": "secondary", "publisher": "Nasha Niva", "date": "2026-10-10", "quote": "Karl walked through Siberia, Mongolia, and China, then reached Turkmenistan and Kazakhstan."},
+    "S26": {"title": "«Кажется, ты забрёл не туда». Как британец 27 лет идёт домой", "url": "https://otello.ru/nomer/kazhetsya-ty-zabryol-ne-tuda-kak-britanec-27-let-idyot-domoj", "type": "secondary", "publisher": "Otello", "date": "2026-03-11 (year inferred)", "quote": "Каждый день они плыли по три часа утром и три часа вечером, остальное время проводили на специальном катере."},
+    "S27": {"title": "theubposts.com article on Steppes to the West (not fetched; redirect to rcharts.io)", "url": "https://theubposts.com/a/10667", "type": "secondary", "publisher": "The UB Post", "date": "unknown", "quote": "NOT VERIFIED — known only from a search-engine summary stating Norjmaa said Bushby stopped after about three days and took back his 10 million MNT contribution."},
+    "S28": {"title": "Caspian Sea Crossing August 2024 WBH / 1,000mile Section To The Caspian 2023", "url": "https://www.youtube.com/watch?v=SThBzxaxwD4", "type": "primary", "publisher": "YouTube (WestBound Horizons channel, presumed)", "date": "unknown", "quote": "Caspian Sea Crossing August 2024 WBH (title only; second video https://www.youtube.com/watch?v=HAfUuVSugNc titled '1,000mile Section To The Caspian 2023')"}
+  }
+}

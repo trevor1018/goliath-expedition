@@ -1,0 +1,1022 @@
+{
+  "photos": [
+    {
+      "id": "kb-bs-01",
+      "leg": "02",
+      "region": "Bering Strait",
+      "image_url": "https://web.archive.org/web/20080316092618im_/http://goliath.mail2web.com/Photos/Latest/Lrg/33.jpg",
+      "page_url": "https://web.archive.org/web/20080530194113/http://goliath.mail2web.com/Photos/LatestPhotos.asp",
+      "caption_en": "K&D with Uelen in background",
+      "caption_zh": "K&D（Karl 與 Dimitri），背景為 Uelen",
+      "caption_type": "alt text of gallery thumbnail",
+      "date": "2006 (gallery section heading: 'May 2006 Crossing the Bering Strait'; the heading is the posting period, the crossing itself ended 2006-03-31 per project data)",
+      "place": "Uelen (in background), Chukotka",
+      "waypoint": "w02-080",
+      "match_basis": "Caption states Uelen is in the background; photo taken within sight of Uelen at the end of the 2006 crossing. Exact camera position unknown (could equally relate to w02-078/w02-079).",
+      "credit": "No per-photo credit on the page. Published in the 'Latest Photos' gallery of the official Goliath Expedition website (goliath.mail2web.com).",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-bs-02",
+      "leg": "02",
+      "region": "Bering Strait",
+      "image_url": "https://web.archive.org/web/20080316090622im_/http://goliath.mail2web.com/Photos/Latest/Lrg/34.jpg",
+      "page_url": "https://web.archive.org/web/20080530194113/http://goliath.mail2web.com/Photos/LatestPhotos.asp",
+      "caption_en": "On moving ice",
+      "caption_zh": "在移動的浮冰上",
+      "caption_type": "alt text of gallery thumbnail",
+      "date": "2006 (gallery section 'May 2006 Crossing the Bering Strait')",
+      "place": "Bering Strait (position not stated)",
+      "waypoint": null,
+      "match_basis": "No position given.",
+      "credit": "No per-photo credit on the page. Published in the 'Latest Photos' gallery of the official Goliath Expedition website (goliath.mail2web.com). The same photograph is credited 'Image source, Karl Bushby' by BBC News (https://www.bbc.co.uk/news/articles/c750vlynwrlo), caption: 'Karl battling through ice as he crosses the Bering Strait to cross into Russia in 2006'.",
+      "also_published": [
+        {
+          "page_url": "https://www.bbc.co.uk/news/articles/c750vlynwrlo",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/1600/cpsprodpb/2745/live/771728f0-b28f-11f1-8096-b33a1297275a.jpg",
+          "caption_en": "Karl battling through ice as he crosses the Bering Strait to cross into Russia in 2006",
+          "credit": "Karl Bushby",
+          "image_verified": {
+            "http_status": 206,
+            "content_type": "image/jpeg"
+          }
+        }
+      ],
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-bs-03",
+      "leg": "02",
+      "region": "Bering Strait",
+      "image_url": "https://web.archive.org/web/20080316093600im_/http://goliath.mail2web.com/Photos/Latest/Lrg/35.jpg",
+      "page_url": "https://web.archive.org/web/20080530194113/http://goliath.mail2web.com/Photos/LatestPhotos.asp",
+      "caption_en": "Checking GPS",
+      "caption_zh": "查看 GPS",
+      "caption_type": "alt text of gallery thumbnail",
+      "date": "2006 (gallery section 'May 2006 Crossing the Bering Strait')",
+      "place": "Bering Strait (position not stated)",
+      "waypoint": null,
+      "match_basis": "No position given.",
+      "credit": "No per-photo credit on the page. Published in the 'Latest Photos' gallery of the official Goliath Expedition website (goliath.mail2web.com). The same photograph is credited 'Image source, Karl Bushby' by BBC News (https://www.bbc.co.uk/news/articles/cp8rd3n80j4o), caption: 'Karl and Dimitri Kieffer, a French adventurer and specialist endurance racer, took 14 days to cross the Bering Strait'.",
+      "also_published": [
+        {
+          "page_url": "https://www.bbc.co.uk/news/articles/cp8rd3n80j4o",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ca38/live/3e35ac30-6bba-11f1-8e5f-879143928516.jpg",
+          "caption_en": "Karl and Dimitri Kieffer, a French adventurer and specialist endurance racer, took 14 days to cross the Bering Strait",
+          "credit": "Karl Bushby",
+          "image_verified": {
+            "http_status": 206,
+            "content_type": "image/jpeg"
+          }
+        }
+      ],
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-bs-04",
+      "leg": "02",
+      "region": "Bering Strait",
+      "image_url": "https://web.archive.org/web/20080316090745im_/http://goliath.mail2web.com/Photos/Latest/Lrg/37.jpg",
+      "page_url": "https://web.archive.org/web/20080530194113/http://goliath.mail2web.com/Photos/LatestPhotos.asp",
+      "caption_en": "Crossing an area of slush",
+      "caption_zh": "穿越一片冰泥區",
+      "caption_type": "alt text of gallery thumbnail",
+      "date": "2006 (gallery section 'May 2006 Crossing the Bering Strait')",
+      "place": "Bering Strait (position not stated)",
+      "waypoint": null,
+      "match_basis": "No position given.",
+      "credit": "No per-photo credit on the page. Published in the 'Latest Photos' gallery of the official Goliath Expedition website (goliath.mail2web.com).",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-bs-05",
+      "leg": "02",
+      "region": "Bering Strait",
+      "image_url": "https://i.guim.co.uk/img/media/8dbb024ab40f7f6e17d1f08a5e8804959936f4e5/0_0_2816_2112/master/2816.jpg?width=445&dpr=1&s=none&crop=none",
+      "page_url": "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull",
+      "caption_en": "‘Chances are he won’t make it across alive’ … the Bering Strait.",
+      "caption_zh": "「他很可能無法活著渡過」……白令海峽。",
+      "caption_type": "figure caption",
+      "alt_en": "An explorer flounders in the sea, surrounded by ice, hanging on to a red rope",
+      "date": "photo undated by source (article published 2026-10-13; Bering crossing was 2006)",
+      "place": "Bering Strait",
+      "waypoint": null,
+      "match_basis": "No position given.",
+      "credit": "Photograph: Courtesy of Karl Bushby",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-ru-01",
+      "leg": "03",
+      "region": "Chukotka",
+      "image_url": "https://web.archive.org/web/20080316092015im_/http://goliath.mail2web.com/Photos/Latest/Lrg/58.jpg",
+      "page_url": "https://web.archive.org/web/20080530194113/http://goliath.mail2web.com/Photos/LatestPhotos.asp",
+      "caption_en": "On the road to Valinistiy mine",
+      "caption_zh": "在前往 Valinistiy 礦場的路上",
+      "caption_type": "alt text of gallery thumbnail",
+      "date": "September 2007 (gallery section heading)",
+      "place": "road to Valinistiy mine, Chukotka",
+      "waypoint": "w03-007",
+      "match_basis": "Caption names the Valinistiy mine; w03-007 is the 'Valinistiy' (Valunisty?) mining camp reached 2007-09. Photo is on the road towards it, exact point unknown.",
+      "credit": "No per-photo credit on the page. Published in the 'Latest Photos' gallery of the official Goliath Expedition website (goliath.mail2web.com).",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-ru-02",
+      "leg": "03",
+      "region": "Chukotka",
+      "image_url": "https://web.archive.org/web/20080316092223im_/http://goliath.mail2web.com/Photos/Latest/Lrg/55.jpg",
+      "page_url": "https://web.archive.org/web/20080530194113/http://goliath.mail2web.com/Photos/LatestPhotos.asp",
+      "caption_en": "Chowing down with two Chukchi herders",
+      "caption_zh": "與兩位楚科奇牧民一起吃飯",
+      "caption_type": "alt text of gallery thumbnail",
+      "date": "September 2007 (gallery section heading)",
+      "place": "Chukotka (not stated)",
+      "waypoint": null,
+      "match_basis": "No place given.",
+      "credit": "No per-photo credit on the page. Published in the 'Latest Photos' gallery of the official Goliath Expedition website (goliath.mail2web.com).",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-ru-03",
+      "leg": "03",
+      "region": "Chukotka",
+      "image_url": "https://web.archive.org/web/20080316093337im_/http://goliath.mail2web.com/Photos/Latest/Lrg/59.jpg",
+      "page_url": "https://web.archive.org/web/20080530194113/http://goliath.mail2web.com/Photos/LatestPhotos.asp",
+      "caption_en": "Two Chukchi herders",
+      "caption_zh": "兩位楚科奇牧民",
+      "caption_type": "alt text of gallery thumbnail",
+      "date": "September 2007 (gallery section heading)",
+      "place": "Chukotka (not stated)",
+      "waypoint": null,
+      "match_basis": "No place given.",
+      "credit": "No per-photo credit on the page. Published in the 'Latest Photos' gallery of the official Goliath Expedition website (goliath.mail2web.com).",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-ru-04",
+      "leg": "03",
+      "region": "Chukotka",
+      "image_url": "https://web.archive.org/web/20080316090635im_/http://goliath.mail2web.com/Photos/Latest/Lrg/57.jpg",
+      "page_url": "https://web.archive.org/web/20080530194113/http://goliath.mail2web.com/Photos/LatestPhotos.asp",
+      "caption_en": "Low rivers making life easier",
+      "caption_zh": "河水低淺，讓日子好過一些",
+      "caption_type": "alt text of gallery thumbnail",
+      "date": "September 2007 (gallery section heading)",
+      "place": "Chukotka (not stated)",
+      "waypoint": null,
+      "match_basis": "No place given.",
+      "credit": "No per-photo credit on the page. Published in the 'Latest Photos' gallery of the official Goliath Expedition website (goliath.mail2web.com).",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-ru-05",
+      "leg": "03",
+      "region": "Chukotka",
+      "image_url": "https://web.archive.org/web/20080316091903im_/http://goliath.mail2web.com/Photos/Latest/Lrg/56.jpg",
+      "page_url": "https://web.archive.org/web/20080530194113/http://goliath.mail2web.com/Photos/LatestPhotos.asp",
+      "caption_en": "Looking back down the road",
+      "caption_zh": "回望來時的路",
+      "caption_type": "alt text of gallery thumbnail",
+      "date": "September 2007 (gallery section heading)",
+      "place": "Chukotka (not stated)",
+      "waypoint": null,
+      "match_basis": "No place given.",
+      "credit": "No per-photo credit on the page. Published in the 'Latest Photos' gallery of the official Goliath Expedition website (goliath.mail2web.com).",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-ru-06",
+      "leg": "03",
+      "region": "Siberia (unspecified)",
+      "image_url": "https://i.guim.co.uk/img/media/2a7ce18b6f2737867d25c26c2e48f39ddd06e2da/477_0_1123_693/master/1123.jpg?width=445&dpr=1&s=none&crop=none",
+      "page_url": "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull",
+      "caption_en": "In Siberia, 2008.",
+      "caption_zh": "2008 年，在西伯利亞。",
+      "caption_type": "figure caption",
+      "alt_en": "Wearing a huge rucksack, he treks across a lifeless brown plain with snowy mountains in the distance",
+      "date": "2008 (year as stated in caption)",
+      "place": "Siberia",
+      "waypoint": null,
+      "match_basis": "Only 'Siberia, 2008' given. The 2008 season ended at Bilibino (w03-010) per project data, but the photo's position is not stated.",
+      "credit": "Photograph: Courtesy of Karl Bushby",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-ru-07",
+      "leg": "03",
+      "region": "Chukotka / Yakutia (unspecified)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/afbe926e-dad0-4eb6-a28f-bbebfdfed5b0/2011.jpg",
+      "page_url": "https://web.archive.org/web/20251007200315/https://www.westboundhorizons.com/goliath-expedition",
+      "caption_en": "After Bushby secured new sponsors in 2010, the Russian government issued him another visa, and he resumed walking across Russia in the spring of 2011.",
+      "caption_zh": "Bushby 在 2010 年找到新的贊助商後，俄羅斯政府再次核發簽證給他，他於 2011 年春天恢復徒步穿越俄羅斯。",
+      "caption_type": "adjacent page paragraph (image has no individual caption; file name is '2011.jpg')",
+      "date": "2011 (from file name '2011.jpg' and adjacent paragraph; not an explicit caption)",
+      "place": "Russia (not stated)",
+      "waypoint": null,
+      "match_basis": "2011 season ran Anyuysk (w03-011) to Srednekolymsk (w03-013) per project data; photo position not stated.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-mn-01",
+      "leg": "04",
+      "region": "Mongolia",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/5ecb8199-4da4-4b23-8740-9455d7971828/DSC_1730.jpg",
+      "page_url": "https://web.archive.org/web/20251007200315/https://www.westboundhorizons.com/goliath-expedition",
+      "caption_en": "While in Ulaanbaatar, Karl, along with fellow adventurers, hatched a plan together to continue the journey using ten Bactrian camels.",
+      "caption_zh": "在烏蘭巴托期間，Karl 與幾位冒險同伴一起構思了一個計畫：用十頭雙峰駱駝繼續旅程。",
+      "caption_type": "adjacent page paragraph (image has no individual caption)",
+      "date": "2017 (paragraph context; photo not individually dated)",
+      "place": "Mongolia (photo location not stated)",
+      "waypoint": null,
+      "match_basis": "Paragraph concerns Ulaanbaatar (w04-002) but the photo's location is not stated.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-mn-02",
+      "leg": "04",
+      "region": "Mongolia",
+      "image_url": "https://explorersweb.com/wp-content/uploads/2025/04/ScreenShot2021-07-26at7.30.40PM-e1745831204751.jpg",
+      "page_url": "https://explorersweb.com/karl-bushby-begins-home-stretch-of-27-year-round-the-world-walk/",
+      "caption_en": "The Silk Road.",
+      "caption_zh": "絲路。",
+      "caption_type": "figure caption",
+      "date": "photo undated by source (article published 2025-04-28); the same image appears in the Mongolia camel-journey section of westboundhorizons.com/goliath-expedition",
+      "place": "not stated (Mongolia camel journey per WestBound Horizons page context)",
+      "waypoint": null,
+      "match_basis": "No place given.",
+      "credit": "Photo: Karl Bushby",
+      "also_published": [
+        {
+          "page_url": "https://web.archive.org/web/20251007200315/https://www.westboundhorizons.com/goliath-expedition",
+          "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/c9462b45-55a4-4956-b923-baf064a43f7b/Screen+Shot+2021-07-26+at+7.30.40+PM.jpg",
+          "caption_en": null,
+          "credit": "none on page (WestBound Horizons)",
+          "image_verified": {
+            "http_status": 206,
+            "content_type": "image/jpeg"
+          }
+        }
+      ],
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-mn-03",
+      "leg": "04",
+      "region": "Mongolia",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/a4518b62-8ae9-4909-8cc1-023940f28b31/Screen+Shot+2021-07-26+at+8.45.08+PM.jpg",
+      "page_url": "https://web.archive.org/web/20251007200315/https://www.westboundhorizons.com/goliath-expedition",
+      "caption_en": "The expedition set off from Ulaanbaatar just prior to winter 2017 and covered 700 miles before disagreements between team members led to the dissolution of the camel journey and Karl continued into China alone.",
+      "caption_zh": "探險隊在 2017 年入冬前從烏蘭巴托出發，走了 700 英里後，因隊員間的分歧，駱駝之旅解散，Karl 獨自繼續前往中國。",
+      "caption_type": "adjacent page paragraph (image has no individual caption)",
+      "date": "winter 2017 onward (paragraph context; photo not individually dated)",
+      "place": "Mongolia (not stated)",
+      "waypoint": null,
+      "match_basis": "No place given for the photo.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-mn-04",
+      "leg": "04",
+      "region": "Mongolia",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/3f4a0eec-b9fd-41ca-a4e8-e7ff12aaaf4f/Screen+Shot+2021-07-26+at+8.30.30+PM.jpg",
+      "page_url": "https://web.archive.org/web/20251007200315/https://www.westboundhorizons.com/goliath-expedition",
+      "caption_en": "The expedition set off from Ulaanbaatar just prior to winter 2017 and covered 700 miles before disagreements between team members led to the dissolution of the camel journey and Karl continued into China alone.",
+      "caption_zh": "探險隊在 2017 年入冬前從烏蘭巴托出發，走了 700 英里後，因隊員間的分歧，駱駝之旅解散，Karl 獨自繼續前往中國。",
+      "caption_type": "adjacent page paragraph (image has no individual caption)",
+      "date": "winter 2017 onward (paragraph context; photo not individually dated)",
+      "place": "Mongolia (not stated)",
+      "waypoint": null,
+      "match_basis": "No place given for the photo.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-mn-05",
+      "leg": "04",
+      "region": "Mongolia",
+      "image_url": "https://s3.amazonaws.com/www.explorersweb.com/wp-content/uploads/2019/04/24004340/steppes-to-the-west-team-1024x683.jpg",
+      "page_url": "https://explorersweb.com/hiking-the-world-updates-from-the-road/",
+      "caption_en": "Karl Bushby (second from left), Jamie Ramsay (right), Angela Maxwell (second from right) and the rest of the team.",
+      "caption_zh": "Karl Bushby（左二）、Jamie Ramsay（右一）、Angela Maxwell（右二）與其他隊員。",
+      "caption_type": "figure caption",
+      "date": "photo undated by source (article published 2019-04-16; article says the team joined forces in Ulaanbaatar in late 2017)",
+      "place": "not stated",
+      "waypoint": null,
+      "match_basis": "Photo location not stated (article text says the team formed in Ulaanbaatar, w04-002, but does not place the photo).",
+      "credit": "Photo: Steppes to the West",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-mn-06",
+      "leg": "04",
+      "region": "Mongolia",
+      "image_url": "https://i.guim.co.uk/img/media/4fe22ca53bcce565c03f482c1e39d5d91ac49b8d/0_0_1920_1088/master/1920.jpg?width=445&dpr=1&s=none&crop=none",
+      "page_url": "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull",
+      "caption_en": "Dinner in Mongolia.",
+      "caption_zh": "在蒙古吃晚餐。",
+      "caption_type": "figure caption",
+      "alt_en": "He eats dinner in a tent, looking lonely",
+      "date": "photo undated by source (article published 2026-10-13)",
+      "place": "Mongolia",
+      "waypoint": null,
+      "match_basis": "Only the country is given.",
+      "credit": "Photograph: Courtesy of Karl Bushby",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-uz-01",
+      "leg": "04",
+      "region": "Uzbekistan",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/c10a4549-bb35-4ef6-9dd9-94397e87de1c/Uzbekistan+2019.jpg",
+      "page_url": "https://web.archive.org/web/20251007200315/https://www.westboundhorizons.com/goliath-expedition",
+      "caption_en": "Bushby crossed into Uzbekistan and secured a 30 day visa continuing through Turkmenistan and reaching the Iran border a month later where the voyage is currently on pause due to visa issues, the COVID-19 pandemic and geopolitical crises.",
+      "caption_zh": "Bushby 進入烏茲別克，並取得 30 天簽證繼續穿越土庫曼，一個月後抵達伊朗邊境；由於簽證問題、COVID-19 疫情與地緣政治危機，旅程目前在該處暫停。",
+      "caption_type": "adjacent page paragraph (image has no individual caption; file name 'Uzbekistan 2019.jpg')",
+      "date": "2019 (from file name and paragraph; not an explicit caption)",
+      "place": "Uzbekistan (not further specified)",
+      "waypoint": null,
+      "match_basis": "Only the country is indicated.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-uz-02",
+      "leg": "04",
+      "region": "Uzbekistan",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/94f8168a-852c-4929-aa75-2dd10f12ecd1/Uzbekistan+2019b.jpg",
+      "page_url": "https://web.archive.org/web/20251007200315/https://www.westboundhorizons.com/goliath-expedition",
+      "caption_en": "Bushby crossed into Uzbekistan and secured a 30 day visa continuing through Turkmenistan and reaching the Iran border a month later where the voyage is currently on pause due to visa issues, the COVID-19 pandemic and geopolitical crises.",
+      "caption_zh": "Bushby 進入烏茲別克，並取得 30 天簽證繼續穿越土庫曼，一個月後抵達伊朗邊境；由於簽證問題、COVID-19 疫情與地緣政治危機，旅程目前在該處暫停。",
+      "caption_type": "adjacent page paragraph (image has no individual caption; file name 'Uzbekistan 2019b.jpg')",
+      "date": "2019 (from file name and paragraph; not an explicit caption)",
+      "place": "Uzbekistan (not further specified)",
+      "waypoint": null,
+      "match_basis": "Only the country is indicated.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-uz-03",
+      "leg": "04",
+      "region": "Uzbekistan",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/2e7339ef-8636-4f5f-b7c3-ab4f314b0f11/Screen+Shot+2023-03-25+at+9.01.58+AM.png",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "We are relived to finally reunite with the Beast and all, (well almost all), my equipment that was left in Turkmenistan three years earlier.",
+      "caption_zh": "我們終於與 the Beast（手推車）以及三年前留在土庫曼的所有（嗯，幾乎所有）裝備重聚，鬆了一口氣。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 27/03/2023)",
+      "date": "entry dated 27/03/2023 (as printed on the page)",
+      "place": "Tashkent, Uzbekistan (entry text: 'arrive in Tashkent Uzbekistan')",
+      "waypoint": null,
+      "match_basis": "Tashkent is not a route waypoint (gear reunion before the walk restarted at Bukhara).",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/png",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-uz-04",
+      "leg": "04",
+      "region": "Uzbekistan",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/a4227d6e-60ba-4867-b77d-fee049c94343/Screen+Shot+2023-05-10+at+2.23.48+PM.png",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "Everything arrives in Bukhara and we spend a few days organizing and packing for the road gathering final supplies. Hitting the road 14/03/2023.",
+      "caption_zh": "所有東西都運抵布哈拉，我們花了幾天整理、打包上路的行裝並採買最後的補給。2023/03/14 出發上路。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 12/03/2023)",
+      "date": "entry dated 12/03/2023",
+      "place": "Bukhara, Uzbekistan",
+      "waypoint": "w04-015",
+      "match_basis": "Entry text places the team in Bukhara before the 14/03/2023 restart; w04-015 is the Bukhara restart point (2023-03-14).",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/png",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-uz-05",
+      "leg": "04",
+      "region": "Uzbekistan",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/ba610f34-087f-45c9-be43-225615ccf055/Screen+Shot+2023-05-10+at+2.27.59+PM.png",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "Everything arrives in Bukhara and we spend a few days organizing and packing for the road gathering final supplies. Hitting the road 14/03/2023.",
+      "caption_zh": "所有東西都運抵布哈拉，我們花了幾天整理、打包上路的行裝並採買最後的補給。2023/03/14 出發上路。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 12/03/2023)",
+      "date": "entry dated 12/03/2023",
+      "place": "Bukhara, Uzbekistan",
+      "waypoint": "w04-015",
+      "match_basis": "Entry text places the team in Bukhara organising and packing; w04-015 is the Bukhara restart point.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/png",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-uz-06",
+      "leg": "04",
+      "region": "Uzbekistan",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/f1756306-fb70-4966-98e8-3a4904586a2e/Screen+Shot+2023-05-10+at+2.33.12+PM.png",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "Incredible to be back on the road with the Beast after a long troubling delay.",
+      "caption_zh": "經歷漫長而令人煩惱的延宕後，能再次推著 the Beast 上路，真是太棒了。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 8/04/2023, Bukhara to Nukus)",
+      "date": "entry dated 8/04/2023",
+      "place": "between Bukhara and Nukus (entry context; exact spot not stated)",
+      "waypoint": null,
+      "match_basis": "Exact position not stated (Bukhara w04-015 to Nukus w04-016 stretch).",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell'). The same photograph is credited 'Photo: Karl Bushby' by Explorersweb (alt text 'walker pushing cart along barren road').",
+      "also_published": [
+        {
+          "page_url": "https://explorersweb.com/karl-bushby-begins-home-stretch-of-27-year-round-the-world-walk/",
+          "image_url": "https://explorersweb.com/wp-content/uploads/2025/04/ScreenShot2023-05-10at2.33.12PM-e1745831142352.jpg",
+          "caption_en": "walker pushing cart along barren road (alt text)",
+          "credit": "Photo: Karl Bushby",
+          "image_verified": {
+            "http_status": 206,
+            "content_type": "image/jpeg"
+          }
+        }
+      ],
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/png",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-kz-01",
+      "leg": "04",
+      "region": "Uzbekistan / Kazakhstan",
+      "image_url": "https://explorersweb.com/wp-content/uploads/2025/04/ScreenShot2023-06-23at4.18.45PM-e1745831193970.jpg",
+      "page_url": "https://explorersweb.com/karl-bushby-begins-home-stretch-of-27-year-round-the-world-walk/",
+      "caption_en": "Reunited with Angela Maxwell.",
+      "caption_zh": "與 Angela Maxwell 重聚。",
+      "caption_type": "figure caption",
+      "date": "photo undated by Explorersweb; on westboundhorizons.com/situ it sits under the entry dated 1/06/2023 (Nukus to the Kazakh border)",
+      "place": "not stated (WestBound Horizons entry context: desert between Nukus and the Kazakh border)",
+      "waypoint": null,
+      "match_basis": "No place given.",
+      "credit": "Photo: Karl Bushby",
+      "also_published": [
+        {
+          "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+          "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/d80f352d-99fc-4372-9b4b-a8fc84f568db/Screen+Shot+2023-06-23+at+4.18.45+PM.png",
+          "caption_en": "Between us and the border is a long and very remote stretch of desert that requires a lot of careful thought. (entry text)",
+          "credit": "none on page",
+          "image_verified": {
+            "http_status": 206,
+            "content_type": "image/png"
+          }
+        }
+      ],
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-kz-02",
+      "leg": "04",
+      "region": "Uzbekistan / Kazakhstan",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/fd876ee1-7009-4a43-9548-90ac1f57664a/Screen+Shot+2023-06-24+at+5.54.29+PM.jpg",
+      "page_url": "https://web.archive.org/web/20251007200315/https://www.westboundhorizons.com/goliath-expedition",
+      "caption_en": "Karl is joined by Angela Maxwell for the 1,600kms of hard desert, from Bukhara, Uzbekistan to the coast of the Caspian Sea Kazakhstan.",
+      "caption_zh": "Angela Maxwell 加入 Karl，一同走過從烏茲別克布哈拉到哈薩克裏海沿岸 1,600 公里的艱苦沙漠。",
+      "caption_type": "adjacent page paragraph (image has no individual caption)",
+      "date": "2023 (paragraph context; photo not individually dated)",
+      "place": "not stated (Bukhara-to-Caspian desert stretch)",
+      "waypoint": null,
+      "match_basis": "No place given.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-kz-03",
+      "leg": "04",
+      "region": "Kazakhstan",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/89d6b2f2-09ac-4060-a1a0-c27baf04f4fe/IMG_1800.JPG",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "April 14th -28th The team was joined by Erik Scheeres for the last push from Shetpe to the start point of the swim. Roughly 300 km, in an approximate 10-day walk.",
+      "caption_zh": "4 月 14 日至 28 日：Erik Scheeres 加入團隊，完成從 Shetpe 到游泳起點的最後一段。約 300 公里，步行約 10 天。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 7/04/2024)",
+      "date": "entry dated 7/04/2024; text says April 14th-28th (year not restated in the text)",
+      "place": "between Shetpe and the swim start point, Mangystau (exact spot not stated)",
+      "waypoint": null,
+      "match_basis": "Between Shetpe (w04-019) and the swim start (w04-020); exact point not stated. A road sign reading 'ЖЕТІБАЙ / ZHETYBAY' is visible in the photo (visual observation only, not source text).",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-kz-04",
+      "leg": "04",
+      "region": "Kazakhstan",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/6130e043-5d14-4e8c-95fa-4b5da4a651ac/Screen+Shot+2024-04-26+at+12.00.05+AM.jpg",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "April 14th -28th The team was joined by Erik Scheeres for the last push from Shetpe to the start point of the swim. Roughly 300 km, in an approximate 10-day walk.",
+      "caption_zh": "4 月 14 日至 28 日：Erik Scheeres 加入團隊，完成從 Shetpe 到游泳起點的最後一段。約 300 公里，步行約 10 天。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 7/04/2024)",
+      "date": "entry dated 7/04/2024; text says April 14th-28th",
+      "place": "between Shetpe and the swim start point, Mangystau (exact spot not stated)",
+      "waypoint": null,
+      "match_basis": "Shows a Caspian coastline, but the source does not say this is the swim start point (w04-020).",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-cs-01",
+      "leg": "04",
+      "region": "Azerbaijan (Baku)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/96f790e9-f557-4940-858e-a4c9c94eba8f/IMG_2669.JPG",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "June 1st We moved back to Baku to work with the Azerbaijan government who agreed to support the Caspian crossing and supplied two Azeri swimmers to join the team.",
+      "caption_zh": "6 月 1 日：我們搬回巴庫，與亞塞拜然政府合作；政府同意支持橫渡裏海，並派出兩名亞塞拜然泳者加入團隊。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 1/6/2024)",
+      "date": "entry dated 1/6/2024",
+      "place": "Baku, Azerbaijan",
+      "waypoint": "w05-001",
+      "match_basis": "Place match only (Baku). The photo belongs to the June 2024 swim preparations, about five months before the 2024-11-10 walk restart that w05-001 marks.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-cs-02",
+      "leg": "04",
+      "region": "Caspian Sea",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/d4cdadda-978d-4dae-87a7-58ef12e1ee7d/1697800582_aaaa.JPG",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "The team will be supported by the Azeri Coast Guard and a 64-meter ship.",
+      "caption_zh": "團隊將由亞塞拜然海岸防衛隊及一艘 64 公尺長的船艦提供支援。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 1/6/2024)",
+      "date": "entry dated 1/6/2024",
+      "place": "not stated (Caspian Sea)",
+      "waypoint": null,
+      "match_basis": "No place given.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-cs-03",
+      "leg": "04",
+      "region": "Caspian Sea",
+      "image_url": "https://explorersweb.com/wp-content/uploads/2025/08/Screenshot-2025-08-19-at-18.27.45-e1755624757151-1.jpg",
+      "page_url": "https://explorersweb.com/karl-bushby-back-in-europe-begins-last-leg-of-journey/",
+      "caption_en": "Crossing the Caspian Sea.",
+      "caption_zh": "橫渡裏海。",
+      "caption_type": "figure caption",
+      "alt_en": "swimmers standing in turquoise water",
+      "date": "photo undated by Explorersweb (article published 2025-08-20); on westboundhorizons.com/situ it sits under the entry dated 17/9/2024",
+      "place": "Caspian Sea (position not stated)",
+      "waypoint": null,
+      "match_basis": "No position given.",
+      "credit": "Photo: Karl Bushby",
+      "also_published": [
+        {
+          "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+          "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/e94b1285-029e-4368-84fd-f0eda3831273/17025e40-f985-45f2-bc6e-91b467737b46.jpg",
+          "caption_en": null,
+          "credit": "none on page",
+          "image_verified": {
+            "http_status": 206,
+            "content_type": "image/jpeg"
+          }
+        }
+      ],
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-cs-04",
+      "leg": "04",
+      "region": "Caspian Sea",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/e128b043-fbd3-4814-8e27-33f21d1eda43/Screenshot+1970-01-16+at+02.52.47.jpg",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "Supported by the Azeri Coastguard and Azerbaijan government, the team successfully navigated challenging conditions at sea, overcame time and distance to achieve an historic first.",
+      "caption_zh": "在亞塞拜然海岸防衛隊與亞塞拜然政府的支援下，團隊成功應對海上的艱難狀況，克服時間與距離，達成史上首見的壯舉。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 17/9/2024)",
+      "date": "entry dated 17/9/2024",
+      "place": "Caspian Sea (position not stated)",
+      "waypoint": null,
+      "match_basis": "No position given.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-cs-05",
+      "leg": "04",
+      "region": "Caspian Sea",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/81bdba60-bc73-4c76-8027-f42de3b751a9/Screenshot+2024-10-19+at+14.18.22.jpg",
+      "page_url": "https://web.archive.org/web/20251007200315/https://www.westboundhorizons.com/goliath-expedition",
+      "caption_en": "The team will be supported by two support boats. The first from the port of Aktau while in Kazakh waters and later an Azeri 64-meter long Coast Guard ship.",
+      "caption_zh": "團隊將由兩艘支援船隨行：在哈薩克水域時由阿克套港出發的第一艘，之後由一艘 64 公尺長的亞塞拜然海岸防衛隊船艦接手。",
+      "caption_type": "adjacent page paragraph (image has no individual caption)",
+      "date": "2024 (paragraph context; photo not individually dated)",
+      "place": "Caspian Sea (position not stated)",
+      "waypoint": null,
+      "match_basis": "No position given; the source does not say which support boat is shown.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-cs-06",
+      "leg": "04",
+      "region": "Caspian Sea",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/1280/cpsprodpb/a0f5/live/d74af770-42ab-11ef-9df0-ad0ffc5bab16.jpg",
+      "page_url": "https://www.bbc.co.uk/news/articles/cp8rd3n80j4o",
+      "caption_en": "Karl took 31 days to swim across the Caspian Sea to Azerbaijan in 2024",
+      "caption_zh": "2024 年，Karl 花了 31 天游泳橫渡裏海抵達亞塞拜然",
+      "caption_type": "figure caption",
+      "alt_en": "A man wearing sunglasses and a wetsuit, with a calm Caspian Sea in the background on a brightly sunny day.",
+      "date": "photo undated by source (article published 2026-06-20)",
+      "place": "Caspian Sea (background)",
+      "waypoint": null,
+      "match_basis": "No position given.",
+      "credit": "Image source, Karl Bushby",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-cs-07",
+      "leg": "04",
+      "region": "Caspian Sea",
+      "image_url": "https://explorersweb.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-210657.jpg",
+      "page_url": "https://explorersweb.com/karl-bushby-is-back-in-the-uk-after-swimming-the-channel/",
+      "caption_en": "Karl Bushby during his Caspian Sea swim",
+      "caption_zh": "Karl Bushby 在游泳橫渡裏海期間",
+      "caption_type": "alt text (visible caption is only the credit)",
+      "date": "photo undated by source (article published 2026-10-06)",
+      "place": "Caspian Sea",
+      "waypoint": null,
+      "match_basis": "No position given.",
+      "credit": "Photo: Karl Bushby",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-cs-08",
+      "leg": "04",
+      "region": "Azerbaijan (Baku)",
+      "image_url": "https://i.guim.co.uk/img/media/fee8ea5cee413d8e53a247657fc629dae533b4d1/0_151_853_1066/master/853.jpg?width=445&dpr=1&s=none&crop=none",
+      "page_url": "https://www.theguardian.com/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull",
+      "caption_en": "Karl Bushby and Angela Maxwell in the waters off Baku 2024, preparing to swim the Caspian.",
+      "caption_zh": "2024 年，Karl Bushby 與 Angela Maxwell 在巴庫外海，為游泳橫渡裏海做準備。",
+      "caption_type": "figure caption",
+      "date": "2024 (year as stated in caption)",
+      "place": "waters off Baku, Azerbaijan",
+      "waypoint": null,
+      "match_basis": "Pre-swim preparation off Baku; no matching waypoint (w05-001 Baku marks the Nov 2024 walk restart, w04-021 the landfall).",
+      "credit": "Photograph: https://www.tiktok.com/@karlcbushby",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-cs-09",
+      "leg": "04",
+      "region": "Azerbaijan (landfall)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/f4857759-06c8-4923-b1cd-4c564b6eb36d/Screenshot+2024-10-15+at+18.26.53.jpg",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "31 days, 288kms and over 132hrs of swimming, the team arrives on the coast of Azerbaijan to a warm welcome.",
+      "caption_zh": "歷經 31 天、288 公里、超過 132 小時的游泳，團隊抵達亞塞拜然海岸，受到熱烈歡迎。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 17/9/2024)",
+      "date": "entry dated 17/9/2024",
+      "place": "coast of Azerbaijan (entry text; exact beach not named)",
+      "waypoint": "w04-021",
+      "match_basis": "Placed under the landfall entry, which says the team 'arrives on the coast of Azerbaijan'; w04-021 is the Azerbaijan landfall (2024-09-17). The page does not caption this image individually.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell'). The same photograph is credited 'Photo: Karl Bushby' by Explorersweb, caption 'The Caspian Sea team.'",
+      "also_published": [
+        {
+          "page_url": "https://explorersweb.com/karl-bushby-begins-home-stretch-of-27-year-round-the-world-walk/",
+          "image_url": "https://explorersweb.com/wp-content/uploads/2025/04/Screenshot2024-10-15at18.26.53-e1745831179297.jpg",
+          "caption_en": "The Caspian Sea team.",
+          "credit": "Photo: Karl Bushby",
+          "image_verified": {
+            "http_status": 206,
+            "content_type": "image/jpeg"
+          }
+        }
+      ],
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-cs-10",
+      "leg": "04",
+      "region": "Azerbaijan (landfall)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/f8583361-fe84-4655-bfbe-1d54bbd4a31f/Screenshot+2024-09-18+at+18.36.38.jpg",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "31 days, 288kms and over 132hrs of swimming, the team arrives on the coast of Azerbaijan to a warm welcome.",
+      "caption_zh": "歷經 31 天、288 公里、超過 132 小時的游泳，團隊抵達亞塞拜然海岸，受到熱烈歡迎。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 17/9/2024)",
+      "date": "entry dated 17/9/2024",
+      "place": "coast of Azerbaijan (entry text; exact beach not named)",
+      "waypoint": "w04-021",
+      "match_basis": "Placed under the landfall entry ('arrives on the coast of Azerbaijan to a warm welcome'); w04-021 is the landfall. Not individually captioned.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-cs-11",
+      "leg": "04",
+      "region": "Azerbaijan (landfall)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/4008338d-b488-4594-ae73-55d2287e7782/Screenshot+2024-10-16+at+22.20.36.jpg",
+      "page_url": "https://web.archive.org/web/20251007200315/https://www.westboundhorizons.com/goliath-expedition",
+      "caption_en": "31 days, 288kms and over 132hrs of swimming, the team arrives on the coast of Azerbaijan to a warm welcome.",
+      "caption_zh": "歷經 31 天、288 公里、超過 132 小時的游泳，團隊抵達亞塞拜然海岸，受到熱烈歡迎。",
+      "caption_type": "adjacent page paragraph (image has no individual caption)",
+      "date": "2024 (paragraph context)",
+      "place": "coast of Azerbaijan (paragraph text; exact beach not named)",
+      "waypoint": "w04-021",
+      "match_basis": "Image follows the paragraph describing the arrival on the Azerbaijan coast; w04-021 is the landfall. Not individually captioned.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-tr-01",
+      "leg": "05",
+      "region": "Turkey (Istanbul)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/7e346f30-1082-4bf7-98fb-4782017e4073/IMG_6516.jpg",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "Arriving in Istanbul on the 25/4/2025, a week later Karl had secured permission from the local government to use the famous ‘15th of July Martyrs bridge’, to cross to the European side of Istanbul.",
+      "caption_zh": "2025/04/25 抵達伊斯坦堡；一週後，Karl 取得地方政府許可，走上著名的「7 月 15 日烈士大橋」，跨越到伊斯坦堡的歐洲一側。",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 1/5/2025)",
+      "date": "entry dated 1/5/2025 (crossing 'a week later' than 25/4/2025)",
+      "place": "15 July Martyrs (Bosphorus) Bridge, Istanbul",
+      "waypoint": "w05-008",
+      "match_basis": "Entry text describes the bridge crossing; the photo shows Karl with his cart on a bridge high above water. Explorersweb publishes the same photo credited to Karl Bushby. Neither source labels this exact frame as the Martyrs bridge, so the match rests on entry context.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell'). The same photograph is credited 'Photo: Karl Bushby' by Explorersweb, caption 'Back in Turkey to finish the 27-year-long journey.'",
+      "also_published": [
+        {
+          "page_url": "https://explorersweb.com/karl-bushby-back-in-europe-begins-last-leg-of-journey/",
+          "image_url": "https://explorersweb.com/wp-content/uploads/2025/08/Screenshot-2025-08-19-at-18.29.27-e1755624747727-1-1.jpg",
+          "caption_en": "Back in Turkey to finish the 27-year-long journey.",
+          "credit": "Photo: Karl Bushby",
+          "image_verified": {
+            "http_status": 206,
+            "content_type": "image/jpeg"
+          }
+        }
+      ],
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-tr-02",
+      "leg": "05",
+      "region": "Turkey (Istanbul)",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/617ed88966d5855869d4dcc5/117ab39e-8ad0-4101-b542-1573d64cdf5c/IMG_6507.jpg",
+      "page_url": "https://web.archive.org/web/20251001034217/https://www.westboundhorizons.com/situ",
+      "caption_en": "Arriving in Istanbul on the 25/4/2025",
+      "caption_zh": "2025/04/25 抵達伊斯坦堡",
+      "caption_type": "text of the dated update entry the photo is placed under (entry dated 1/5/2025)",
+      "date": "entry dated 1/5/2025",
+      "place": "Istanbul",
+      "waypoint": null,
+      "match_basis": "Source says only 'Istanbul'. The skyline appears to show a large hilltop mosque (possibly Çamlıca, Üsküdar = w05-007), but that is visual inference, not source text.",
+      "credit": "No per-photo credit on the page. Published on WestBound Horizons (westboundhorizons.com), the expedition website of Karl Bushby and Angela Maxwell (page footer lists 'Karl Bushby' and 'Angela Maxwell').",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-uk-01",
+      "leg": "05",
+      "region": "England (Channel landfall)",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/870/cpsprodpb/3a36/live/70633990-c1ad-11f1-93a9-f546f29a5f8e.png",
+      "page_url": "https://www.bbc.co.uk/news/articles/cxddv8q9pvrzo",
+      "caption_en": "Bushby steps foot on Shakespeare beach near Dover in Kent",
+      "caption_zh": "Bushby 踏上肯特郡多佛附近的莎士比亞海灘",
+      "caption_type": "figure caption",
+      "alt_en": "A man in a wetsuit emerges from the sea on a sunny Kent beach, watched by family and friends.",
+      "date": "2026-10-05 per project data (article published 2026-10-06; caption itself gives no date)",
+      "place": "Shakespeare Beach, near Dover, Kent",
+      "waypoint": "w05-034",
+      "match_basis": "Caption names Shakespeare beach near Dover.",
+      "credit": "Image source, Karl Bushby",
+      "also_published": [
+        {
+          "page_url": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go",
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/1152/cpsprodpb/3ac6/live/4546a560-d12c-11f1-a701-fddedf244c16.png",
+          "caption_en": "Bushby emerges from the English Channel near Dover",
+          "credit": "Karl Bushby",
+          "image_verified": {
+            "http_status": 206,
+            "content_type": "image/png"
+          }
+        }
+      ],
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/png",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-uk-02",
+      "leg": "05",
+      "region": "England (Channel landfall)",
+      "image_url": "https://explorersweb.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-at-11.37.30-AM.jpg",
+      "page_url": "https://explorersweb.com/karl-bushby-is-back-in-the-uk-after-swimming-the-channel/",
+      "caption_en": "Bushby emerges from the water after swimming the Channel.",
+      "caption_zh": "Bushby 游泳橫渡英吉利海峽後從水中走出。",
+      "caption_type": "figure caption",
+      "alt_en": "swimmer in wetsuit walking out of water",
+      "date": "photo undated by source; article says he reached Shakespeare Beach on October 5 (2026)",
+      "place": "not stated in caption (article: Shakespeare Beach, south of Dover)",
+      "waypoint": "w05-034",
+      "match_basis": "The article states Bushby reached Shakespeare Beach, near Dover, after the Channel swim; w05-034 is Shakespeare Beach (2026-10-05).",
+      "credit": "Photo: Karl Bushby/Instagram",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-uk-03",
+      "leg": "05",
+      "region": "England (Channel landfall)",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/507/cpsprodpb/cd4e/live/bcd0b980-c1ab-11f1-8fa2-19a1e9b6288f.jpg",
+      "page_url": "https://www.bbc.co.uk/news/articles/cxddv8q9pvrzo",
+      "caption_en": "Karl Bushby, left, is welcomed back on UK soil by filmmaker Werner Herzog",
+      "caption_zh": "Karl Bushby（左）回到英國土地上，電影導演 Werner Herzog 前來迎接",
+      "caption_type": "figure caption",
+      "alt_en": "Karl Bushby in an orange and black wet suit talks with filmmaker Werner Herzog on a Kent beach after swimming the English Channel.",
+      "date": "photo undated by source (article published 2026-10-06)",
+      "place": "a Kent beach (alt text); article: Shakespeare beach near Dover",
+      "waypoint": "w05-034",
+      "match_basis": "Alt text says Kent beach after the Channel swim; the same article names Shakespeare beach near Dover as the landing.",
+      "credit": "Image source, Karl Bushby",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    },
+    {
+      "id": "kb-uk-04",
+      "leg": "05",
+      "region": "England (Channel landfall)",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/516/cpsprodpb/9112/live/84716410-c1ae-11f1-93a9-f546f29a5f8e.jpg",
+      "page_url": "https://www.bbc.co.uk/news/articles/cxddv8q9pvrzo",
+      "caption_en": "Karl Bushby is one step closer to his journey's end after reaching the UK",
+      "caption_zh": "抵達英國後，Karl Bushby 離旅程終點又近了一步",
+      "caption_type": "figure caption",
+      "alt_en": "A man in an orange and black wetsuit poses for a photo on a beach with the sea behind him.",
+      "date": "photo undated by source (article published 2026-10-06)",
+      "place": "a beach (not named in caption/alt)",
+      "waypoint": "w05-034",
+      "match_basis": "Article context only: the article reports the landing at Shakespeare beach; caption/alt do not name the beach.",
+      "credit": "Image source, Karl Bushby",
+      "image_verified": {
+        "http_status": 206,
+        "content_type": "image/jpeg",
+        "checked": "2026-11-02"
+      }
+    }
+  ],
+  "notes": "Compiled 2026-11-02. All caption_en strings were machine-checked as verbatim substrings of the saved page HTML (visible text or, where caption_type says so, the alt attribute); all image_url values returned HTTP 200/206 with an image/* content type on 2026-11-02; all waypoint ids exist in data/route.json. caption_type tells you how the caption relates to the photo. 'figure caption' and 'alt text' are per-image. 'text of the dated update entry' and 'adjacent page paragraph' mean the source has no per-image caption, so the quoted text is the entry or paragraph the image sits in or next to. Treat those as context, not as a strict caption. Visual observations in match_basis are labelled as such and are not source claims.\n\nSOURCES USED\n(1) westboundhorizons.com (Karl Bushby and Angela Maxwell's expedition site, Squarespace). Wayback CDX found only a few HTML pages; /situ (dated update entries 2021-2025) and /goliath-expedition (narrative) had expedition photos. Used snapshots 20251001034217 (/situ) and 20251007200315 (/goliath-expedition). The live domain now redirects to a parked or spam domain, but the images still load from images.squarespace-cdn.com, which these image_url values use. The CDN may serve WebP to browsers. No per-photo credits on this site.\n(2) goliath.mail2web.com /Photos/LatestPhotos.asp, Wayback 20080530194113: an official gallery with alt-text captions. Large images load via Wayback im_ URLs, with the 2008-03-16 captures used.\n(3) Explorersweb articles: photos credited 'Photo: Karl Bushby', 'Photo: Karl Bushby/Instagram' or 'Photo: Steppes to the West'.\n(4) BBC News articles: only images whose 'Image source' is 'Karl Bushby' were kept.\n(5) The Guardian, 2026-10-13: only 'Photograph: Courtesy of Karl Bushby' or Karl's TikTok were kept.\nSeveral WestBound Horizons and gallery photos are also published by Explorersweb or the BBC with a Karl Bushby credit. These are listed in also_published, which strengthens the attribution.\n\nCHECKED AND REJECTED\n- goliath.mail2web.com gallery, October/November 2007 (images 60-73): the alt texts are repeated template strings ('October 6th', 'Oct. 15 - On route to Komsomolskiy', etc.) that visibly do not match the photos (e.g. an indoor group shot captioned 'On route'), so they were all skipped. The May/March 2007 blocks (39-49) have the same problem: for example, 'Downtown Anadyr' shows Karl addressing schoolchildren. Image 54 is captioned 'Oct. 27 - Road to Komsomolskiy' but sits under the 'September 2007' heading, so it was also skipped.\n- blog.goliath.mail2web.com 2007-2008 posts (route.json sources 03:S34-S44): no photos in the archived posts, only banners.\n- westboundhorizons.com images skipped because no source text describes them: Russia 2015 ('Russia+2015.jpg'); a frame showing Karl at a 'СОЛОВЬЕВСК' (Solovyevsk) road sign (vlcsnap-2017); the US protest-walk images (IMG_2185/2190/99.jpg, ambiguous placement); highway and snow images in the 1/5/2025 entry (Azerbaijan/Georgia/Turkey, no description); Uzbekistan desert images under entries whose text describes other events (e.g. 26/06/2023 photos taken before the border crossing they sit under); dust-storm, sunset, camel-silhouette and blister photos; maps, Washington Post screenshots and portraits.\n- BBC images credited to BBC staff (Kevin Shoesmith, Crispin Rolfe), Getty, Reuters or Anadolu were excluded, which removed all Belgium/Mons and Lincolnshire photos. BBC Karl-credited images with no place in the caption or alt (snowy road in a red coat; desert road in a shemagh; cart in a sunhat) were also excluded.\n- Guardian photos credited to Alicia Canter/The Guardian or Zach Guglin were excluded, as were Karl-credited ones from legs 01/02 outside this scope.\n- Hull Daily Mail 2020 article (Wayback): photos have no credit or place, so none were used. Azertag was not used because its photos are agency photos, not credited to Karl.\n- Explorersweb 2021 'Where in the World is Karl Bushby?' photos are credited to Karl but name no place, so they were skipped. The Steppes to the West photos in the 2019 Norjmaa interview were taken after Karl left, so they were skipped.\n- Wikimedia Commons: Category:Karl_Bushby holds only a route map (File:Goliatexpeditionmap.jpg), with no photographs.\n- karlbushby.world returned HTTP 429 to automated requests and has no Wayback captures, so it was not used. Karl's Instagram and TikTok accounts were not scraped.\n- The Wayback CDX API intermittently returned 504 or 'Temporarily Offline'.\n\nGAPS\nNo Karl- or team-credited, captioned photos were found for: Yakutia / Road of Bones / Amur / Zabaykalye (2015-2017), the Russia-Mongolia border, China/Xinjiang, Kazakhstan 2018-19, Turkmenistan, Georgia, Turkey east of Istanbul, the Balkans, Romania, Hungary, Austria, Germany, Belgium, France, or the walk through England after Dover. Several kept photos have waypoint=null because the source names no position. The 'region' field lets the map group them if wanted.\n\nLEG 02 NOTE\nThe kb-bs-* items are the March 2006 Bering Strait crossing with Dimitri Kieffer (leg 02, included per the brief). kb-bs-01 maps to w02-080 (Uelen)."
+}
