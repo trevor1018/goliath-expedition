@@ -108,10 +108,56 @@ class NiceScale {
 // ---------------------------------------------------------------------------
 // 啟動
 // ---------------------------------------------------------------------------
-fetch('data/expedition.json').then((r) => r.json()).then(init).catch((e) => {
-  document.body.insertAdjacentHTML('beforeend',
-    `<p style="position:fixed;top:40%;width:100%;text-align:center">資料載入失敗：${esc(e)}<br>請用本機伺服器開啟（例如在 web/ 目錄執行 python -m http.server）</p>`);
-});
+// 載入畫面：依序是地圖程式（HTML 已載入）→ 路線資料 → 底圖；底圖太慢時讓使用者自行先進入
+const loading = {
+  msg(t) { $('#ld-msg').textContent = t; },
+  extra(html) { $('#ld-extra').innerHTML = html; },
+  done() {
+    const el = $('#loading');
+    if (!el || el.classList.contains('done')) return;
+    clearTimeout(loading.slowTimer);
+    el.classList.add('done');
+    setTimeout(() => el.remove(), 600);
+  },
+  fail(what, e) {
+    $('#loading').classList.add('failed');
+    loading.msg(`${what}載入失敗${e ? `：${e.message || e}` : ''}`);
+    loading.extra('網路可能不穩，請重新整理再試一次。<br><button type="button" onclick="location.reload()">重新整理</button>');
+  },
+};
+
+async function loadData() {
+  const r = await fetch('data/expedition.json');
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  if (!r.body || !r.body.getReader) return r.json();
+  // 逐段讀取以顯示已下載量（GitHub Pages 會壓縮傳輸，總量未知，只顯示解壓後的 MB 數）
+  const reader = r.body.getReader(), parts = [];
+  let got = 0;
+  for (;;) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    parts.push(value);
+    got += value.length;
+    loading.msg(`下載路線資料… ${(got / 1048576).toFixed(1)} MB`);
+  }
+  const buf = new Uint8Array(got);
+  let off = 0;
+  for (const p of parts) { buf.set(p, off); off += p.length; }
+  return JSON.parse(new TextDecoder().decode(buf));
+}
+
+if (typeof maplibregl === 'undefined') loading.fail('地圖程式');
+else {
+  loading.msg('下載路線資料…');
+  loadData().then((data) => {
+    loading.msg('繪製地圖…');
+    init(data);
+  }).catch((e) => {
+    console.error(e);
+    if (D) loading.fail('網站', e);
+    else loading.fail('路線資料', location.protocol === 'file:' ? '請用本機伺服器開啟（在 web/ 目錄執行 python -m http.server）' : e);
+  });
+}
 
 function init(data) {
   D = data;
@@ -138,6 +184,13 @@ function init(data) {
   cc.addEventListener('touchstart', (e) => { if (e.touches.length > 1) freeScale(); }, { passive: true });
   map.getContainer().addEventListener('click', (e) => { if (e.target.closest('.maplibregl-ctrl-zoom-in, .maplibregl-ctrl-zoom-out')) freeScale(); });
   map.on('load', setupLayers);
+  map.on('load', loading.done);
+  // 底圖伺服器很慢時，15 秒後提供「先進入」，避免一直卡在載入畫面
+  loading.slowTimer = setTimeout(() => {
+    loading.msg('底圖下載較慢，仍在載入…');
+    loading.extra('<button type="button" id="ld-skip">先進入網站</button>');
+    $('#ld-skip').onclick = loading.done;
+  }, 15000);
   const foldAttrib = () => document.querySelector('.maplibregl-ctrl-attrib')?.classList.remove('maplibregl-compact-show');
   map.on('load', foldAttrib);
   map.on('resize', foldAttrib);

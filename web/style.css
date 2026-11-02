@@ -26,6 +26,22 @@ button, select { font: inherit; color: var(--text); background: #232934; border:
 button:hover { border-color: var(--accent); }
 a { color: #7cc4ff; }
 
+/* ---------- 載入畫面：資料與底圖就緒前蓋住整頁，避免操作到還沒準備好的介面 ---------- */
+#loading { position: fixed; inset: 0; z-index: 100; background: var(--bg); display: flex;
+  align-items: center; justify-content: center; padding: 24px; text-align: center; transition: opacity .5s; }
+#loading.done { opacity: 0; pointer-events: none; }
+.ld-box { width: min(320px, 100%); }
+#loading h2 { margin: 0; font-size: 22px; letter-spacing: .5px; }
+.ld-sub { margin: 4px 0 22px; color: var(--muted); font-size: 13px; }
+.ld-track { position: relative; height: 3px; background: var(--line); border-radius: 2px; overflow: hidden; }
+.ld-track i { position: absolute; top: 0; bottom: 0; left: 0; width: 35%; background: var(--accent);
+  border-radius: 2px; animation: ldmove 1.4s ease-in-out infinite; }
+@keyframes ldmove { 0% { transform: translateX(-100%); } 100% { transform: translateX(290%); } }
+#ld-msg { margin: 14px 0 0; color: var(--muted); font-size: 13px; min-height: 1.5em; }
+#ld-extra { margin: 10px 0 0; font-size: 13px; color: var(--muted); }
+#ld-extra button { margin-top: 6px; }
+#loading.failed .ld-track i { animation: none; width: 100%; background: var(--deadend); }
+
 /* ---------- 頁首 ---------- */
 header { display: flex; align-items: center; justify-content: space-between; padding: 8px 16px;
   padding-left: max(16px, env(safe-area-inset-left)); padding-right: max(16px, env(safe-area-inset-right));
