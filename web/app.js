@@ -66,10 +66,8 @@ const REPORT = { github: 'trevor1018/goliath-expedition', email: '' };
 // 讓比例尺（最寬 100 px）在緯度 lat 處顯示 km 公里所需的縮放等級（100 px ≈ 1.15 × km，避免跳到下一級距）
 const zoomForKm = (km, lat) => Math.log2(40075016.686 / 512 * Math.cos(lat * Math.PI / 180) / (km * 11.5));
 // 全覽視野：比例尺顯示 1000 km；手機（直向或橫向）畫面小，用 2000 km 才看得到整顆地球
-const overview = () => {
-  const phone = window.matchMedia('(max-width: 720px), (max-height: 500px) and (orientation: landscape)').matches;
-  return { center: [-40, 15], zoom: zoomForKm(phone ? 2000 : 1000, 15) };
-};
+const overviewKm = () => (window.matchMedia('(max-width: 720px), (max-height: 500px) and (orientation: landscape)').matches ? 2000 : 1000);
+const overview = () => ({ center: [-40, 15], zoom: zoomForKm(overviewKm(), 15) });
 // 播放跟隨鏡頭時鎖定的比例尺（km）；使用者自行縮放後解除（null）
 let scaleKm = 200;
 
@@ -85,8 +83,8 @@ class NiceScale {
     this.btn.className = 'scale-btn';
     this.btn.type = 'button';
     this.wrap.append(this.el, this.btn);
-    // 在 200 km 與 1000 km 之間切換
-    this.btn.onclick = () => setScaleKm(this.nice <= 300000 ? 1000 : 200);
+    // 在 200 km 與全覽比例尺（桌機 1000 km、手機 2000 km）之間切換
+    this.btn.onclick = () => setScaleKm(this.nice <= 300000 ? overviewKm() : 200);
     this.update = () => {
       const y = m.getContainer().clientHeight / 2, x = m.getContainer().clientWidth / 2;
       const a = m.unproject([x - 50, y]), b = m.unproject([x + 50, y]);
@@ -96,8 +94,9 @@ class NiceScale {
       this.el.style.width = `${Math.round(100 * nice / full)}px`;
       this.el.textContent = nice >= 1000 ? `${(nice / 1000).toLocaleString()} km` : `${Math.round(nice)} m`;
       this.nice = nice;
-      this.btn.textContent = nice <= 300000 ? '－ 1000 km' : '＋ 200 km';
-      this.btn.title = nice <= 300000 ? '縮小到比例尺 1000 km' : '放大到比例尺 200 km';
+      const far = overviewKm().toLocaleString();
+      this.btn.textContent = nice <= 300000 ? `－ ${far} km` : '＋ 200 km';
+      this.btn.title = nice <= 300000 ? `縮小到比例尺 ${far} km` : '放大到比例尺 200 km';
     };
     m.on('move', this.update);
     m.on('load', this.update);
