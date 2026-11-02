@@ -65,8 +65,11 @@ const REPORT = { github: 'trevor1018/goliath-expedition', email: '' };
 
 // 讓比例尺（最寬 100 px）在緯度 lat 處顯示 km 公里所需的縮放等級（100 px ≈ 1.15 × km，避免跳到下一級距）
 const zoomForKm = (km, lat) => Math.log2(40075016.686 / 512 * Math.cos(lat * Math.PI / 180) / (km * 11.5));
-// 全覽視野：比例尺顯示 1000 km
-const OVERVIEW = { center: [-40, 15], zoom: zoomForKm(1000, 15) };
+// 全覽視野：比例尺顯示 1000 km；手機（直向或橫向）畫面小，用 2000 km 才看得到整顆地球
+const overview = () => {
+  const phone = window.matchMedia('(max-width: 720px), (max-height: 500px) and (orientation: landscape)').matches;
+  return { center: [-40, 15], zoom: zoomForKm(phone ? 2000 : 1000, 15) };
+};
 // 播放跟隨鏡頭時鎖定的比例尺（km）；使用者自行縮放後解除（null）
 let scaleKm = 200;
 
@@ -122,7 +125,7 @@ function init(data) {
   map = new maplibregl.Map({
     container: 'map',
     style: 'https://tiles.openfreemap.org/styles/dark',
-    center: OVERVIEW.center, zoom: OVERVIEW.zoom, maxPitch: 0,
+    ...overview(), maxPitch: 0,
     attributionControl: { compact: true },
   });
   map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'bottom-right');
@@ -703,7 +706,7 @@ function setupUI() {
     map.setPadding(tourPadding());
     sizeStorySpacer();
   });
-  $('#fit').onclick = () => map.flyTo(OVERVIEW);
+  $('#fit').onclick = () => map.flyTo(overview());
   $('#proj').onclick = () => {
     const globe = map.getProjection()?.type === 'globe';
     map.setProjection({ type: globe ? 'mercator' : 'globe' });
@@ -1497,7 +1500,7 @@ function activateChapter(i) {
     tour.anim = null;
     T = Tmax;
     applyTime();
-    map.flyTo({ ...OVERVIEW, duration: 2000 });
+    map.flyTo({ ...overview(), duration: 2000 });
     return;
   }
   const a = parseDay(it.from), b = parseDay(it.to);
