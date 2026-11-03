@@ -1,6 +1,6 @@
 # Leg 05 — Baku → Georgia → Turkey → Europe → Channel (swim) → England → Hull
 
-Research date: 2026-11-01. **Status: the expedition is NOT finished as of today.** The Hull finish is scheduled for **Monday 2 Nov 2026**. On 31 Oct he was in Lincolnshire, "embarking on his final few miles" (BBC). Re-check after 2 Nov.
+Research date: 2026-11-01, updated 2026-11-03. **Status: finished.** He crossed the Humber Bridge on Sun 1 Nov and reached his mother's home in Hull on **Monday 2 Nov 2026** (AP S40/S41, Reuters S42, BBC S43).
 
 ## Narrative (sourced; source IDs refer to leg05.json)
 
@@ -89,12 +89,12 @@ Research date: 2026-11-01. **Status: the expedition is NOT finished as of today.
 - **Route Dover → Lincolnshire: unknown.**
   - I found no source for the Thames crossing, London, Kent towns or Cambridgeshire towns.
   - One spokesperson line (via Brit Brief, rewriting ITV) puts him "near Barton in South Cambridgeshire, with about 130 miles left" on Sat 31 Oct. This is incompatible with AP's report of him near **Market Rasen, Lincolnshire, on Wed 28 Oct, "about 30 miles from the finish line"** (S31). See conflicts.
-- **Planned finish (Hull City Council, 26 Oct, S32):**
-  1. Cross the **Humber Bridge**, then head east into Hull.
-  2. Arrive at **Queen Victoria Square around 11:00 on Mon 2 Nov 2026**.
-  3. Hull Volunteers welcome him; Lord Mayor Cllr Maria Coward brings him onto a stage at City Hall; a brief private reception follows.
-  4. He then goes **north to his family home**, his mother Angela's house on the **Sutton Park estate**. That is the **official finish** (S32, S34).
-- **Arrival status as of 2026-11-01:** not arrived. Do not mark the expedition complete until there is post-event reporting.
+- **Plan (Hull City Council, 26 Oct, S32):** cross the Humber Bridge, head east into Hull, arrive at Queen Victoria Square around 11:00 on Mon 2 Nov, stage welcome by Lord Mayor Cllr Maria Coward, then north to the family home on the **Sutton Park estate** (S32, S34).
+- **What happened (post-event reports):**
+  1. **Sun 1 Nov:** crossed the **Humber Bridge** "through thick mist", crowds lining the bridge (BBC, S43). Time not reported.
+  2. **Mon 2 Nov:** set off from **Hessle** (BBC, S43) and walked to **City Hall / Queen Victoria Square**, where "hundreds of people cheered his arrival" (AP, S40/S41; ESPN S44).
+  3. He then walked "the final steps across Hull" and was reunited with his mother Angela outside her terraced house (AP; Reuters via Al Jazeera, S42). **This is the official finish.**
+  - Not reported: actual times at City Hall and at the house; where he slept on 1 Nov; whether the Lord Mayor welcomed him as planned. ESPN's Getty caption says "arrived home on Sunday", which contradicts every report (see conflicts).
 
 ### Records / Guinness
 - **Guinness World Records:** no entry or certificate found.
@@ -115,12 +115,12 @@ Research date: 2026-11-01. **Status: the expedition is NOT finished as of today.
 10. **Position on 31 Oct:** "Barton in South Cambridgeshire, 130 miles left" vs Market Rasen on 28 Oct, about 30 miles left.
     - At his stated 20–25 km/day, the "130 miles" figure cannot be reconciled with a 2 Nov arrival.
     - Possibly a garbled "Barton-upon-Humber" and/or "13 miles". That is my speculation; I have not plotted it.
-11. **Hull arrival target:** 1 Nov (Guardian, anniversary hope) vs 2 Nov (council plan) vs "end of the month" (Fox) vs September 2026 (earlier plans).
+11. **Hull arrival:** targets were 1 Nov (Guardian, anniversary hope), 2 Nov (council plan), "end of the month" (Fox) and September 2026 (earlier plans). **Resolved: Mon 2 Nov 2026** (AP, Reuters). ESPN's photo caption ("on Sunday") is an outlier; the Humber Bridge crossing was on Sunday.
 12. **Finish point:** Brit Brief garbles it as "mother's house at Queen Victoria Square". The council and BBC say Queen Victoria Square is the civic welcome and the finish is the family home.
 13. **Out of scope:** Wikipedia says he left Hull on 5 Oct 1998, which makes the Channel landfall "precisely 28 years" later. The Guardian says he set off from his mother's house on 1 Nov 1998. Flag for Leg 01.
 
 ## Open questions / gaps (priority order)
-1. Did he arrive in Hull on 2 Nov 2026? Re-check BBC Hull, Hull Live, Hull City Council, ITV Calendar and his Instagram after 2 Nov.
+1. Hull finish details: actual times at City Hall and at his mother's house, overnight stop on 1 Nov (BBC Hull, Hull Live, ITV Calendar, his Instagram).
 2. Channel swim: departure beach, start date and time, stage positions, boat name, pilot.
    - Possible sources: his Instagram/Facebook, the Walk of Life documentary, Explorersweb follow-ups.
    - Was a GPS track published?

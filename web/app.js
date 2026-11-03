@@ -410,7 +410,7 @@ function stateAt(t) {
 
 function stateText(st) {
   if (st.kind === 'before') return '尚未出發';
-  if (st.kind === 'end') return '抵達終點（預定 2026-11-02，待確認）';
+  if (st.kind === 'end') return '抵達終點（2026-11-02）';
   if (st.kind === 'move') {
     const p = featById[st.fid].properties;
     return (p.uncertain ? '路徑未知段 · ' : '') + (CAT[p.cat] || p.cat) + '中';
@@ -1011,7 +1011,13 @@ function planCardMedia(items) {
   const wpIds = Object.keys(D.waypoints).filter((id) => D.waypoints[id].place);
   const placeKey = (id) => 'p:' + D.waypoints[id].place.img;
   const cands = [];   // [card, key, score, rank, media]
-  const cardKarl = {};
+  const cardKarl = {}, cardOwn = {};
+  // 兩個經過點的大圓距離（km）
+  const km = (p, q) => {
+    const r = Math.PI / 180, h = Math.sin((q.lat - p.lat) * r / 2) ** 2
+      + Math.cos(p.lat * r) * Math.cos(q.lat * r) * Math.sin((q.lon - p.lon) * r / 2) ** 2;
+    return 12742 * Math.asin(Math.sqrt(h));
+  };
   items.forEach((it, ci) => {
     if (it.type !== 'chapter' && it.type !== 'section') return;
     const wps = (it.type === 'chapter' ? STORY[it.ci].wps : it.sec.wps) || [];
@@ -1031,6 +1037,7 @@ function planCardMedia(items) {
       add('k:' + i, (D.photos[i].small ? 8 : 10) + (t != null && t >= a && t <= b ? 1 : 0), { karl: i });
     });
     const own = wps.filter((id) => D.waypoints[id] && D.waypoints[id].place);
+    cardOwn[ci] = own;
     own.forEach((id) => {
       const pl = D.waypoints[id].place;
       add(placeKey(id), pl.kind === 'near' || pl.kind === 'city' ? 6 : 4, { wp: id });
@@ -1039,9 +1046,12 @@ function planCardMedia(items) {
     if (it.type === 'section') {
       D.photos.forEach((ph, i) => { if (ph.chapter === it.ci + 1 && !ph.waypoint) add('k:' + i, ph.small ? 4.5 : 5, { karl: i }); });
     }
-    // 時間窗內、以及時間最接近的其他經過點（依與時間窗的距離排序）
+    // 時間窗內、以及時間最接近的其他經過點（依與時間窗的距離排序）；
+    // 只取離本卡經過點 400 km 內的，避免借用遠處（甚至別的國家）的照片
     const gap = (id) => { const t = wpTime(D.waypoints[id]); return t == null ? Infinity : t < a ? a - t : t > b ? t - b : 0; };
-    wpIds.filter((id) => !own.includes(id) && gap(id) < Infinity).sort((x, y) => gap(x) - gap(y)).forEach((id) => {
+    const here = wps.map((id) => D.waypoints[id]).filter((w) => w && w.lat != null);
+    const near = (id) => { const w = D.waypoints[id]; return !here.length || (w.lat != null && here.some((h) => km(h, w) <= 400)); };
+    wpIds.filter((id) => !own.includes(id) && gap(id) < Infinity && near(id)).sort((x, y) => gap(x) - gap(y)).forEach((id) => {
       const k = D.waypoints[id].place.kind, good = k === 'near' || k === 'city';
       add(placeKey(id), gap(id) === 0 ? (good ? 3 : 2) : gap(id) < 400 ? (good ? 1 : 0.5) : 0, { wp: id });
     });
@@ -1053,6 +1063,8 @@ function planCardMedia(items) {
     cover[ci] = media;
     used.add(key);
   }
+  // 附近沒有未用過的照片時，沿用本卡經過點的地點照片（即使別張卡已用過）
+  items.forEach((it, ci) => { if (!cover[ci] && cardOwn[ci] && cardOwn[ci].length) cover[ci] = { wp: cardOwn[ci][cardOwn[ci].length - 1] }; });
   // 縮圖列：本卡其餘、尚未在任何地方用過的 Karl 照片
   const thumbs = {};
   items.forEach((it, ci) => {
@@ -1175,7 +1187,7 @@ function buildResearchPage() {
 function buildAboutPage() {
   $('#about').innerHTML = `<h2>關於這張地圖</h2>
   <p>Karl Bushby，英國前傘兵，1998 年 11 月 1 日從智利蓬塔阿雷納斯出發，給自己定下規則：<b>不使用任何交通工具推進</b>。
-  因簽證、資金、拘留等原因離開路線時，回來必須從原本停下的那一點繼續走。這趟被他稱為 Goliath Expedition 的旅程跨越南北美洲、白令海峽、西伯利亞、中亞、裏海與歐洲，預定於 2026 年 11 月 2 日回到英國赫爾。</p>
+  因簽證、資金、拘留等原因離開路線時，回來必須從原本停下的那一點繼續走。這趟被他稱為 Goliath Expedition 的旅程跨越南北美洲、白令海峽、西伯利亞、中亞、裏海與歐洲，2026 年 11 月 2 日回到英國赫爾母親的家，走完全程。</p>
   <h3>如何閱讀</h3>
   <ul>
     <li><b>實線</b>：依序經過有來源的地點。兩點之間盡量沿道路推算（OSRM 開放路網的最短路徑），這只是合理的示意，<b>不是</b> GPS 軌跡；
@@ -1203,8 +1215,8 @@ function buildAboutPage() {
   </ul>
   <h3>已知限制</h3>
   <ul>
-    <li>終點抵達（2026-11-02）在資料產生時（${esc(D.generated)}）尚未發生，屬於預定行程。</li>
-    <li>累計距離是道路推算與直線的混合估計，仍低於實際步行距離（官方說法約 36,000 英里以上）。</li>
+    <li>終點抵達（2026-11-02）已由美聯社、路透社、BBC 報導證實；抵達市政廳與回到母親家的確切時刻沒有報導。</li>
+    <li>累計距離是道路推算與直線的混合估計，仍低於實際步行距離（官方說法約 36,000 英里以上，美聯社、路透社寫約 31,000 英里）。</li>
   </ul>
   <h3>回報與授權</h3>
   <ul>
@@ -1365,8 +1377,8 @@ function buildStory() {
     }
     if (it.type === 'outro') {
       return `<article class="chapter" data-i="${i}">
-        <h2>還沒寫完的結局</h2>
-        <p>這張地圖的路線長約 ${Math.round(D.chain[D.chain.length - 1][3]).toLocaleString()} 公里，是道路推算加上直線的估計；官方說法超過 36,000 英里（約 58,000 公里），實際步行比地圖上更長。
+        <h2>路走完了，地圖還沒畫完</h2>
+        <p>這張地圖的路線長約 ${Math.round(D.chain[D.chain.length - 1][3]).toLocaleString()} 公里，是道路推算加上直線的估計；官方說法超過 36,000 英里（約 58,000 公里），美聯社與路透社的抵達報導則寫約 31,000 英里（50,000 公里）；無論哪個數字，實際步行都比地圖上更長。
         28 年裡，他真正在路上的時間遠少於等待的時間：在時間軸上，灰色的停頓帶比彩色的移動帶長得多。</p>
         <p>仍有許多空白有待補上：俄羅斯進入蒙古、戈壁到中國、羅馬尼亞、英格蘭內陸。
         各段的矛盾與未知列在「考證」頁。</p>

@@ -5374,23 +5374,24 @@
   },
   {
    "id": "w05-037",
-   "name": "Humber Bridge – PLANNED",
+   "name": "Humber Bridge (Barton-upon-Humber → Hessle)",
    "lat": 53.7064,
    "lon": -0.4505,
    "coord_basis": "town_centroid",
-   "date": "2026-11-02",
-   "date_earliest": "2026-11-02",
-   "date_latest": "2026-11-02",
+   "date": "2026-11-01",
+   "date_earliest": "2026-11-01",
+   "date_latest": "2026-11-01",
    "date_precision": "day",
-   "event": "PLANNED: cross the Humber Bridge then head east into Hull (Hull City Council). Not yet happened as of 2026-11-01.",
+   "event": "Crossed the Humber Bridge 'through thick mist' on Sun 1 Nov 2026, with crowds lining the bridge (BBC, updated 1 Nov 18:04 UTC). Time of day not reported. BBC (same article) says he would set off on Mon 2 Nov from Hessle, at the north end of the bridge; where he spent the night of 1 Nov is not reported.",
    "sources": [
+    "05:S43",
     "05:S32"
    ],
    "leg": "05"
   },
   {
    "id": "w05-038",
-   "name": "Queen Victoria Square / City Hall, Hull – PLANNED civic welcome",
+   "name": "Queen Victoria Square / City Hall, Hull – civic welcome",
    "lat": 53.7441,
    "lon": -0.3366,
    "coord_basis": "town_centroid",
@@ -5398,16 +5399,18 @@
    "date_earliest": "2026-11-02",
    "date_latest": "2026-11-02",
    "date_precision": "day",
-   "event": "PLANNED: arrive ~11:00 Mon 2 Nov 2026; welcomed by Hull Volunteers and Lord Mayor Cllr Maria Coward on stage at City Hall, brief private reception. Not the official finish point.",
+   "event": "Mon 2 Nov 2026: 'hundreds of people cheered his arrival at City Hall' (AP); ESPN: 'his final stop at Queen Victoria Square in the city centre before returning to his mother's house'. 'Sorry to keep you waiting,' he joked. The council's plan (S32) gave ~11:00 and a stage welcome by Lord Mayor Cllr Maria Coward; no post-event report gives the actual time or confirms the Lord Mayor's part. Not the official finish point.",
    "sources": [
-    "05:S32",
-    "05:S33"
+    "05:S40",
+    "05:S41",
+    "05:S44",
+    "05:S32"
    ],
    "leg": "05"
   },
   {
    "id": "w05-039",
-   "name": "Mother's home, Sutton Park estate, Hull – PLANNED official finish",
+   "name": "Mother's home, Sutton Park estate, Hull – official finish",
    "lat": 53.785,
    "lon": -0.305,
    "coord_basis": "approximate_region",
@@ -5415,9 +5418,12 @@
    "date_earliest": "2026-11-02",
    "date_latest": "2026-11-02",
    "date_precision": "day",
-   "event": "PLANNED official end of the Goliath Expedition at his childhood home (mother Angela) on the Sutton Park estate, reached by heading north after City Hall. Exact address not public (and should not be plotted precisely).",
+   "event": "Mon 2 Nov 2026: walked on from City Hall and was reunited with his mother Angela outside her terraced house in Hull (AP; Reuters via Al Jazeera), ending the Goliath Expedition. Time of arrival not reported. Arrival reports say only 'his mother's home' / 'north Hull'; the Sutton Park estate comes from earlier BBC reporting (S34, S35). Exact address not public (and should not be plotted precisely).",
    "sources": [
-    "05:S32",
+    "05:S40",
+    "05:S41",
+    "05:S42",
+    "05:S43",
     "05:S34",
     "05:S35"
    ],
@@ -10707,10 +10713,10 @@
     "Angela Maxwell"
    ],
    "counts_as_progress": true,
-   "notes": "In progress as of 1 Nov 2026.",
+   "notes": "Market Rasen → Humber Bridge (south end at Barton-upon-Humber), 28 Oct – 1 Nov 2026. Route not reported.",
    "sources": [
     "05:S31",
-    "05:S32"
+    "05:S43"
    ],
    "leg": "05",
    "via": []
@@ -10721,12 +10727,14 @@
    "to": "w05-038",
    "mode": "walk",
    "route_basis": "waypoints_only",
-   "route_detail": "PLANNED: Humber Bridge, then east into Hull city centre",
+   "route_detail": "Humber Bridge (1 Nov) → Hessle → east into Hull city centre (Queen Victoria Square, 2 Nov)",
    "companions": [],
    "counts_as_progress": true,
-   "notes": "Planned, not yet walked.",
+   "notes": "Bridge crossed Sun 1 Nov; final day started from Hessle on Mon 2 Nov (BBC). Streets not reported.",
    "sources": [
-    "05:S32"
+    "05:S43",
+    "05:S32",
+    "05:S40"
    ],
    "leg": "05",
    "via": []
@@ -10737,12 +10745,14 @@
    "to": "w05-039",
    "mode": "walk",
    "route_basis": "waypoints_only",
-   "route_detail": "PLANNED: City Hall north to family home",
+   "route_detail": "City Hall north to family home",
    "companions": [],
    "counts_as_progress": true,
-   "notes": "Planned, not yet walked.",
+   "notes": "Walked Mon 2 Nov after the City Hall welcome (AP: 'the final steps across Hull'). Route not reported.",
    "sources": [
-    "05:S32"
+    "05:S40",
+    "05:S41",
+    "05:S44"
    ],
    "leg": "05",
    "via": []
@@ -12600,7 +12610,7 @@
      "source": "05:S39"
     }
    ],
-   "assessment": "Incompatible: walking 130 miles in ~2 days is not credible at his stated 20–25 km/day, and Market Rasen is north of Cambridgeshire. Likely garbled (possibly Barton-upon-Humber, at the south end of the Humber Bridge, and/or '13 miles'), but this is speculation — not plotted. Needs the original ITV text.",
+   "assessment": "Incompatible: walking 130 miles in ~2 days is not credible at his stated 20–25 km/day, and Market Rasen is north of Cambridgeshire. Likely garbled (possibly Barton-upon-Humber, at the south end of the Humber Bridge, and/or '13 miles'), but this is speculation — not plotted. Needs the original ITV text. Update 2026-11-03: BBC reports he crossed the Humber Bridge on Sun 1 Nov (S43), so being near Barton-upon-Humber (south end of the bridge) on 31 Oct is plausible — still not plotted without the original ITV text.",
    "leg": "05"
   },
   {
@@ -12621,9 +12631,21 @@
     {
      "value": "September 2026 (earlier plans)",
      "source": "05:S1"
+    },
+    {
+     "value": "Arrived Mon 2 Nov 2026 (City Hall, then mother's house)",
+     "source": "05:S40"
+    },
+    {
+     "value": "Returned home on Monday (2 Nov 2026)",
+     "source": "05:S42"
+    },
+    {
+     "value": "Getty photo caption: 'arrived home on Sunday'",
+     "source": "05:S44"
     }
    ],
-   "assessment": "Latest official plan (Hull City Council, 26 Oct) is 2 Nov 2026. Earlier dates were plans.",
+   "assessment": "CONFIRMED: arrived Mon 2 Nov 2026 (AP, Reuters/Al Jazeera; ESPN body text). ESPN's Getty caption saying Sunday contradicts its own article and the agency reports; he crossed the Humber Bridge on Sunday 1 Nov (BBC), which may explain the caption. Earlier dates were plans.",
    "leg": "05"
   },
   {
@@ -12896,7 +12918,11 @@
   },
   {
    "leg": "05",
-   "text": "Whether he actually arrives in Hull on 2 Nov 2026 (future relative to today, 2026-11-01)"
+   "text": "Hull finish (2 Nov 2026): actual times of the City Hall welcome and of reaching his mother's home; where he spent the night of 1 Nov; streets walked in Hull"
+  },
+  {
+   "leg": "05",
+   "text": "Route Market Rasen → Humber Bridge (28 Oct – 1 Nov 2026)"
   },
   {
    "leg": "05",
@@ -14303,6 +14329,46 @@
    "publisher": "Brit Brief (apparently rewriting ITV News 31 Oct 2026: https://www.itv.com/news/2026-10-31/adventurer-karl-bushby-48-hours-away-from-completing-epic-28-year-journey, which timed out)",
    "date": "2026-10-31",
    "quote": "travelling near Barton in South Cambridgeshire ... about 130 miles left to go until he can complete his epic 31,000 mile (50,000km) walk (spokesperson) ... final stop ... at Queen Victoria Square ... at 11am on Monday, 2 November"
+  },
+  "05:S40": {
+   "title": "Karl Bushby embraces his mother as he completes his 28-year walk around world",
+   "url": "https://www.pbs.org/newshour/world/karl-bushby-embraces-his-mother-as-he-completes-his-28-year-walk-around-world",
+   "type": "secondary",
+   "publisher": "Associated Press (Brian Melley, Jon Super), via PBS NewsHour",
+   "date": "2026-11-02",
+   "quote": "pushed his cart toward a hero's welcome at City Hall before setting off for the last stretch to see his mother"
+  },
+  "05:S41": {
+   "title": "Karl Bushby completes 28-year, 31,000-mile walk around world",
+   "url": "https://abcnews.com/US/wireStory/karl-bushby-completes-28-year-31000-mile-walk-137766638",
+   "type": "secondary",
+   "publisher": "Associated Press, via ABC News",
+   "date": "2026-11-02",
+   "quote": "hundreds of people cheered his arrival at City Hall ... push his two-wheeled cart the final steps across Hull and reunite with his mother"
+  },
+  "05:S42": {
+   "title": "British adventurer Karl Bushby returns home after 28-year walk around world",
+   "url": "https://www.aljazeera.com/news/2026/11/2/british-adventurer-karl-bushby-returns-home-after-28-year-walk-around-world",
+   "type": "secondary",
+   "publisher": "Al Jazeera Staff and Reuters",
+   "date": "2026-11-02",
+   "quote": "outside her terraced house, in his home city of Hull"
+  },
+  "05:S43": {
+   "title": "Karl Bushby 'overwhelmed' at Humber Bridge welcome",
+   "url": "https://www.aol.com/articles/karl-bushby-overwhelmed-humber-bridge-171822000.html",
+   "type": "secondary",
+   "publisher": "BBC News (Emma Petrie), syndicated on AOL",
+   "date": "2026-11-01",
+   "quote": "crossed the Humber Bridge through thick mist on the final leg ... He will set off from Hessle and walk to Queen Victoria Square"
+  },
+  "05:S44": {
+   "title": "Karl Bushby: Hull City welcome adventurer home after 28-year trek from Chile",
+   "url": "https://www.espn.com/soccer/story/_/id/50356621/hull-city-premier-league-karl-bushby-adventurer-28-year-walk-chile",
+   "type": "secondary",
+   "publisher": "ESPN (Tom Chambers)",
+   "date": "2026-11-02",
+   "quote": "He made his final stop at Queen Victoria Square in the city centre before returning to his mother's house."
   }
  },
  "legs": [

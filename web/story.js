@@ -145,8 +145,8 @@ const STORY = [
   {
     title: '回家', from: '2026-10-08', to: '2026-11-03',
     text: `10 月 8 至 9 日間，他和 Angela Maxwell 從多佛出發北上，10 月 28 日到 Lincolnshire 的 Market Rasen。
-      按照 Hull 市議會公布的計畫，他 11 月 2 日要走過 Humber Bridge，約 11:00 在 Queen Victoria Square 接受歡迎，最後在他母親位於 Sutton Park 的家完成旅程。
-      <span class="unk">本資料產生時（2026-11-01）抵達尚未發生，以上是預定行程。從多佛到 Lincolnshire 的路線也還不清楚。</span>`,
+      11 月 1 日在濃霧中走過 Humber Bridge；<b>11 月 2 日</b>抵達 Hull 市政廳，數百人歡呼迎接，接著走回母親位於 Sutton Park 的家，與母親 Angela 相擁，走完 28 年的旅程（美聯社、路透社、BBC）。
+      <span class="unk">未知：從多佛到 Lincolnshire 的路線，以及抵達市政廳與回到家的確切時刻。</span>`,
     wps: ['w05-036', 'w05-037', 'w05-038', 'w05-039'],
   },
 ];
